@@ -4,21 +4,21 @@ import categories from "./categories";
 
 const productsPerPage = 16;
 
-export const getNewProducts = async (brand, page, category, price_min, price_max) => {
+export const getNewProducts = async (brand, page, category, price_min, price_max, search) => {
     if (brand === "ariston")
-        return getPaginatedProducts(aristonProducts, page, category, price_min, price_max)
+        return getPaginatedProducts(aristonProducts, page, category, price_min, price_max, search)
     else if (brand === "crane")
-        return getPaginatedProducts(craneProducts, page, category, price_min, price_max)
+        return getPaginatedProducts(craneProducts, page, category, price_min, price_max, search)
     else if (brand === "dewalt")
-        return getPaginatedProducts(dewaltProducts, page, category, price_min, price_max)
+        return getPaginatedProducts(dewaltProducts, page, category, price_min, price_max, search)
     else if (brand === "franklin")
-        return getPaginatedProducts(franklinMotors, page, category, price_min, price_max)
+        return getPaginatedProducts(franklinMotors, page, category, price_min, price_max, search)
     else if (brand === "globalWater")
-        return getPaginatedProducts(globalWaterProducts, page, category, price_min, price_max)
+        return getPaginatedProducts(globalWaterProducts, page, category, price_min, price_max, search)
     else if (brand === "grundfos")
-        return getPaginatedProducts(grundfosProducts, page, category, price_min, price_max)
+        return getPaginatedProducts(grundfosProducts, page, category, price_min, price_max, search)
     else {
-        return await getPaginatedRandomProducts(page, category, price_min, price_max);
+        return await getPaginatedRandomProducts(page, category, price_min, price_max, search);
     }
 };
 
@@ -50,9 +50,16 @@ export const getProductsWithQuantity = (items = []) => {
         .filter(Boolean);
 };
 
-const getPaginatedProducts = (products, page, category, price_min, price_max) => {
+const getPaginatedProducts = (products, page, category, price_min, price_max, search) => {
     const startIndex = (page - 1) * productsPerPage;
     const endIndex = startIndex + productsPerPage;
+
+    if (search && search.trim() !== "") {
+        const searchLower = search.toLowerCase();
+        products = products.filter(
+            (item) => item.overview && item.overview.toLowerCase().includes(searchLower)
+        );
+    }
 
     if (category) {
         products = products.filter(
@@ -81,7 +88,7 @@ const getPaginatedProducts = (products, page, category, price_min, price_max) =>
     };
 };
 
-export const getPaginatedRandomProducts = async (page, category, price_min, price_max) => {
+export const getPaginatedRandomProducts = async (page, category, price_min, price_max, search) => {
     const cookieStore = await cookies();
     const cookieKey = "randomProductsByPage";
 
@@ -92,6 +99,13 @@ export const getPaginatedRandomProducts = async (page, category, price_min, pric
     let allProducts = productsSources.flat();
     const total = allProducts.length;
     const totalPages = Math.ceil(total / productsPerPage);
+
+    if (search && search.trim() !== "") {
+        const searchLower = search.toLowerCase();
+        allProducts = allProducts.filter(
+            (item) => item.overview && item.overview.toLowerCase().includes(searchLower)
+        );
+    }
 
     if (category) {
         allProducts = allProducts.filter(

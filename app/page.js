@@ -33,7 +33,7 @@ async function Shop({ searchParams }) {
     { key: "grundfos", label: "Grundfos Pumps", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam nesciunt ab", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423150/Picture1_eivc8u.png" },
   ];
 
-  const { items, cookieKey, stored, total, totalPages } = await getNewProducts(brand, Number(page), category, Number(price_min), Number(price_max));
+  const { items, cookieKey, stored, total, totalPages } = await getNewProducts(brand, Number(page), category, Number(price_min), Number(price_max), search);
 
   return (
     <div className="pb-14 pt-16 max-w-350 mx-auto px-4">
@@ -41,7 +41,7 @@ async function Shop({ searchParams }) {
       <TopFilter items={topFilters} locale={"en"} topFilter={brand} />
       <div id="list" className="flex flex-col md:flex-row min-h-screen relative mt-4">
         {/* <Filters filters={filters} search={search} /> */}
-        <FiltersSection brands={topFilters} />
+        <FiltersSection brands={topFilters} search={search} />
         <div className="flex-1 overflow-y-auto">
           <div className="text-sm font-medium text-gray-700">Showing {items.length.toLocaleString()} out of {total} Results </div>
           {/* No Products */}

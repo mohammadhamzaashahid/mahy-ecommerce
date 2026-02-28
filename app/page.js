@@ -1,6 +1,7 @@
 // import Breadcrumb from "@/components/UI/Breadcrumb";
 
 import FiltersSection from "@/components/UI/shop/FiltersSection";
+import HorizontalFilters from "@/components/UI/shop/HorizontalFilters";
 import Pagination from "@/components/UI/shop/Pagination";
 import ProductCard from "@/components/UI/shop/ProductCard";
 import StoreProductsInCookies from "@/components/UI/shop/StoreProductsInCookies";
@@ -39,6 +40,7 @@ async function Shop({ searchParams }) {
     <div className="pb-14 pt-16 max-w-350 mx-auto px-4">
       {/* <Breadcrumb segments={[{ label: t("Page"), href: "/shop" }]} locale={locale} maxWidth={false} /> */}
       <TopFilter items={topFilters} locale={"en"} topFilter={brand} />
+      <HorizontalFilters items={topFilters} topFilter={brand} />
       <div id="list" className="flex flex-col md:flex-row min-h-screen relative mt-4">
         {/* <Filters filters={filters} search={search} /> */}
         <FiltersSection brands={topFilters} search={search} />

@@ -2,16 +2,18 @@
 
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
+import { useRef } from "react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
 
 function HorizontalFilters({ items }) {
     const searchParams = useSearchParams();
     const active = searchParams.get("brand");
+    const containerRef = useRef(null);
 
     const buildHref = (key) => {
         const params = new URLSearchParams(searchParams.toString());
 
         if (active === key) {
-            // remove filter if clicking active
             params.delete("brand");
         } else {
             params.set("brand", key);
@@ -21,9 +23,28 @@ function HorizontalFilters({ items }) {
         return query ? `/?${query}` : "/";
     };
 
+    const scrollBy = (amount) => {
+        containerRef.current?.scrollBy({
+            left: amount,
+            behavior: "smooth",
+        });
+    };
+
     return (
-        <div className="mt-6 mb-8">
-            <div className="flex flex-wrap gap-x-3 gap-y-2 overflow-x-auto no-scrollbar">
+        <div className="relative mt-6 mb-8">
+            {/* Left Arrow */}
+            <button
+                onClick={() => scrollBy(-250)}
+                className="absolute left-0 top-1/2 -translate-y-1/2 z-10 bg-white shadow-md rounded-full border border-gray-200 p-2"
+            >
+                <ChevronLeft className="h-4 w-4" />
+            </button>
+
+            {/* Scroll Container */}
+            <div
+                ref={containerRef}
+                className="flex gap-3 overflow-x-auto hide-scrollbar px-10 md:px-12"
+            >
                 {items.map((item) => {
                     const isActive = active === item.key;
 
@@ -42,6 +63,14 @@ function HorizontalFilters({ items }) {
                     );
                 })}
             </div>
+
+            {/* Right Arrow */}
+            <button
+                onClick={() => scrollBy(250)}
+                className="absolute right-0 top-1/2 -translate-y-1/2 z-10 bg-white shadow-md border border-gray-200 rounded-full p-2"
+            >
+                <ChevronRight className="h-4 w-4" />
+            </button>
         </div>
     );
 }

@@ -31,7 +31,7 @@ function HorizontalFilters({ items }) {
     };
 
     return (
-        <div className="relative mt-6 mb-8">
+        <div className="relative mt-6 mb-8" suppressHydrationWarning>
             {/* Left Arrow */}
             <button
                 onClick={() => scrollBy(-250)}

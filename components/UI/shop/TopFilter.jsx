@@ -58,9 +58,9 @@ function TopFilter({ items, locale, topFilter }) {
     };
 
     return (
-        <div className='mt-5'>
+        <div className='mt-5' suppressHydrationWarning>
             {/* Horizontal scroll container */}
-            <div className='flex gap-4 flex-nowrap overflow-x-scroll hide-scrollbar' ref={containerRef}>
+            <div className='flex gap-4 flex-nowrap overflow-x-scroll hide-scrollbar' ref={containerRef} suppressHydrationWarning>
                 {items.map((item, i) => (
                     <Card key={i} item={item} />
                 ))}

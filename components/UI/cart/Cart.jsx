@@ -1,11 +1,13 @@
 "use client"
 import React from 'react'
 import CartItem from './CartItem'
-import Link from 'next/link';
 import { LockIcon } from 'lucide-react';
 import Cookies from 'js-cookie';
+import { useRouter } from "next/navigation";
 
 function Cart({ columns, products, currency, totalText, checkout }) {
+    const router = useRouter();
+
     if (products.length === 0)
         return (<div><p>Your cart is empty</p></div>);
 
@@ -15,7 +17,8 @@ function Cart({ columns, products, currency, totalText, checkout }) {
 
     const handleCheckout = () => {
         Cookies.remove("cart");
-    }
+        router.push("/");
+    };
 
     return (
         <div className='grid grid-cols-1 lg:grid-cols-3 gap-10'>

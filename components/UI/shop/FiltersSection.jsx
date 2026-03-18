@@ -37,7 +37,7 @@ function FiltersSection({ brands, search }) {
     }
 
     return (
-        <div>
+        <div suppressHydrationWarning>
             <aside className={`${showFilters ? "opacity-100 px-5 translate-x-0" : "opacity-0 pointer-events-none -translate-x-60"}
             w-5/6 md:w-64 shrink-0 min-h-screen md:h-screen overflow-y-auto bg-white pb-45 md:pb-0 p-6 md:p-0 md:pr-4 space-y-8
             fixed z-40 transition-all duration-500 inset-0 md:sticky scrollbar-hide pt-20 md:pt-0 top-0 md:top-18 md:pointer-events-auto md:opacity-100 md:translate-x-0`}>

@@ -68,7 +68,7 @@ export default function ProductCard({
             </div>
 
             {/* Price */}
-          <div className="flex gap-0.5 mt-3">
+            <div className="flex gap-0.5 mt-3">
               <span className="text-gray-700 font-medium text-xs">{currency}</span>
               <p className="font-medium text-3xl">{price}</p>
             </div>

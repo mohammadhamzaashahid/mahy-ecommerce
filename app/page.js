@@ -37,7 +37,7 @@ async function Shop({ searchParams }) {
   const { items, cookieKey, stored, total, totalPages } = await getNewProducts(brand, Number(page), category, Number(price_min), Number(price_max), search);
 
   return (
-    <div className="pb-14 pt-16 max-w-350 mx-auto px-4">
+    <div className="pb-14 pt-16 max-w-350 mx-auto px-4" suppressHydrationWarning>
       {/* <Breadcrumb segments={[{ label: t("Page"), href: "/shop" }]} locale={locale} maxWidth={false} /> */}
       <TopFilter items={topFilters} locale={"en"} topFilter={brand} />
       <HorizontalFilters items={topFilters} topFilter={brand} />
@@ -45,7 +45,7 @@ async function Shop({ searchParams }) {
         {/* <Filters filters={filters} search={search} /> */}
         <FiltersSection brands={topFilters} search={search} />
         <div className="flex-1 overflow-y-auto">
-          <div className="text-sm font-medium text-gray-700">Showing {items.length.toLocaleString()} out of {total} Results </div>
+          <div className="text-sm font-medium text-gray-700">Showing {items.length} out of {total} Results </div>
           {/* No Products */}
           {items.length === 0 ? (
             <div className="text-center text-gray-500 mt-20">

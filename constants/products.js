@@ -1,6 +1,5 @@
 // import { getTranslations } from "next-intl/server";
 import { cookies } from "next/headers";
-import categories from "./categories";
 
 const productsPerPage = 16;
 
@@ -41,6 +40,7 @@ export const getProductsWithQuantity = (items = []) => {
             if (!product) return null;
 
             return {
+                productId,
                 name: product.overview,
                 price: parseFloat(product.standardPrice),
                 image: product.images[0],

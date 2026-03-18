@@ -79,8 +79,6 @@ async function Shop({ searchParams }) {
           )}
         </div>
       </div>
-      <ToastContainer transition={Slide} autoClose={3000} position="top-right" hideProgressBar
-        toastStyle={{ transition: "all 0.5s ease-in-out", }} />
       <StoreProductsInCookies cookieKey={cookieKey} stored={stored} />
     </div>
   );

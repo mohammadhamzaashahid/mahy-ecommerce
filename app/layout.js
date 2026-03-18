@@ -2,6 +2,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import CartProvider from "@/components/Providers/CartProvider";
 import CartLink from "@/components/UI/CartLink";
+import { Slide, ToastContainer } from "react-toastify";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -47,6 +48,8 @@ export default function RootLayout({ children }) {
         <CartProvider>
           {children}
           <CartLink />
+          <ToastContainer transition={Slide} autoClose={3000} position="top-right" hideProgressBar
+            toastStyle={{ transition: "all 0.5s ease-in-out", }} />
         </CartProvider>
       </body>
     </html>

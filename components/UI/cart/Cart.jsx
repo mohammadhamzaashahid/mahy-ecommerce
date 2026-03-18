@@ -1,28 +1,48 @@
 "use client"
-import React from 'react'
+import React, { useState } from 'react'
 import CartItem from './CartItem'
 import { LockIcon } from 'lucide-react';
 import Cookies from 'js-cookie';
 import { useRouter } from "next/navigation";
+import { toast } from 'react-toastify';
 
-function Cart({ columns, products, currency, totalText, checkout }) {
+function Cart({ columns, initialProducts, currency, totalText, checkout }) {
     const router = useRouter();
+    const [products, setProducts] = useState(initialProducts);
 
-    if (products.length === 0)
-        return (<div><p>Your cart is empty</p></div>);
+    const changeQuantity = (productId, delta) => {
+        const updatedCart = products.map(item => {
+            if (item.productId === productId) {
+                const newQty = item.quantity + delta;
+                return { ...item, quantity: newQty < 1 ? 1 : newQty };
+            }
+            return item;
+        });
+        setProducts(updatedCart);
+        Cookies.set("cart", JSON.stringify(updatedCart), { expires: 7 });
+    };
 
-    const total = products.reduce((sum, product) => {
-        return sum + product.price * product.quantity;
-    }, 0);
+    const removeFromCart = (productId) => {
+        const updatedCart = products.filter(item => item.productId !== productId);
+        setProducts(updatedCart);
+        Cookies.set("cart", JSON.stringify(updatedCart), { expires: 7 });
+        toast.success("Item removed from Cart");
+    };
+
+    const total = products.reduce((sum, product) => sum + product.price * product.quantity, 0);
 
     const handleCheckout = () => {
         Cookies.remove("cart");
+        setProducts([]);
         router.push("/");
     };
 
+    if (products.length === 0)
+        return <div><p className='text-center py-10'>Your cart is empty</p></div>;
+
     return (
         <div className='grid grid-cols-1 lg:grid-cols-3 gap-10'>
-            <div className='lg:col-span-2'>
+            <div className='lg:col-span-2 overflow-x-scroll hide-scrollbar'>
                 <table className='w-full'>
                     <thead>
                         <tr className='uppercase text-gray-600 text-sm'>
@@ -32,8 +52,12 @@ function Cart({ columns, products, currency, totalText, checkout }) {
                         </tr>
                     </thead>
                     <tbody>
-                        {products.map((item, i) => (
-                            <CartItem key={i} item={item} />
+                        {products.map((item) => (
+                            <CartItem
+                                key={item.productId}
+                                item={item}
+                                changeQuantity={changeQuantity}
+                                removeFromCart={removeFromCart} />
                         ))}
                     </tbody>
                 </table>
@@ -44,7 +68,7 @@ function Cart({ columns, products, currency, totalText, checkout }) {
                         <p className='uppercase text-gray-700 text-sm'>{totalText}</p>
                         <div className='flex items-center gap-2'>
                             <span className='text-4xl'>{total}</span>
-                            <p className=''>{currency}</p>
+                            <p>{currency}</p>
                         </div>
                     </div>
                     <div className='flex justify-center'>

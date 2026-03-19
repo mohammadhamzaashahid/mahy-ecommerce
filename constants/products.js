@@ -183,11 +183,11 @@ const aristonProducts = [
         about: [
             "Water heater designed and manufactured to be installed in UK",
             "Economy' setting on the dial to optimise comfort and energy saving",
-            "Titanium enamelled tank for durability: This premium quality water heater the best tank protection with the properties of titanium, wich constitutes a perfect shield against corrosion. Every single component is developed to ensure longlasting high performance with the guarantee of Ariston Brand",
-            "Maximum Comfort: Andris series products are able to keep the water hot for a long time thanks to the thick high-density polyurethane insulation placed in the tank and the outside of the water heater. It provides an effective barrier against heat losses, optimizing both the performance of the product and the usersâ€ comfort. The models of the Andris series are equipped with an immersion thermostat, which allows a very precise adjustment of the water temperature, heating it to the desired point",
+            "Titanium enamelled tank for durability: This premium quality water heater the best tank protection with the properties of titanium, which constitutes a perfect shield against corrosion. Every single component is developed to ensure longlasting high performance with the guarantee of Ariston Brand",
+            "Maximum Comfort: Andris series products are able to keep the water hot for a long time thanks to the thick high-density polyurethane insulation placed in the tank and the outside of the water heater. It provides an effective barrier against heat losses, optimizing both the performance of the product and the user's comfort. The models of the Andris series are equipped with an immersion thermostat, which allows a very precise adjustment of the water temperature, heating it to the desired point",
             "Installation kits to be purchased separately"
         ],
-        description: "The Andris R is an unvented electric storage water heater and part of Ariston's market-leading Andris range. This easy to install entry model offers impressive hot water performance and fast reheat times. Safety, durability, and design are what the Andris Lux range stands for, making it perfect for comfort ina myriad of domestic and light commercial applications. Its compact, light-weight body and front panel are the finest composition of Italian design, studied to compliment any environment. The front panel takes centre-stage with the Ariston wave, equipped with a mechanical dial for simple usability, and an Ariston red heating lamp. The Andris R is available in 10 and 15 litre versions and unvented installation kits are available separately. While boasting an elegant design by Italian designer Umberto Palermo, this compact water heating unit, also promises extra durability through a copper heating element, ensures optimum water efficiency through the Flexomix technology, and total safety guaranteed by all ARISTON products all over the world. Please note that this product specifically complies with regulations on the UK market and is KIWA certified.",
+        description: "The Andris R is an unvented electric storage water heater and part of Ariston's market-leading Andris range. This easy to install entry model offers impressive hot water performance and fast reheat times. Safety, durability, and design are what the Andris Lux range stands for, making it perfect for comfort in a myriad of domestic and light commercial applications. Its compact, light-weight body and front panel are the finest composition of Italian design, studied to compliment any environment. The front panel takes centre-stage with the Ariston wave, equipped with a mechanical dial for simple usability, and an Ariston red heating lamp. The Andris R is available in 10 and 15 litre versions and unvented installation kits are available separately. While boasting an elegant design by Italian designer Umberto Palermo, this compact water heating unit, also promises extra durability through a copper heating element, ensures optimum water efficiency through the Flexomix technology, and total safety guaranteed by all ARISTON products all over the world. Please note that this product specifically complies with regulations on the UK market and is KIWA certified.",
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "10 Liters" },
@@ -212,11 +212,7 @@ const aristonProducts = [
             { title: "Plug Profile", text: "Wall" },
             { title: "Special Features", text: "Fast Heating" },
             { title: "Included components", text: "Pressure relief valve, dielectric junctions, wall bracket, installation manual, warranty certificate" },
-            { title: "Batteries Required", text: "No" },
-            { title: "Brand", text: "Ariston" },
-            { title: "Brand", text: "Ariston" },
-            { title: "Brand", text: "Ariston" },
-            { title: "Brand", text: "Ariston" },
+            { title: "Batteries Required", text: "No" }
         ]
     },
     {
@@ -248,6 +244,10 @@ const aristonProducts = [
             { title: "Power source", text: "Corded Electric" },
             { title: "Product dimensions", text: "15W x 8H centimetres" },
             { title: "Special features", text: "High Water Pressure Protection, LED Display, Low Water Flow Protection, Overheat Protection" }
+        ],
+        bullets: [
+            "Date First Available: 28 January 2019",
+            "ASIN: B07QCK22JW"
         ],
         technical: [
             { title: "Manufacturer", text: "Ariston" },
@@ -389,6 +389,10 @@ const aristonProducts = [
             "Indicator Lights"
         ],
         description: "Compact in terms of design, it scores high on the aspect of utility too. This is what makes it worth the buy.",
+        bullets: [
+            "Date First Available: 28 January 2019",
+            "ASIN: B07QCK22JW"
+        ],
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "15 Liters" },
@@ -437,12 +441,7 @@ const aristonProducts = [
             "Brand: Ariston",
             "Quantity - 30 Liter",
             "Seamless functionality",
-            "Hygienic packaging",
-            "Temperature regulation",
-            "Glass lined inner tank tested at 16 bars",
-            "Oversized magnesium anode",
-            "Pressure safety valve tested at 8 bar",
-            "Copper heating element"
+            "Hygienic packaging"
         ],
         description: "Temperature regulation. Glass lined inner tank tested at 16 bars. Oversized magnesium anode. Pressure safety valve tested at 8 bar. Copper heating element.",
         specs: [
@@ -483,7 +482,11 @@ const aristonProducts = [
         about: [
             "Electric Water Heater"
         ],
-        description: "Electric Water Heater",
+        bullets: [
+            "Is Discontinued By Manufacturer: No",
+            "Date First Available : 9 August 2025",
+            "ASIN: B07MJ8BQD7"
+        ],
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "50 Liters" },
@@ -508,8 +511,8 @@ const aristonProducts = [
             { title: "Maximum Pressure", text: "8 Bars" },
             { title: "Plug Profile", text: "Wall" },
             { title: "Included components", text: "Dielectric connectors not included" },
-            { title: "Batteries Required", text: "No" },
-            { title: "ASIN", text: "B07MJ8BQD7" }
+            { title: "Batteries Included?", text: "No" },
+            { title: "Batteries Required?", text: "No" }
         ]
     },
     {
@@ -532,8 +535,10 @@ const aristonProducts = [
         about: [
             "Item Category: Water Heater",
             "Item Trademark: Ariston",
-            "Manufacturer: Ariston",
-            "WaterPlus Technology: up to 16% more hot water available",
+            "Manufacturer: Ariston"
+        ],
+        bullets: [
+            "WaterPlus Technology: up to 16% more hot water available.",
             "Compliant with top regulations",
             "External Temperature Setting",
             "Double Safety Thermostat",
@@ -542,9 +547,8 @@ const aristonProducts = [
             "High Quality titanium enameled tank",
             "7 Years Tank Warranty",
             "Designed in Italy",
-            "Modern shape with 'Ariston Wave'"
+            "Modern shape with 'Ariston Wave'."
         ],
-        description: "WaterPlus Technology: up to 16% more hot water available. Compliant with top regulations. External Temperature Setting. Double Safety Thermostat. Robust Insulation Material (Polyurethane). Magnesium anode to fight corrosion. High Quality titanium enameled tank. 7 Years Tank Warranty. Designed in Italy. Modern shape with 'Ariston Wave'.",
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "80 Liters" },
@@ -588,12 +592,16 @@ const aristonProducts = [
             "High-thickness polyurethane thermal insulation isolation minimizes the thermal loss and limits the electric energy use"
         ],
         description: "Ariston Vertical Water Heater PRO1 R,50L",
+        bullets: [
+            "Date First Available: 18 May 2019",
+            "ASIN: B07S3R2B3X"
+        ],
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "50 Liters" },
             { title: "Power source", text: "Corded Electric" },
             { title: "Product dimensions", text: "55W x 80H centimetres" },
-            { title: "Colour", text: "WHITE" }
+            { title: "Colour", text: "White" }
         ],
         technical: [
             { title: "Manufacturer", text: "Italy" },
@@ -601,7 +609,7 @@ const aristonProducts = [
             { title: "Item Weight", text: "28.1 Kilograms" },
             { title: "Product Dimensions", text: "55 x 55 x 80 cm; 28.12 kg" },
             { title: "Item model number", text: "A-PRO/R-50L" },
-            { title: "Color", text: "WHITE" },
+            { title: "Color", text: "White" },
             { title: "Style", text: "Indoor Installation" },
             { title: "Material", text: "Titanium" },
             { title: "Power source type", text: "Corded Electric" },
@@ -611,8 +619,7 @@ const aristonProducts = [
             { title: "Flow Rate", text: "50 Liters Per Minute" },
             { title: "Plug Profile", text: "Wall" },
             { title: "Included components", text: "SAFETY VALVE" },
-            { title: "Batteries Required", text: "No" },
-            { title: "ASIN", text: "B07S3R2B3X" }
+            { title: "Batteries Required", text: "No" }
         ]
     },
     {
@@ -640,6 +647,10 @@ const aristonProducts = [
             "Comes in a proper and secure packaging"
         ],
         description: "Ariston PRO1 Vertical Water Heater (80L)",
+        bullets: [
+            "Date First Available: 18 May 2019",
+            "ASIN:B07S2QPC13"
+        ],
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "80 Liters" },
@@ -659,9 +670,8 @@ const aristonProducts = [
             { title: "Power source type", text: "Corded Electric" },
             { title: "Item Package Quantity", text: "1" },
             { title: "Plug Profile", text: "Floor" },
-            { title: "Included components", text: "SAFETY VALVE" },
-            { title: "Batteries Required", text: "No" },
-            { title: "ASIN", text: "B07S2QPC13" }
+            { title: "Included components", text: "Safety Valve" },
+            { title: "Batteries Required", text: "No" }
         ]
     },
     {
@@ -686,7 +696,17 @@ const aristonProducts = [
             "Item Trademark: Ariston",
             "Manufacturer: Ariston"
         ],
-        description: "Ariston Electric Water Heater 100 Litter Horizontal Pro-R Italy",
+        bullets: [
+            "Weight: 25KG",
+            "Depth: 480mm",
+            "Height: 450mm",
+            "Width: 913mm",
+            "Model Number: PRO-R 100H",
+            "Water Heater Type: Tank Water Heater",
+            "Power Source Type: Electric",
+            "Brand: Ariston",
+            "Country of Origin: Italy"
+        ],
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "100 Liters" },
@@ -702,13 +722,7 @@ const aristonProducts = [
             { title: "Capacity", text: "100 Liters" },
             { title: "Material", text: "Stainless Steel" },
             { title: "Special Features", text: "High Water Pressure Protection, Integrated Error Code Indicator, Overheat Protection" },
-            { title: "Weight", text: "25KG" },
-            { title: "Depth", text: "480mm" },
-            { title: "Height", text: "450mm" },
-            { title: "Width", text: "913mm" },
-            { title: "Water Heater Type", text: "Tank Water Heater" },
-            { title: "Power Source Type", text: "Electric" },
-            { title: "Country of Origin", text: "Italy" }
+            { title: "Item Weight", text: "150 g" }
         ]
     },
     {
@@ -774,7 +788,7 @@ const aristonProducts = [
             "Capacity: 80 liters",
             "Brand: Ariston"
         ],
-        description: "BLU R 80 Liters Vertical Installation Electric Water Heater COMFORT External temperature regulation EFFICIENCY & ENERGY SAVING Extra thick polyurethane insulation.",
+        description: "BLU R 80 Liters Vertical Installation Electric Water Heater COMFORT External temperature regulation EFFICIENCY & ENERGY SAVING Extra thick polyurethane insulation. High thickness steel tank d at 16 bar Oversized magnesium anode Original Ariston thermostat with built-in safety device External thermometer Pressure safety valve rated at 8 bar DESIGN Wall-hung.",
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "80 Liters" },
@@ -861,7 +875,18 @@ const aristonProducts = [
             "Extra thick polyurethane insulation",
             "External temperature regulation"
         ],
-        description: "Brand: Ariston. Colour: White. Weight: 17 Kg. Depth: 480MM. Height: 450MM. Width: 603MM. Power Source Type: Electric. Water Heater Type: Tank Water Heater. Model Number: BLU-R 50LH. Capacity: 50 Liter.",
+        bullets: [
+            "Brand: Ariston",
+            "Colour: White",
+            "Weight: 17 Kg",
+            "Depth: 480MM",
+            "Height: 450MM",
+            "Width: 603MM",
+            "Power Source Type: Electric",
+            "Water Heater Type: Tank Water Heater",
+            "Model Number: BLU-R 50LH",
+            "Capacity: 50 Liter"
+        ],
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "50 Liters" },
@@ -877,12 +902,6 @@ const aristonProducts = [
             { title: "Capacity", text: "50 Liters" },
             { title: "Material", text: "Alloy Steel" },
             { title: "Item Weight", text: "150 g" },
-            { title: "Weight", text: "17 Kg" },
-            { title: "Depth", text: "480MM" },
-            { title: "Height", text: "450MM" },
-            { title: "Width", text: "603MM" },
-            { title: "Power Source Type", text: "Electric" },
-            { title: "Water Heater Type", text: "Tank Water Heater" }
         ]
     },
     {
@@ -962,6 +981,10 @@ const aristonProducts = [
             { title: "Product dimensions", text: "96.1W x 45H centimeters" },
             { title: "Special features", text: "High Water Pressure Protection" }
         ],
+        bullets: [
+            "Date First Available: 9 January 2019",
+            "ASIN: B07MQ9QD35"
+        ],
         technical: [
             { title: "Manufacturer", text: "Ariston" },
             { title: "Part number", text: "BLU-R 100LH" },
@@ -976,8 +999,7 @@ const aristonProducts = [
             { title: "Maximum Pressure", text: "8 Bars" },
             { title: "Plug Profile", text: "Wall" },
             { title: "Special Features", text: "High Water Pressure Protection" },
-            { title: "Batteries Required", text: "No" },
-            { title: "ASIN", text: "B07MQ9QD35" }
+            { title: "Batteries Required", text: "No" }
         ]
     },
     {
@@ -1004,12 +1026,16 @@ const aristonProducts = [
             "High-thickness polyurethane thermal insulation isolation minimizes the thermal loss and limits the electric energy use"
         ],
         description: "Ariston Vertical Water Heater PRO1 R, 50L",
+        bullets: [
+            "Date First Available: 18 May 2019",
+            "ASIN: B07S3R2B3X"
+        ],
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "50 Liters" },
             { title: "Power source", text: "Corded Electric" },
             { title: "Product dimensions", text: "55W x 80H centimetres" },
-            { title: "Colour", text: "WHITE" }
+            { title: "Colour", text: "White" }
         ],
         technical: [
             { title: "Manufacturer", text: "Italy" },
@@ -1027,8 +1053,7 @@ const aristonProducts = [
             { title: "Flow Rate", text: "50 Liters Per Minute" },
             { title: "Plug Profile", text: "Wall" },
             { title: "Included components", text: "SAFETY VALVE" },
-            { title: "Batteries Required", text: "No" },
-            { title: "ASIN", text: "B07S3R2B3X" }
+            { title: "Batteries Required", text: "No" }
         ]
     },
     {
@@ -1056,6 +1081,10 @@ const aristonProducts = [
             "Comes in a proper and secure packaging"
         ],
         description: "Ariston PRO1 Vertical Water Heater (80L)",
+        bullets: [
+            "Date First Available: 18 May 2019",
+            "ASIN: B07S2QPC13"
+        ],
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "80 Liters" },
@@ -1069,15 +1098,14 @@ const aristonProducts = [
             { title: "Item Weight", text: "37 Kilograms" },
             { title: "Product Dimensions", text: "150 x 150 x 150 cm; 37 kg" },
             { title: "Item model number", text: "PRO/R-80L" },
-            { title: "Color", text: "white" },
-            { title: "Style", text: "tank" },
+            { title: "Color", text: "White" },
+            { title: "Style", text: "Tank" },
             { title: "Material", text: "Titanium" },
             { title: "Power source type", text: "Corded Electric" },
             { title: "Item Package Quantity", text: "1" },
             { title: "Plug Profile", text: "Floor" },
-            { title: "Included components", text: "SAFETY VALVE" },
-            { title: "Batteries Required", text: "No" },
-            { title: "ASIN", text: "B07S2QPC13" }
+            { title: "Included components", text: "Safety Valve" },
+            { title: "Batteries Required", text: "No" }
         ]
     },
     {
@@ -1102,7 +1130,17 @@ const aristonProducts = [
             "Item Trademark: Ariston",
             "Manufacturer: Ariston"
         ],
-        description: "Weight: 25KG. Depth: 480mm. Height: 450mm. Width: 913mm. Model Number: PRO-R 100H. Water Heater Type: Tank Water Heater. Power Source Type: Electric. Brand: Ariston. Country of Origin: Italy.",
+        bullets: [
+            "Weight: 25KG",
+            "Depth: 480mm",
+            "Height: 450mm",
+            "Width: 913mm",
+            "Model Number: PRO-R 100H",
+            "Water Heater Type: Tank Water Heater",
+            "Power Source Type: Electric",
+            "Brand: Ariston",
+            "Country of Origin: Italy"
+        ],
         specs: [
             { title: "Brand", text: "Ariston" },
             { title: "Capacity", text: "100 Liters" },
@@ -1113,19 +1151,12 @@ const aristonProducts = [
         technical: [
             { title: "Brand", text: "Ariston" },
             { title: "Model Number", text: "PRO-R 100H" },
-            { title: "Color", text: "white" },
+            { title: "Color", text: "White" },
             { title: "Product Dimensions", text: "91.3 x 91.3 x 45 cm; 150 g" },
             { title: "Capacity", text: "100 Liters" },
             { title: "Material", text: "Stainless Steel" },
             { title: "Special Features", text: "High Water Pressure Protection, Integrated Error Code Indicator, Overheat Protection" },
-            { title: "Item Weight", text: "150 g" },
-            { title: "Weight", text: "25KG" },
-            { title: "Depth", text: "480mm" },
-            { title: "Height", text: "450mm" },
-            { title: "Width", text: "913mm" },
-            { title: "Water Heater Type", text: "Tank Water Heater" },
-            { title: "Power Source Type", text: "Electric" },
-            { title: "Country of Origin", text: "Italy" }
+            { title: "Item Weight", text: "150 g" }
         ]
     }
 ];
@@ -1138,14 +1169,15 @@ const craneProducts = [
         overview: "CRANE D151 1/2\" GATE VALVE HANDWHEEL OPERATED BRONZE BODY & DISC WRAS BSPT PN20",
         standardPrice: "35.70",
         amazonPrice: "",
-        weight: "0.269",
         freightCharges: "",
         sellingPriceWithFreight: "",
         newAmazonSellingPrice: "",
         brand: "CRANE",
         amazonLink: "",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769418510/valve_converted_xgfz0v.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769418510/valve_converted_xgfz0v.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773846975/image6_axtngx.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773846976/image5_chx06a.png"
         ],
         about: [
             "Crane gate valves offer the ultimate in dependable service wherever minimum pressure drop is important",
@@ -1153,6 +1185,10 @@ const craneProducts = [
             "WRAS approved for use on wholesome (potable) water"
         ],
         description: "Bronze Gate Valve, Non-Rising Stem, Solid Wedge, Screwed Bonnet, in accordance with BS EN 12288:2010, PN20 rated. Body, Bonnet and disc to Bronze to BS EN 1982 CC491K. Valves are manufactured in accordance with BS EN 12288: 2010 PN20 Series B and are BSI Kitemark approved.",
+        features: [
+            { title: "Operator", text: "Handwheel. Gate valves are best for services that require infrequent valve operation, and where the disc is kept either fully opened or fully closed. They are not practical for throttling." },
+            { title: "Specification", text: "Solid wedge disc, non-rising stem, screwed in bonnet. Valves are manufactured in accordance with BS EN 12288: 2010 PN20 Series B and are BSI Kitemark approved. This valve is not suitable for use on group 1 gases or unstable fluids, as defined by the Pressure Equipment Directive 97/23/EC" }
+        ],
         specs: [
             { title: "Brand", text: "Crane" },
             { title: "Size", text: "1/2\"" },
@@ -1164,14 +1200,25 @@ const craneProducts = [
             { title: "Manufacturer", text: "Crane" },
             { title: "Part Number", text: "0EA04306P" },
             { title: "Item Number", text: "D151" },
-            { title: "Item Weight", text: "0.269 kg" },
-            { title: "Dimensions", text: "50mm x 78mm x 52.5mm" },
-            { title: "Body Material", text: "Bronze BS EN 1982 CC491K" },
-            { title: "Stem Material", text: "DZR Brass BS EN 12164 CW602N" },
-            { title: "Disc Material", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Body", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Bonnet", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Stem", text: "DZR Brass BS EN 12164 CW602N" },
+            { title: "Stem", text: "Manganese Bronze" },
+            { title: "Disc", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Stem Retainer", text: "DZR Brass BS EN 12164 CW602N" },
+            { title: "Stuffing Box", text: "DZR Brass BS EN 12164 CW602N" },
+            { title: "Stuffing Box", text: "Bronze BS EN 1982 CC491K" },
             { title: "Packing", text: "Asbestos Free" },
-            { title: "UK End Connection", text: "Taper threaded to BS EN 10226-2 (ISO 7-1)" },
-            { title: "Operator", text: "Handwheel" }
+            { title: "Packing Gland", text: "Brass BS EN 12164 CW614N" },
+            { title: "Packing Gland Nut", text: "Brass BS EN 12164 CW614N" },
+            { title: "Packing Gland", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Packing Nut", text: "Brass BS EN 12164 CW614N" },
+            { title: "Packing Nut", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Handwheel", text: "Aluminium" },
+            { title: "Handwheel", text: "Malleable Iron BS EN 1562 GJMB-300-6" },
+            { title: "ID Plate", text: "Aluminium" },
+            { title: "Handwheel Nut", text: "Brass BS EN 12164 CW614N" },
+            { title: "Gasket", text: "Asbestos Free" }
         ]
     },
     {
@@ -1182,10 +1229,10 @@ const craneProducts = [
         overview: "CRANE D151 3/4\" GATE VALVE HANDWHEEL OPERATED BRONZE BODY & DISC WRAS BSPT PN20",
         standardPrice: "51.40",
         amazonPrice: "",
-        weight: "0.5",
         freightCharges: "",
         sellingPriceWithFreight: "",
         newAmazonSellingPrice: "",
+        weight: "0.5",
         brand: "CRANE",
         amazonLink: "https://www.amazon.ae/dp/B0D9B9YVVC",
         images: [
@@ -1199,20 +1246,26 @@ const craneProducts = [
             "Disc Material: Bronze"
         ],
         description: "WRAS Approved Bronze Gate Valve, body, disc and wedge material in bronze, DZR brass stem, PTFE packing, PN20 rated, threaded ends to ISO 228/1",
+        bullets: [
+            "Date First Available: 12 July 2024",
+            "Manufacturer: Generic",
+            "ASIN: B0D9B9YVVC"
+        ],
         specs: [
-            { title: "Brand", text: "Generic" },
-            { title: "Size", text: "PN20 3/4''" },
             { title: "Material", text: "Bronze" },
-            { title: "Colour", text: "Golden" },
-            { title: "Exterior Finish", text: "Bronze" }
+            { title: "Brand", text: "Generic" },
+            { title: "Item dimensions", text: "9.2 x 4.9 x 9.2 centimetres" },
+            { title: "Exterior finish", text: "Bronze" },
+            { title: "Manufacturer", text: "Generic" },
         ],
         technical: [
             { title: "Manufacturer", text: "Generic" },
             { title: "Part Number", text: "0EA04307Q" },
             { title: "Item Weight", text: "500 g" },
             { title: "Product Dimensions", text: "9.2 x 4.9 x 9.2 cm" },
-            { title: "Item Model Number", text: "3/4''" },
-            { title: "ASIN", text: "B0D9B9YVVC" },
+            { title: "Item Model Number", text: "3/4\"" },
+            { title: "Size", text: "PN20 3/4''" },
+            { title: "Colour", text: "Golden" },
             { title: "Included Components", text: "Valve" }
         ]
     },
@@ -1224,7 +1277,6 @@ const craneProducts = [
         overview: "CRANE D151 1\" GATE VALVE HANDWHEEL OPERATED BRONZE BODY & DISC WRAS BSPT PN20",
         standardPrice: "74.60",
         amazonPrice: "",
-        weight: "0.593",
         freightCharges: "",
         sellingPriceWithFreight: "",
         newAmazonSellingPrice: "",
@@ -1232,7 +1284,9 @@ const craneProducts = [
         amazonLink: "",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769418513/valve_image_1_unlxgk.png",
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769418511/valve_image_2_m2kupy.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769418511/valve_image_2_m2kupy.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773848383/image5_vowunv.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773848381/image6_aovvxf.png"
         ],
         about: [
             "Crane gate valves offer the ultimate in dependable service wherever minimum pressure drop is important",
@@ -1244,7 +1298,14 @@ const craneProducts = [
             "Body, bonnet and disc are made from low lead content bronze, typically 4-6%",
             "Conforms with BS EN12288:2010 and generally conforms with MSS SP 80"
         ],
-        description: "Bronze Gate Valve, Non-Rising Stem, Solid Wedge, Screwed Bonnet, in accordance with BS EN 12288:2010, PN20 rated. Body, Bonnet and disc to Bronze to BS EN 1982 CC491K. DZR Brass Stem to CW602N. PTFE packing ring complete with Brass packing gland and nut design. WRAS approved and BSI Kitemark approved.",
+        description: "Bronze Gate Valve, Non-Rising Stem, Solid Wedge, Screwed Bonnet, in accordance with BS EN 12288:2010, PN20 rated. Body, Bonnet and disc to Bronze to BS EN 1982 CC491K. DZR Brass Stem to CW602N. PTFE packing ring complete with Brass packing gland and nut design. WRAS approved and BSI Kitemark approved. Gate valves are best for services that require infrequent valve operation, and where the disc is kept either fully opened or fully closed. They are not practical for throttling.",
+        features: [
+            { title: "UK End Connection", text: "Taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21" },
+            { title: "US End Connection", text: "ANSI B1.20.1" },
+            { title: "Operator", text: "Handwheel" },
+            { title: "Specification", text: "Bronze Gate Valve, Non-Rising Stem, Solid Wedge, Screwed Bonnet, in accordance with BS EN 12288:2010, PN20 rated. Body, Bonnet and disc to Bronze to BS EN 1982 CC491K. DZR Brass Stem to CW602N. PTFE packing ring complete with Brass packing gland and nut design. WRAS approved and BSI Kitemark approved." },
+            { title: "MSS SP80 Conformance", text: "D151 meets the essential requirements of the Standard such as pressure temperature rating, functional attributes, material of construction, wall thickness and thread depth. D151.AT complies with end connections as well." },
+        ],
         specs: [
             { title: "Brand", text: "Crane" },
             { title: "Size", text: "1\"" },
@@ -1256,15 +1317,25 @@ const craneProducts = [
             { title: "Manufacturer", text: "Crane" },
             { title: "Part Number", text: "0EA04308R" },
             { title: "Item Number", text: "D151" },
-            { title: "Item Weight", text: "0.593 kg" },
-            { title: "Dimensions", text: "62mm x 105mm x 65mm" },
-            { title: "Body Material", text: "Bronze BS EN 1982 CC491K" },
-            { title: "Stem Material", text: "DZR Brass BS EN 12164 CW602N" },
-            { title: "Disc Material", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Body", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Bonnet", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Stem", text: "DZR Brass BS EN 12164 CW602N" },
+            { title: "Stem", text: "Manganese Bronze" },
+            { title: "Disc", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Stem Retainer", text: "DZR Brass BS EN 12164 CW602N" },
+            { title: "Stuffing Box", text: "DZR Brass BS EN 12164 CW602N" },
+            { title: "Stuffing Box", text: "Bronze BS EN 1982 CC491K" },
             { title: "Packing", text: "Asbestos Free" },
-            { title: "UK End Connection", text: "Taper threaded to BS EN 10226-2 (ISO 7-1)" },
-            { title: "US End Connection", text: "ANSI B1.20.1" },
-            { title: "Operator", text: "Handwheel" }
+            { title: "Packing Gland", text: "Brass BS EN 12164 CW614N" },
+            { title: "Packing Gland Nut", text: "Brass BS EN 12164 CW614N" },
+            { title: "Packing Gland", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Packing Nut", text: "Brass BS EN 12164 CW614N" },
+            { title: "Packing Nut", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Handwheel", text: "Aluminium" },
+            { title: "Handwheel", text: "Malleable Iron BS EN 1562 GJMB-300-6" },
+            { title: "ID Plate", text: "Aluminium" },
+            { title: "Handwheel Nut", text: "Brass BS EN 12164 CW614N" },
+            { title: "Gasket", text: "Asbestos Free" }
         ]
     },
     {
@@ -1286,23 +1357,21 @@ const craneProducts = [
         ],
         about: [
             "Crane gate valves offer the ultimate in dependable service wherever minimum pressure drop is important",
-            "The D151 carries the British Standards Institution kitemark – your assurance of exacting quality standards",
+            "The D151 carries the British Standards Institution kitemark - your assurance of exacting quality standards",
             "WRAS approved for use on wholesome (potable) water in sizes 1/2\"-2\" only"
         ],
         description: "PN20 Bronze Gate Valve with taper threaded connection to BS EN 10226-2 (ISO 7-1) formerly BS 21. Available in sizes 1/4\" to 4\".",
         specs: [
             { title: "Brand", text: "Crane" },
             { title: "Size", text: "1.1/4\"" },
-            { title: "Valve Body Material", text: "Bronze" },
             { title: "Pressure Class", text: "PN20" },
-            { title: "Connection Type", text: "Taper threaded to BS EN 10226-2 (ISO 7-1)" }
+            { title: "Connection Type", text: "Taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21" },
+            { title: "Valve Body Material", text: "Bronze" }
         ],
         technical: [
             { title: "Manufacturer", text: "Crane" },
             { title: "Part Number", text: "0EA04309S" },
             { title: "Item Number", text: "D151" },
-            { title: "Item Weight", text: "0.844 kg" },
-            { title: "Dimensions", text: "71mm x 111mm x 70mm" },
             { title: "Size Range", text: "1/4\" to 4\"" }
         ]
     },
@@ -1318,7 +1387,8 @@ const craneProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420943/Picture1_b8bwbg.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420945/Picture2_v8o8vd.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420960/Picture3_q2kecj.png",
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420953/Picture4_e1cd1j.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420953/Picture4_e1cd1j.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773829601/0JG90606A_wfaqb4.png"
         ],
         about: [
             "These are Y-Pattern globe valves supplied with two pressure test points P84 to provide flow measurement, regulation and isolation",
@@ -1327,10 +1397,11 @@ const craneProducts = [
             "Accuracy of flow measurement is ±10% at the full open position of the valve",
             "Some reduction in accuracy occurs at partial openings of the valve in accordance with BS 7350"
         ],
-        description: "Variable Orifice Double Regulating Valve (DRV) – Ductile Iron. These are Y-Pattern globe valves supplied with two pressure test points P84 to provide flow measurement, regulation and isolation.",
+        description: "Variable Orifice Double Regulating Valve (DRV) - Ductile Iron. These are Y-Pattern globe valves supplied with two pressure test points P84 to provide flow measurement, regulation and isolation.",
         specs: [
             { title: "Size Range", text: "DN65 to DN300" },
             { title: "Pressure Rating", text: "PN16" },
+            { title: "Flow rate", text: "Please see Flow Measurement Graphs" },
             { title: "Temperature Rating", text: "10 - 120°C" },
             { title: "End Connections", text: "Flanged" },
             { title: "Material", text: "Ductile Iron" }
@@ -1359,7 +1430,8 @@ const craneProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420962/Picture1_da7q6l.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420964/Picture2_d05p1v.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420974/Picture3_fa3lpk.png",
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420967/Picture4_c9azai.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420967/Picture4_c9azai.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773856587/image2_ld16ry.png"
         ],
         about: [
             "These are Y-Pattern globe valves supplied with two pressure test points P84 to provide flow measurement, regulation and isolation",
@@ -1368,10 +1440,11 @@ const craneProducts = [
             "Accuracy of flow measurement is ±10% at the full open position of the valve",
             "Some reduction in accuracy occurs at partial openings of the valve in accordance with BS 7350"
         ],
-        description: "DM931 Variable Orifice Double Regulating Valve (DRV) – Ductile Iron DN65 to DN300.",
+        description: "DM931 Variable Orifice Double Regulating Valve (DRV) - Ductile Iron DN65 to DN300.",
         specs: [
             { title: "Size Range", text: "DN65 to DN300" },
             { title: "Pressure Rating", text: "PN16" },
+            { title: "Flow rate", text: "Please see Flow Measurement Graphs" },
             { title: "Temperature Rating", text: "10 - 120°C" },
             { title: "End Connections", text: "Flanged" },
             { title: "Material", text: "Ductile Iron" }
@@ -1383,6 +1456,10 @@ const craneProducts = [
             { title: "Disc", text: "EPDM, Coated Cast Iron" },
             { title: "Disc Bush", text: "Bronze" },
             { title: "Stem", text: "410 SS" },
+            { title: "Stem", text: "410 SS" },
+            { title: "Gland (65 to 150mm)", text: "Brass" },
+            { title: "Gland (200 to 300mm)", text: "Cast Iron " },
+            { title: "Gland Nut", text: "Brass" },
             { title: "Packing", text: "Non-asbestos" },
             { title: "Seat Ring", text: "Bronze" }
         ]
@@ -1396,7 +1473,8 @@ const craneProducts = [
         standardPrice: "30.30",
         brand: "CRANE",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420980/Screenshot_2026-01-23_162658_oofjyl.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420980/Screenshot_2026-01-23_162658_oofjyl.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773856991/image2_t34uie.png"
         ],
         about: [
             "A generous use of pipeline strainers will make a significant contribution to the reliability of a piping system and to optimise performance of the equipment - pumps, valves, flow measuring devices, traps etc",
@@ -1404,7 +1482,7 @@ const craneProducts = [
         ],
         description: "D298 Bronze Strainer with SS304 mesh, WRAS approved, BSPT connection, PN16 rated.",
         specs: [
-            { title: "Size", text: "1/2\" (DN15)" },
+            { title: "Size", text: "1/2\"" },
             { title: "Pressure Rating", text: "PN16" },
             { title: "Temperature Rating", text: "-10 to 100°C" },
             { title: "WRAS Approval", text: "-10 to 85°C" },
@@ -1415,9 +1493,7 @@ const craneProducts = [
             { title: "Mesh", text: "Stainless Steel to A.I.S.I. Type 304" },
             { title: "Cap Seal", text: "PTFE" },
             { title: "Cap", text: "Bronze to BS EN 1982 CC491K" },
-            { title: "ID Plate", text: "Aluminium" },
-            { title: "Mesh Hole", text: "0.75mm" },
-            { title: "Weight", text: "0.16 kg" }
+            { title: "ID Plate", text: "Aluminium" }
         ]
     },
     {
@@ -1428,7 +1504,8 @@ const craneProducts = [
         standardPrice: "41.60",
         brand: "CRANE",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420989/Screenshot_2026-01-23_162658_e1kfny.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420989/Screenshot_2026-01-23_162658_e1kfny.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773857315/image2_fgnnlj.png"
         ],
         about: [
             "A generous use of pipeline strainers will make a significant contribution to the reliability of a piping system and to optimise performance of the equipment - pumps, valves, flow measuring devices, traps etc",
@@ -1436,7 +1513,7 @@ const craneProducts = [
         ],
         description: "D298 Bronze Strainer with SS304 mesh, WRAS approved, BSPT connection, PN16 rated.",
         specs: [
-            { title: "Size", text: "3/4\" (DN20)" },
+            { title: "Size", text: "3/4\"" },
             { title: "Pressure Rating", text: "PN16" },
             { title: "Temperature Rating", text: "-10 to 100°C" },
             { title: "WRAS Approval", text: "-10 to 85°C" },
@@ -1447,9 +1524,7 @@ const craneProducts = [
             { title: "Mesh", text: "Stainless Steel to A.I.S.I. Type 304" },
             { title: "Cap Seal", text: "PTFE" },
             { title: "Cap", text: "Bronze to BS EN 1982 CC491K" },
-            { title: "ID Plate", text: "Aluminium" },
-            { title: "Mesh Hole", text: "0.75mm" },
-            { title: "Weight", text: "0.28 kg" }
+            { title: "ID Plate", text: "Aluminium" }
         ]
     },
     {
@@ -1460,7 +1535,8 @@ const craneProducts = [
         standardPrice: "63.90",
         brand: "CRANE",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420981/Screenshot_2026-01-23_162658_sykxzs.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420981/Screenshot_2026-01-23_162658_sykxzs.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773858116/image2_bpav8z.png"
         ],
         about: [
             "A generous use of pipeline strainers will make a significant contribution to the reliability of a piping system and to optimise performance of the equipment - pumps, valves, flow measuring devices, traps etc",
@@ -1468,7 +1544,7 @@ const craneProducts = [
         ],
         description: "D298 Bronze Strainer with SS304 mesh, WRAS approved, BSPT connection, PN16 rated.",
         specs: [
-            { title: "Size", text: "1\" (DN25)" },
+            { title: "Size", text: "1\"" },
             { title: "Pressure Rating", text: "PN16" },
             { title: "Temperature Rating", text: "-10 to 100°C" },
             { title: "WRAS Approval", text: "-10 to 85°C" },
@@ -1479,9 +1555,7 @@ const craneProducts = [
             { title: "Mesh", text: "Stainless Steel to A.I.S.I. Type 304" },
             { title: "Cap Seal", text: "PTFE" },
             { title: "Cap", text: "Bronze to BS EN 1982 CC491K" },
-            { title: "ID Plate", text: "Aluminium" },
-            { title: "Mesh Hole", text: "0.75mm" },
-            { title: "Weight", text: "0.38 kg" }
+            { title: "ID Plate", text: "Aluminium" }
         ]
     },
     {
@@ -1492,7 +1566,8 @@ const craneProducts = [
         standardPrice: "102.90",
         brand: "CRANE",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420955/Screenshot_2026-01-23_162658_kgnzt8.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420955/Screenshot_2026-01-23_162658_kgnzt8.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773858116/image2_bpav8z.png"
         ],
         about: [
             "A generous use of pipeline strainers will make a significant contribution to the reliability of a piping system and to optimise performance of the equipment - pumps, valves, flow measuring devices, traps etc",
@@ -1500,7 +1575,7 @@ const craneProducts = [
         ],
         description: "D298 Bronze Strainer with SS304 mesh, WRAS approved, BSPT connection, PN16 rated.",
         specs: [
-            { title: "Size", text: "1.1/4\" (DN32)" },
+            { title: "Size", text: "1.1/4\"" },
             { title: "Pressure Rating", text: "PN16" },
             { title: "Temperature Rating", text: "-10 to 100°C" },
             { title: "WRAS Approval", text: "-10 to 85°C" },
@@ -1511,9 +1586,7 @@ const craneProducts = [
             { title: "Mesh", text: "Stainless Steel to A.I.S.I. Type 304" },
             { title: "Cap Seal", text: "PTFE" },
             { title: "Cap", text: "Bronze to BS EN 1982 CC491K" },
-            { title: "ID Plate", text: "Aluminium" },
-            { title: "Mesh Hole", text: "1.4mm" },
-            { title: "Weight", text: "0.64 kg" }
+            { title: "ID Plate", text: "Aluminium" }
         ]
     },
     {
@@ -1524,7 +1597,8 @@ const craneProducts = [
         standardPrice: "145.00",
         brand: "CRANE",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420958/Screenshot_2026-01-23_162658_sraqqv.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420958/Screenshot_2026-01-23_162658_sraqqv.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773858116/image2_bpav8z.png"
         ],
         about: [
             "A generous use of pipeline strainers will make a significant contribution to the reliability of a piping system and to optimise performance of the equipment - pumps, valves, flow measuring devices, traps etc",
@@ -1532,7 +1606,7 @@ const craneProducts = [
         ],
         description: "D298 Bronze Strainer with SS304 mesh, WRAS approved, BSPT connection, PN16 rated.",
         specs: [
-            { title: "Size", text: "1.1/2\" (DN40)" },
+            { title: "Size", text: "1.1/2\"" },
             { title: "Pressure Rating", text: "PN16" },
             { title: "Temperature Rating", text: "-10 to 100°C" },
             { title: "WRAS Approval", text: "-10 to 85°C" },
@@ -1543,9 +1617,7 @@ const craneProducts = [
             { title: "Mesh", text: "Stainless Steel to A.I.S.I. Type 304" },
             { title: "Cap Seal", text: "PTFE" },
             { title: "Cap", text: "Bronze to BS EN 1982 CC491K" },
-            { title: "ID Plate", text: "Aluminium" },
-            { title: "Mesh Hole", text: "1.4mm" },
-            { title: "Weight", text: "0.88 kg" }
+            { title: "ID Plate", text: "Aluminium" }
         ]
     },
     {
@@ -1556,7 +1628,8 @@ const craneProducts = [
         standardPrice: "231.20",
         brand: "CRANE",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420988/Screenshot_2026-01-23_162658_g47noe.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420988/Screenshot_2026-01-23_162658_g47noe.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773858116/image2_bpav8z.png"
         ],
         about: [
             "A generous use of pipeline strainers will make a significant contribution to the reliability of a piping system and to optimise performance of the equipment - pumps, valves, flow measuring devices, traps etc",
@@ -1564,7 +1637,7 @@ const craneProducts = [
         ],
         description: "D298 Bronze Strainer with SS304 mesh, WRAS approved, PN16 rated.",
         specs: [
-            { title: "Size", text: "2\" (DN50)" },
+            { title: "Size", text: "2\"" },
             { title: "Pressure Rating", text: "PN16" },
             { title: "Temperature Rating", text: "-10 to 100°C" },
             { title: "WRAS Approval", text: "-10 to 85°C" }
@@ -1574,9 +1647,7 @@ const craneProducts = [
             { title: "Mesh", text: "Stainless Steel to A.I.S.I. Type 304" },
             { title: "Cap Seal", text: "PTFE" },
             { title: "Cap", text: "Bronze to BS EN 1982 CC491K" },
-            { title: "ID Plate", text: "Aluminium" },
-            { title: "Mesh Hole", text: "1.4mm" },
-            { title: "Weight", text: "1.40 kg" }
+            { title: "ID Plate", text: "Aluminium" }
         ]
     },
     // F678L Butterfly Valves
@@ -1588,7 +1659,9 @@ const craneProducts = [
         standardPrice: "220.90",
         brand: "CRANE",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420969/Picture1_nqrpok.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420969/Picture1_nqrpok.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773859034/image2_wva2hf.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773859045/image3_vfb35e.png"
         ],
         about: [
             "Valves are suitable for use with flanges conforming to BS EN 1092-2 PN16",
@@ -1603,17 +1676,22 @@ const craneProducts = [
             { title: "Pressure Rating", text: "PN16" },
             { title: "Temperature Rating", text: "-10 to 120°C" },
             { title: "End Connections", text: "Fully Lugged, compatible with BS EN1092-2 PN16 flanges" },
+            { title: "Material", text: "Ductile Iron" },
             { title: "Operator", text: "Trigger Lever" }
         ],
         technical: [
             { title: "Body", text: "Ductile Iron (EN-GJS-400-15)" },
-            { title: "Disc", text: "Aluminium Bronze (ASTM B148 C95400)" },
-            { title: "Liner", text: "EPDM" },
+            { title: "Disc (F648L & F644L)", text: "Ductile Iron (EN-GJS-400-15) Epoxy coated" },
+            { title: "Disc (F658L & F654L)", text: "Stainless Steel 304 (ASTM A351 CF8)" },
+            { title: "Disc (F678L & F674L)", text: "Aluminium Bronze (ASTM B148 C95400)" },
+            { title: "Liner (F648L, F658L & F678L)", text: "EPDM" },
+            { title: "Liner (F644L, F654L & F674L)", text: "Nitrile Rubber" },
             { title: "Shaft", text: "Stainless Steel 420 (ASTM A276 420)" },
             { title: "Taper Pin", text: "Stainless Steel 431 (ASTM A276 431)" },
             { title: "O-Ring", text: "Nitrile Rubber" },
             { title: "Bushing", text: "PTFE" },
             { title: "Lever & Screw", text: "Malleable Iron ASTM Gr.32510" },
+            { title: "Stop Plate", text: "Mild Steel (GB700 Q235) Chromium Plated" },
             { title: "Shell Test Pressure", text: "24 bar" },
             { title: "Seat Test Pressure", text: "17.6 bar" }
         ]
@@ -1626,7 +1704,9 @@ const craneProducts = [
         standardPrice: "253.10",
         brand: "CRANE",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420963/Picture1_dswqya.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420963/Picture1_dswqya.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773859034/image2_wva2hf.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773859045/image3_vfb35e.png"
         ],
         about: [
             "Valves are suitable for use with flanges conforming to BS EN 1092-2 PN16",
@@ -1639,6 +1719,8 @@ const craneProducts = [
         specs: [
             { title: "Size Range", text: "50mm to 200mm" },
             { title: "Pressure Rating", text: "PN16" },
+            { title: "End Connnections", text: "End connections compatible with BS EN1092-2 PN16 flanges." },
+            { title: "Material", text: "Ductile Iron" },
             { title: "Temperature Rating", text: "-10 to 120°C" },
             { title: "End Connections", text: "Fully Lugged, compatible with BS EN1092-2 PN16 flanges" },
             { title: "Operator", text: "Trigger Lever" }
@@ -1664,7 +1746,9 @@ const craneProducts = [
         standardPrice: "424.10",
         brand: "CRANE",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420972/Picture1_wkasqh.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420972/Picture1_wkasqh.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773859034/image2_wva2hf.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773859045/image3_vfb35e.png"
         ],
         about: [
             "Valves are suitable for use with flanges conforming to BS EN 1092-2 PN16",
@@ -1677,6 +1761,8 @@ const craneProducts = [
         specs: [
             { title: "Size", text: "4\" (100mm)" },
             { title: "Pressure Rating", text: "PN16" },
+            { title: "End Connnections", text: "End connections compatible with BS EN1092-2 PN16 flanges." },
+            { title: "Material", text: "Ductile Iron" },
             { title: "Temperature Rating", text: "-10 to 120°C" },
             { title: "End Connections", text: "Fully Lugged, compatible with BS EN1092-2 PN16 flanges" },
             { title: "Operator", text: "Trigger Lever" }
@@ -1702,7 +1788,9 @@ const craneProducts = [
         standardPrice: "591.40",
         brand: "CRANE",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420984/Picture1_micw9q.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420984/Picture1_micw9q.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773859034/image2_wva2hf.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773859045/image3_vfb35e.png"
         ],
         about: [
             "Valves are suitable for use with flanges conforming to BS EN 1092-2 PN16",
@@ -1715,6 +1803,8 @@ const craneProducts = [
         specs: [
             { title: "Size", text: "5\" (125mm)" },
             { title: "Pressure Rating", text: "PN16" },
+            { title: "End Connnections", text: "End connections compatible with BS EN1092-2 PN16 flanges." },
+            { title: "Material", text: "Ductile Iron" },
             { title: "Temperature Rating", text: "-10 to 120°C" },
             { title: "End Connections", text: "Fully Lugged, compatible with BS EN1092-2 PN16 flanges" },
             { title: "Operator", text: "Trigger Lever" }
@@ -1740,7 +1830,9 @@ const craneProducts = [
         standardPrice: "813.40",
         brand: "CRANE",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420976/Picture1_drjylw.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420976/Picture1_drjylw.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773859034/image2_wva2hf.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1773859045/image3_vfb35e.png"
         ],
         about: [
             "Valves are suitable for use with flanges conforming to BS EN 1092-2 PN16",
@@ -1753,6 +1845,8 @@ const craneProducts = [
         specs: [
             { title: "Size", text: "6\" (150mm)" },
             { title: "Pressure Rating", text: "PN16" },
+            { title: "End Connnections", text: "End connections compatible with BS EN1092-2 PN16 flanges." },
+            { title: "Material", text: "Ductile Iron" },
             { title: "Temperature Rating", text: "-10 to 120°C" },
             { title: "End Connections", text: "Fully Lugged, compatible with BS EN1092-2 PN16 flanges" },
             { title: "Operator", text: "Trigger Lever" }
@@ -1781,7 +1875,7 @@ const dewaltProducts = [
         overview: "DEWALT 26MM 3 MODE SDS PLUS HAMMER",
         standardPrice: "510",
         amazonPrice: "",
-        weight: "4.3",
+        weight: "17",
         freightCharges: "49",
         sellingPriceWithFreight: "497.21",
         newAmazonSellingPrice: "557",
@@ -1792,27 +1886,51 @@ const dewaltProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421630/81D2e2wZkEL._AC_SL1500__pjnjwy.png"
         ],
         about: [
-            "3-in-1 Functionality: Rotary drilling, hammer drilling, and chiselling – all powered by an 800W motor",
+            "3-in-1 Functionality: Rotary drilling, hammer drilling, and chiselling - all powered by an 800W motor",
             "Variable Speed Trigger: Smooth control with forward/reverse options for total versatility",
             "Rotation-Stop Mode: Perfect for light chiselling in brick, soft masonry, and occasional concrete work",
             "Mechanical Clutch: Protects against sudden torque spikes if the bit jams",
             "Ergonomic Design: Rounded grip ensures comfort during extended use",
-            "Professional Range: Ideal for anchor and fixing holes in concrete/masonry (4–26 mm diameter)"
+            "Professional Range: Ideal for anchor and fixing holes in concrete/masonry (4-26 mm diameter)"
         ],
         description: "DEWALT D25133K 26mm 3-Mode SDS Plus Hammer with 800W motor, 2.6 joules impact energy, rotating brush ring, and dust extraction compatibility.",
+        bullets: [
+            "2.6 joules of impact energy — delivers fast drilling and chipping speed.",
+            "8.0-amp high performance motor — engineered for demanding professional applications.",
+            "Rotating brush ring — maintains full speed and torque in both forward and reverse directions.",
+            "Compact, lightweight design — ensures comfortable handling during extended use.",
+            "Integral clutch — minimizes sudden, high torque reactions if the bit jams.",
+            "Dust extraction compatibility — works seamlessly with drilling dust extraction systems."
+        ],
         specs: [
+            { title: "Brand", text: "DEWALT" },
+            { title: "Power Source", text: "Corded Electric" },
             { title: "Power", text: "800W" },
             { title: "Impact Energy", text: "2.6 Joules" },
-            { title: "Max Speed", text: "1500 RPM" },
+            { title: "Max Rotational Speed", text: "1500 RPM" },
             { title: "Voltage", text: "240V AC" },
             { title: "Amperage", text: "7 Amps" }
         ],
         technical: [
-            { title: "Weight", text: "4.3 kg" },
+            { title: "Product Dimensions", text: "3.35 x 0.75 x 2.1 cm; 4.3 kg" },
+            { title: "Model Number", text: "D25133K-B5" },
+            { title: "Size", text: "D25133K-B5" },
             { title: "Colour", text: "Yellow/Black" },
+            { title: "Style", text: "D25133K-B5" },
             { title: "Material", text: "Metal" },
+            { title: "Power Source Type", text: "Corded Electric" },
+            { title: "Voltage", text: "240 Volts (AC)" },
+            { title: "Wattage", text: "800 Watts" },
+            { title: "Maximum Power", text: "800 Watts" },
             { title: "Torque", text: "3.6 Newton Meters" },
-            { title: "Power Source", text: "Corded Electric" }
+            { title: "Item Package Quantity", text: "1" },
+            { title: "Speed", text: "1500 RPM" },
+            { title: "Special Features", text: "Electronic variable speed" },
+            { title: "Specific Uses", text: "Professional" },
+            { title: "Included Components", text: "1 x 360-degree Side Handle, 1 x D25133 Hammer Drill, 1 x Depth Rod, 1 x Kit Box, Instruction Manual" },
+            { title: "Batteries Included?", text: "No" },
+            { title: "Batteries Required?", text: "No" },
+            { title: "Battery Cell Type", text: "Lithium Ion" },
         ]
     },
     // 2. DCD771D2T-GB - Drill Driver
@@ -1824,7 +1942,7 @@ const dewaltProducts = [
         overview: "DEWALT 18V XR HAMMER DRILL DRIVER 2*2AH BATTERY & CHARGER",
         standardPrice: "480",
         amazonPrice: "",
-        weight: "4.6",
+        weight: "17",
         freightCharges: "49",
         sellingPriceWithFreight: "435.75",
         newAmazonSellingPrice: "489",
@@ -1833,29 +1951,57 @@ const dewaltProducts = [
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421593/61G0GECDsSL._AC_SL1200__btvkds.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421587/610VxMj66zL._AC_SL1200__sdko9g.png",
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421591/518lx4XQYEL._AC_SL1200__b7r08x.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421591/518lx4XQYEL._AC_SL1200__b7r08x.png"
         ],
         about: [
-            "Ultra-Compact & Lightweight Design: Designed for comfortable handling and extended use",
-            "Advanced Brushless Motor Technology: Delivers higher efficiency, longer runtime, and extended tool life",
-            "Hammer Drill Driver Functionality: Ideal for drilling and fastening across wood, metal, and masonry",
-            "Two-Speed High-Performance Transmission: Allows precise speed control",
-            "Professional-Grade Portability: Supplied with a tough nylon kit bag"
+            "18V XR Li-Ion Compact Drill Driver with XR 1.3Ah battery technology for reliable performance",
+            "Two-speed settings with variable speed and reverse switch for maximum control",
+            "15-position adjustable torque control for consistent screw driving across different materials and screw sizes",
+            "Bright white LED with delay feature for improved visibility and added flashlight functionality",
+            "13mm single sleeve chuck & spindle lock for quick, one-handed bit changes",
+            "Intelligent trigger design for precise application control",
+            "Drill Driver and Hammer settings for versatile use across multiple applications",
+            "Ergonomic design with rubber grip for enhanced comfort during extended use",
+            "Multi-voltage charger compatible with all XR Li-Ion slide pack batteries",
+            "Part of the intelligent XR Lithium-Ion Series, engineered for efficiency and faster performance"
         ],
-        description: "DEWALT DCD796D2W XR 18V Cordless Hammer Drill Driver with brushless motor, 2x 2.0Ah batteries, charger, and kit bag.",
+        description: "Powerful, compact, and built for professionals, the DEWALT DCD796D2W delivers precision and reliability in every job. Its brushless motor ensures maximum performance and longer runtime, while the two-speed transmission and hammer function make it versatile for drilling and fastening across multiple materials. Lightweight and easy to handle, it’s perfect for confined spaces and extended use. Supplied with two 2.0Ah batteries, a charger, and a durable kit bag, this all-in-one set keeps you ready on the move.",
+        features: [
+            { title: "Ultra-Compact & Lightweight Design", text: "Designed for comfortable handling and extended use, even in tight or overhead spaces." },
+            { title: "Advanced Brushless Motor Technology", text: "Delivers higher efficiency, longer runtime, and extended tool life." },
+            { title: "Hammer Drill Driver Functionality", text: "Ideal for drilling and fastening across wood, metal, and masonry applications." },
+            { title: "Two-Speed High-Performance Transmission", text: "Allows precise speed control to match different tasks and materials." },
+            { title: "Professional-Grade Portability", text: "Supplied with a tough nylon kit bag for easy storage and transport." }
+        ],
         specs: [
+            { title: "Brand", text: "DEWALT" },
             { title: "Voltage", text: "18V" },
-            { title: "Battery Type", text: "Lithium-Ion" },
-            { title: "Battery Capacity", text: "2.0 Ah" },
-            { title: "Number of Batteries", text: "2" },
-            { title: "Motor", text: "Brushless" }
+            { title: "Item Weight", text: "4.6 Kg" },
+            { title: "Battery Cell Composition", text: "Lith-Ion" },
+            { title: "Included Components", text: "Battery Charger, Tool Bag" },
         ],
         technical: [
-            { title: "Weight", text: "4.6 kg" },
-            { title: "Colour", text: "Yellow" },
+            { title: "Product Name", text: "XR Brushless Hammer Drill Driver Kit" },
+            { title: "Brand", text: "DEWALT" },
+            { title: "Model", text: "DCD796D2W" },
+            { title: "Set Name", text: "DEWALT DCD796D2W XR Brushless Hammer Drill Driver Kit" },
+            { title: "Voltage", text: "18 V" },
+            { title: "Motor Technology", text: "Brushless Motor" },
+            { title: "Power Source", text: "Battery Powered" },
+            { title: "Battery Type", text: "Lithium-Ion" },
+            { title: "Battery Capacity", text: "2.0 Ah" },
+            { title: "Number of Batteries Supplied", text: "2" },
+            { title: "Speed Control", text: "2-Speed High-Performance Transmission" },
+            { title: "Tool Function", text: "Hammer Drill Driver" },
             { title: "Material", text: "Metal" },
-            { title: "Included", text: "2x Batteries, Charger, Belt Hook, Bit Holder, Nylon Kit Bag" }
+            { title: "Colour", text: "Yellow" },
+            { title: "Special Features", text: "Compact Design, Lightweight Construction, High Efficiency" },
+            { title: "Item Weight", text: "4.6 kg" },
+            { title: "Dimensions(L × W × H)", text: "13.1 × 8.7 × 5 cm" },
+            { title: "Storage", text: "Nylon Kit Bag" },
+            { title: "Included Accessories", text: "Batteries(2), Charger, Steel Belt Hook, Magnetic Bit Holder, Nylon Kit Bag" },
+            { title: "Application", text: "Drilling & Fastening in Wood, Metal & Masonry" },
+            { title: "Batteries Required?", text: "No (Included)" }
         ]
     },
     // 3. DCD776D2T-GB - Hammer Drill Driver
@@ -1867,7 +2013,7 @@ const dewaltProducts = [
         overview: "DEWALT 18V XR HAMMER DRILL DRIVER KINGFISHER",
         standardPrice: "505",
         amazonPrice: "",
-        weight: "4.1",
+        weight: "17",
         freightCharges: "49",
         sellingPriceWithFreight: "451.50",
         newAmazonSellingPrice: "509",
@@ -1878,27 +2024,49 @@ const dewaltProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421583/31TnOlSqP6L._AC__kkc4wf.png"
         ],
         about: [
-            "18V XR Li-Ion Compact Drill Driver with XR 1.3Ah battery technology",
-            "Two-speed settings with variable speed and reverse switch",
-            "15-position adjustable torque control for consistent screw driving",
-            "Bright white LED with delay feature for improved visibility",
-            "13mm single sleeve chuck & spindle lock for quick bit changes",
-            "Ergonomic design with rubber grip for enhanced comfort"
+            "18V XR Li-Ion Compact Drill Driver with XR 1.3Ah battery technology for reliable performance",
+            "Two-speed settings with variable speed and reverse switch for maximum control",
+            "15-position adjustable torque control for consistent screw driving across different materials and screw sizes",
+            "Bright white LED with delay feature for improved visibility and added flashlight functionality",
+            "13mm single sleeve chuck & spindle lock for quick, one-handed bit changes",
+            "Intelligent trigger design for precise application control",
+            "Drill Driver and Hammer settings for versatile use across multiple applications",
+            "Ergonomic design with rubber grip for enhanced comfort during extended use",
+            "Multi-voltage charger compatible with all XR Li-Ion slide pack batteries",
+            "Part of the intelligent XR Lithium-Ion Series, engineered for efficiency and faster performance"
         ],
-        description: "Dewalt DCD776S2-B5 18V Li-Ion Cordless Compact Hammer Drill Driver with two-speed gearbox, 15-position torque control, and 13mm chuck.",
+        description: "The Dewalt DCD776S2-B5 18V Li-Ion Cordless Compact Hammer Drill Driver is designed for users who need dependable performance in a compact form. Its powerful 18V motor and hammer drilling capability makes it suitable for a wide range of drilling and fastening tasks, including masonry applications. Featuring a two-speed gearbox, variable speed trigger, and 15-position adjustable torque control, this drill driver delivers precision and control in every application. The 13mm single-sleeve chuck allows quick, one-handed bit changes, while the ergonomic rubber grip ensures comfort during extended use. Built for durability and efficiency, it’s an ideal tool for professionals and serious DIY users.",
         specs: [
-            { title: "Voltage", text: "18V" },
-            { title: "Max Speed", text: "1500 RPM" },
-            { title: "Chuck Size", text: "13mm" },
-            { title: "Max Power", text: "400W" },
-            { title: "Torque", text: "42 Nm" }
+            { title: "Brand", text: "DEWALT" },
+            { title: "Power source", text: "Battery Powered" },
+            { title: "Maximum rotational speed", text: "1500 RPM" },
+            { title: "Amperage", text: "1.5 Amps" },
+            { title: "Voltage", text: "18V" }
         ],
         technical: [
-            { title: "Weight", text: "4.1 kg" },
-            { title: "Dimensions", text: "39 x 34 x 11.8 cm" },
-            { title: "Battery Capacity", text: "1.5 Ah" },
-            { title: "Battery Type", text: "Lithium-Ion" },
-            { title: "Colour", text: "Yellow/Black" }
+            { title: "Manufacturer", text: "DeWalt" },
+            { title: "Part number", text: "DCD776S2" },
+            { title: "Item Weight", text: "4.1 kg" },
+            { title: "Product Dimensions", text: "39 x 34 x 11.8 cm" },
+            { title: "Batteries", text: "1 AA batteries required. (included)" },
+            { title: "Item model number", text: "DCD776S2-TR" },
+            { title: "Size", text: "13 mm" },
+            { title: "Colour", text: "Yellow/Black" },
+            { title: "Style", text: "Hammer Drill" },
+            { title: "Material", text: "Metal" },
+            { title: "Power source type", text: "Battery Powered" },
+            { title: "Voltage", text: "18 Volts" },
+            { title: "Maximum Power", text: "400 Watts" },
+            { title: "Torque", text: "42 Newton Meters" },
+            { title: "Item Package Quantity", text: "1" },
+            { title: "Number Of Pieces", text: "1" },
+            { title: "Speed", text: "1200 RPM" },
+            { title: "Special Features", text: "Variable Speed" },
+            { title: "Included components", text: "2 x 1.5Ah Battery with Charger, Drill, Instruction Manual" },
+            { title: "Batteries Included?", text: "Yes" },
+            { title: "Batteries Required?", text: "No" },
+            { title: "Battery Cell Type", text: "Lithium Ion" },
+            { title: "Battery Capacity", text: "1.5 Amp Hours" }
         ]
     },
     // 4. DCH133M1EXP-GB - Cordless SDS Hammer
@@ -1910,7 +2078,7 @@ const dewaltProducts = [
         overview: "DEWALT DCH133M1 18V Li-ion 26mm SDS-Plus 3-Mode Cordless Hammer with Brushless Motor",
         standardPrice: "880",
         amazonPrice: "",
-        weight: "2.0",
+        weight: "17",
         freightCharges: "49",
         sellingPriceWithFreight: "840",
         newAmazonSellingPrice: "942",
@@ -1929,19 +2097,40 @@ const dewaltProducts = [
             "Ergonomic design with comfortable grip"
         ],
         description: "DEWALT DCH133M1 18V brushless cordless hammer with 26mm SDS-Plus chuck, 3-mode operation, and 4.0Ah battery.",
+        bullets: [
+            "The DEWALT DCH133M1 is a high-performance cordless hammer designed for professionals who demand power, efficiency, and durability.",
+            "Equipped with an 18V brushless motor, it delivers longer runtime, reduced maintenance, and superior drilling performance.",
+            "Its SDS-Plus chuck allows quick bit changes, while the 3-mode operation (drill, hammer drill, and chisel) provides versatility across multiple applications.",
+            "Weighing just 2 kg, this compact tool ensures comfort and control during prolonged use, even in tight spaces."
+        ],
         specs: [
-            { title: "Voltage", text: "18V" },
-            { title: "Chuck Type", text: "SDS-Plus 26mm" },
-            { title: "Modes", text: "3 (Drill, Hammer Drill, Chisel)" },
-            { title: "Max Speed", text: "1550 RPM" },
-            { title: "Max Power", text: "72W" }
+            { title: "Brand", text: "DEWALT" },
+            { title: "Power source", text: "Battery Powered" },
+            { title: "Maximum rotational speed", text: "1500 RPM" },
+            { title: "Amperage", text: "4 Amps" },
+            { title: "Voltage", text: "18V" }
         ],
         technical: [
-            { title: "Weight", text: "2 kg (tool only)" },
-            { title: "Battery Capacity", text: "4.0 Ah" },
-            { title: "Battery Type", text: "Lithium-Ion" },
-            { title: "Motor", text: "Brushless" },
-            { title: "Colour", text: "Black" }
+            { title: "Manufacturer", text: "‎DEWALT" },
+            { title: "Part number", text: "DCH133M1.1" },
+            { title: "Item Weight", text: "430 g" },
+            { title: "Product Dimensions", text: "44 x 35.3 x 12.8 cm; 430 g" },
+            { title: "Batteries", text: "2 Lithium-Ion batteries required (included)" },
+            { title: "Item model number", text: "DCH133M1EXP-GB" },
+            { title: "Colour", text: "‎black" },
+            { title: "Material", text: "‎Aluminium" },
+            { title: "Power source type", text: "Battery Powered" },
+            { title: "Voltage", text: "18 Volts" },
+            { title: "Maximum Power", text: "72 Watts" },
+            { title: "Item Package Quantity", text: "1" },
+            { title: "Number Of Pieces", text: "1" },
+            { title: "Speed", text: "1550 RPM" },
+            { title: "Special Features", text: "Brushless" },
+            { title: "Included components", text: "Components included" },
+            { title: "Batteries Included?", text: "Yes" },
+            { title: "Batteries Required?", text: "No" },
+            { title: "Battery Cell Type", text: "Lithium Ion" },
+            { title: "Battery Capacity", text: "4 Amp Hours" }
         ]
     },
     // 5. DWD024-B5 - Percussion Drill
@@ -1953,7 +2142,7 @@ const dewaltProducts = [
         overview: "DEWALT PERCUSSION DRILL 750W WITH CARTON BOX",
         standardPrice: "210",
         amazonPrice: "",
-        weight: "2.99",
+        weight: "17",
         freightCharges: "49",
         sellingPriceWithFreight: "195.72",
         newAmazonSellingPrice: "239",
@@ -1965,26 +2154,44 @@ const dewaltProducts = [
         ],
         about: [
             "Powerful 750W motor for consistent performance",
-            "Drilling Capacity: Wood – 25 mm, Steel – 13 mm, Concrete – 16 mm",
-            "Variable speed trigger (0–2800 RPM) for precision control",
+            "Drilling Capacity: Wood - 25 mm, Steel - 13 mm, Concrete - 16 mm",
+            "Variable speed trigger (0-2800 RPM) for precision control",
             "13mm chuck with spindle lock for quick bit changes",
             "Compact & lightweight design for improved handling",
-            "Rubber back handle for user comfort"
+            "Rubber back handle for user comfort during drilling and hammer tasks",
+            "Yellow/Black DEWALT design - durable and professional"
         ],
         description: "DEWALT DWD024-B5 Percussion Drill with 750W motor, 13mm chuck, variable speed 0-2800 RPM, for wood, steel, and concrete drilling.",
+        bullets: [
+            "The DEWALT DWD024-B5 Percussion Drill is a compact yet powerful tool designed for precision and durability. With a 750W motor and a 13mm chuck capacity, it delivers reliable performance across drilling and hammer drilling applications. Its lightweight design ensures ease of use, while the rubber back handle provides enhanced comfort and control during extended tasks.",
+            "Equipped with a variable speed trigger (0-2800 RPM), the drill allows users to start holes slowly for maximum accuracy, making it ideal for both professionals and DIY enthusiasts. The percussion function adds versatility, enabling efficient drilling into wood, steel, and concrete."
+        ],
         specs: [
-            { title: "Power", text: "750W" },
-            { title: "Max Speed", text: "2800 RPM" },
-            { title: "Chuck Size", text: "13mm" },
-            { title: "Voltage", text: "240V AC" },
-            { title: "Drilling Capacity", text: "Wood 25mm, Steel 13mm, Concrete 16mm" }
+            { title: "Brand", text: "DEWALT" },
+            { title: "Power source", text: "AC" },
+            { title: "Maximum rotational speed", text: "2800 RPM" },
+            { title: "Maximum chuck size", text: "13 mm" },
+            { title: "Voltage", text: "240 V" }
         ],
         technical: [
+            { title: "Manufacturer", text: "DeWalt" },
+            { title: "Part number", text: "5035048448113" },
             { title: "Weight", text: "2.99 kg" },
             { title: "Dimensions", text: "31 x 26 x 8 cm" },
+            { title: "Item model number", text: "DWD024- B5" },
             { title: "Colour", text: "Yellow/Black" },
+            { title: "Style", text: "750W" },
             { title: "Material", text: "Plastic, Metal, Rubber" },
-            { title: "Power Source", text: "AC Corded" }
+            { title: "Power Source type", text: "AC Corded" },
+            { title: "Voltage", text: "240 Volts" },
+            { title: "Wattage", text: "750 watts" },
+            { title: "Maximum Power", text: "750 Watts" },
+            { title: "Item Package Quantity", text: "1" },
+            { title: "Speed", text: "2800 RPM" },
+            { title: "Special Features", text: "Variable Speed" },
+            { title: "Included components", text: "Drill, Instruction Manual, Kit Box" },
+            { title: "Batteries Required?", text: "No" },
+            { title: "Battery Cell Type", text: "Lithium Ion" }
         ]
     },
     // 6. DWE4010T-B5 - Angle Grinder 730W
@@ -1996,7 +2203,7 @@ const dewaltProducts = [
         overview: "DEWALT 115MM, 730W TOGGLE SWITCH ANGLE GRINDER",
         standardPrice: "200",
         amazonPrice: "",
-        weight: "2.4",
+        weight: "17",
         freightCharges: "49",
         sellingPriceWithFreight: "187.61",
         newAmazonSellingPrice: "210",
@@ -2009,25 +2216,43 @@ const dewaltProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421606/71GOOhcsiwL._AC_SL1500__ndojqo.png"
         ],
         about: [
-            "730W motor for reliable grinding performance",
-            "115mm disc diameter for versatile applications",
-            "Toggle switch for easy operation",
-            "Compact design for access to tight spaces",
-            "Ergonomic grip for user comfort"
+            "18V XR Brushless Motor - maximum efficiency and extended tool life",
+            "Two-Speed Transmission - optimized control for heavy-duty and fine drilling tasks",
+            "High Torque Output - adjustable settings for precision screw driving",
+            "13mm Chuck with Spindle Lock - quick, one-handed bit changes",
+            "LED Work Light - improved visibility in low-light conditions",
+            "Ergonomic Design - rubber grip for enhanced comfort during prolonged use",
+            "XR Lithium-Ion Battery System - compatible with multi-voltage chargers"
         ],
         description: "DEWALT DWE4010T-B5 115mm Angle Grinder with 730W motor, toggle switch, and compact design for cutting and grinding.",
+        bullets: [
+            "The DEWALT 18V XR Hammer Drill Driver is engineered for professionals who demand power, precision, and durability.",
+            "Featuring XR Lithium-Ion battery technology and a brushless motor, it delivers longer runtime, reduced maintenance, and superior drilling performance.",
+            "Compact and lightweight, it is ideal for confined spaces and extended use, while the hammer function ensures versatility across wood, steel, and masonry applications."
+        ],
         specs: [
-            { title: "Power", text: "730W" },
-            { title: "Disc Size", text: "115mm" },
-            { title: "Voltage", text: "220V AC" },
-            { title: "Switch Type", text: "Toggle" }
+            { title: "Brand", text: "DEWALT" },
+            { title: "Material", text: "Metal" },
+            { title: "Power source", text: "AC" },
+            { title: "Maximum rotational speed", text: "2800 RPM" },
+            { title: "Maximum chuck size", text: "13 mm" },
+            { title: "Voltage", text: "240 V" }
         ],
         technical: [
+            { title: "Manufacturer", text: "Dewalt" },
+            { title: "Part number", text: "DWE4010T-B5" },
             { title: "Weight", text: "2.4 kg" },
-            { title: "Dimensions", text: "37.6 x 11 x 8 cm" },
+            { title: "Product Dimensions", text: "37.6 x 11 x 8 cm" },
+            { title: "Item model number", text: "DWE4010T- B5" },
             { title: "Colour", text: "Yellow" },
+            { title: "Style", text: "Angled" },
             { title: "Material", text: "Metal" },
-            { title: "Power Source", text: "AC Corded" }
+            { title: "Power Source type", text: "AC Corded" },
+            { title: "Voltage", text: "220 Volts" },
+            { title: "Included components", text: "As per Description" },
+            { title: "Batteries Required", text: "No" },
+            { title: "ASIN", text: "B07G9KM3F9" },
+            { title: "Date First Available", text: "15 January 2019" },
         ]
     },
     // 7. DWE4120-B5 - Angle Grinder 900W
@@ -2039,7 +2264,7 @@ const dewaltProducts = [
         overview: "DEWALT 115MM, 900W PADDLE SWITCH ANGLE GRINDER",
         standardPrice: "230",
         amazonPrice: "",
-        weight: "0.62",
+        weight: "17",
         freightCharges: "49",
         sellingPriceWithFreight: "215.18",
         newAmazonSellingPrice: "302",
@@ -2066,19 +2291,42 @@ const dewaltProducts = [
             "2-Position Side Handle for comfort and control"
         ],
         description: "DEWALT DWE4120-B5 Angle Grinder with 900W motor, 115mm disc, paddle switch, 12,000 RPM, and tool-free wheel change.",
+        bullets: [
+            "The DEWALT DWE4120-B5 Angle Grinder is a compact, high-performance tool designed for fast material removal, durability, and extended user comfort.",
+            "Powered by a robust 900W motor, it delivers consistent performance for cutting, grinding, and finishing applications in professional and industrial environments."
+        ],
+        features: [
+            { title: "Powerful 900W (9 Amp) Motor", text: "Delivers up to 12,000 RPM for faster material removal and improved overload protection." },
+            { title: "Slim, Ergonomic Design", text: "Compact body ensures better control and reduced fatigue during prolonged use." },
+            { title: "One-Touch Adjustable Guard", text: "Allows 360° guard rotation with a single action for quick positioning." },
+            { title: "Low-Profile Gear Case", text: "Enhances durability and enables access to tight or confined spaces." },
+            { title: "Quick-Change Wheel Release", text: "Tool-free wheel removal eliminates the need for a wrench." },
+            { title: "2-Position Side Handle", text: "Removable handle provides enhanced comfort and control." },
+            { title: "Universal Spindle Compatibility", text: "5/8\"-11 spindle thread accepts a wide range of 4-1/2\"(115 mm) accessories." }
+        ],
         specs: [
-            { title: "Power", text: "900W" },
-            { title: "Disc Size", text: "115mm" },
-            { title: "No-Load Speed", text: "12,000 RPM" },
-            { title: "Voltage", text: "220V AC" },
-            { title: "Spindle Thread", text: "5/8\"-11" }
+            { title: "Brand", text: "DEWALT" },
+            { title: "Material", text: "Metal" },
+            { title: "Product Dimensions", text: "36.6 (L) × 12.6 (W) × 15.6 (H) cm" },
+            { title: "Style", text: "Angle Grinder" },
+            { title: "Power Source", text: "AC" }
         ],
         technical: [
-            { title: "Weight", text: "620g" },
+            { title: "Brand", text: "DEWALT" },
+            { title: "Model Number", text: "DWE4120-B5" },
+            { title: "Power Output", text: "900 Watts" },
+            { title: "Voltage", text: "220 V" },
+            { title: "Power Source", text: "AC" },
+            { title: "No-Load Speed", text: "12,000 RPM" },
+            { title: "Disc Size", text: "115 mm (4-1/2\")" },
+            { title: "Material", text: "Metal" },
+            { title: "Spindle Thread", text: "5/8\"-11" },
             { title: "Dimensions", text: "36.6 x 12.6 x 15.6 cm" },
+            { title: "Weight", text: "620g" },
             { title: "Colour", text: "Black" },
             { title: "Switch Type", text: "Paddle Switch" },
-            { title: "Material", text: "Metal" }
+            { title: "Batteries Required", text: "No" },
+            { title: "Package Quantity", text: "1" }
         ]
     },
     // 8. DWE4212-B5 - Angle Grinder 1200W
@@ -2090,7 +2338,7 @@ const dewaltProducts = [
         overview: "DEWALT 115MM, 1200W PADDLE SWITCH SMALL ANGLE GRINDER",
         standardPrice: "310",
         amazonPrice: "",
-        weight: "2.2",
+        weight: "17",
         freightCharges: "49",
         sellingPriceWithFreight: "257.25",
         newAmazonSellingPrice: "289",
@@ -2104,27 +2352,41 @@ const dewaltProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421629/91JnX4MEffL._AC_SL1500__o6za3t.png"
         ],
         about: [
-            "Non-locking paddle switch for enhanced safety",
-            "High-efficiency 1200W motor for demanding applications",
-            "Dust ejection system extends motor life",
-            "Small girth body for comfortable grip",
-            "Anti-vibration side handle reduces fatigue",
-            "Pop-off carbon brushes protect armature"
+            "Non-locking paddle switch automatically switches off the grinder when released for enhanced safety",
+            "High-efficiency motor delivers improved performance in demanding applications",
+            "Dust ejection system removes most debris from the cooling air, preventing abrasion and extending motor life",
+            "Small girth body design ensures a comfortable grip and superior ergonomics",
+            "Anti-vibration side handle reduces user fatigue and improves control",
+            "Compact gear case allows easy access to confined and hard-to-reach areas",
+            "Fully leaded stator windings provide increased motor durability",
+            "Pop-off carbon brushes protect the armature at the end of brush life, ensuring longer motor service life"
         ],
         description: "DeWalt DWE4212-B5 Angle Grinder with 1200W motor, 115mm disc, 11,000 RPM, paddle switch, dust ejection, and anti-vibration handle.",
+        bullets: [
+            "The DeWalt Angle Grinder with Toggle Switch delivers reliable power and durability for professional cutting and grinding tasks. Its efficient dust removal system protects the motor from debris, reducing wear and extending service life. The abrasion-protected motor and removable carbon brushes ensure long-term performance, while the anti-lock flange allows quick and easy disc changes.",
+            "Designed for comfort and control, it features a tool-free adjustable safety guard, anti-vibration side handle, and a low-profile gearbox for access to tight spaces. A side-mounted spindle lock provides added protection when working in confined areas."
+        ],
         specs: [
-            { title: "Power", text: "1200W" },
-            { title: "Disc Size", text: "115mm" },
-            { title: "No-Load Speed", text: "11,000 RPM" },
+            { title: "Brand", text: "DeWalt" },
+            { title: "Model", text: "DWE4212-B5" },
+            { title: "Power Source", text: "Corded" },
             { title: "Voltage", text: "220V" },
-            { title: "Spindle Thread", text: "M14" }
+            { title: "Blade Size", text: "4.5\" (115 mm)" },
+            { title: "No-Load Speed", text: "11,000 RPM" },
+            { title: "Warranty", text: "3 Years" },
         ],
         technical: [
+            { title: "Power Source", text: "Corded" },
+            { title: "Voltage", text: "220V" },
+            { title: "Power Input", text: "1200 W" },
             { title: "Weight", text: "2.2 kg" },
-            { title: "Dimensions", text: "286 x 80 mm" },
+            { title: "Blade Size", text: "115 mm" },
             { title: "Switch Type", text: "Paddle" },
-            { title: "Warranty", text: "3 Years" },
-            { title: "Power Source", text: "Corded" }
+            { title: "Dimensions", text: "286 x 80 mm" },
+            { title: "No-Load Speed", text: "11,000 RPM" },
+            { title: "Spindle Thread", text: "M14" },
+            { title: "Weight", text: "2.2 kg" },
+            { title: "Dimensions(L × H)", text: "286 × 80 mm" }
         ]
     }
 ];
@@ -2137,7 +2399,7 @@ const franklinMotors = [
         overview: "Franklin borehole motor 2.2Kw,1ph,230V,4\"",
         standardPrice: "1200",
         amazonPrice: "1200",
-        weight: "17 kg",
+        weight: "17",
         freightCharges: "54",
         sellingPriceWithFreight: "1254",
         newAmazonSellingPrice: "1316.7",
@@ -2154,9 +2416,15 @@ const franklinMotors = [
             "Water lubricated radial and thrust bearings",
             "All motors prefilled and 100% tested",
             "Non contaminating, water-filled design",
+            "For use with Franklin Electric control box",
             "Offers highest starting torque of all single phase motors"
         ],
         description: "Franklin Electric 4\" encapsulated 3-wire capacitor start single phase motor, manufactured to ISO 9001 standards. Together with Franklin Electric Control Boxes, offers maintenance-free long life operation with high starting torque and included motor protection.",
+        bullets: [
+            "Motor cable KTW, VDE approved (1,5m; special lengths available)",
+            "Complete 316 SS Motor with SiC seal",
+            "Built-in lightning arrestor"
+        ],
         specs: [
             { title: "Power", text: "2.2 kW" },
             { title: "Phase", text: "Single Phase (1ph)" },
@@ -2186,7 +2454,7 @@ const globalWaterProducts = [
         overview: "GWS AQUAWAVE PREMIUM, ALL IN ONE UNDER THE SINK RO SYSTEM 75GPD, 5 STAGES, 2.2GAL TANK, WITH PRV & PUMP",
         standardPrice: "1100",
         amazonPrice: "1300",
-        weight: "10.1 kg",
+        weight: "10.1",
         freightCharges: "40.2",
         sellingPriceWithFreight: "1340.2",
         newAmazonSellingPrice: "1407.21",
@@ -2199,10 +2467,24 @@ const globalWaterProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422648/Picture4_twgq7t.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422651/Picture5_mxc3vz.png"
         ],
-        about: ["Reverse Osmosis purification method", "Under sink installation", "75GPD capacity with 5 stages", "2.2 gallon tank included", "With PRV & Pump", "Made in Turkey"],
+        about: [
+            "Reverse Osmosis purification method",
+            "Under sink installation",
+            "75GPD capacity with 5 stages",
+            "2.2 gallon tank included",
+            "With PRV & Pump", "Made in Turkey"
+        ],
         description: "GWS Aqua wave Premium 75gpd 5 stage Under the Sink RO system for Domestic Use. 1 year warranty from the date of Invoice against Manufacturing Defect.",
-        specs: [{ title: "Capacity", text: "2.2 Gallons / 75GPD" }, { title: "Stages", text: "5" }, { title: "Material", text: "Polyamide" }, { title: "Installation", text: "Under Sink" }, { title: "Power Source", text: "Corded Electric" }],
-        technical: [{ title: "Purification Method", text: "Reverse Osmosis" }, { title: "Origin", text: "Turkey" }]
+        specs: [
+            { title: "Capacity", text: "2.2 Gallons / 75GPD" },
+            { title: "Stages", text: "5" },
+            { title: "Material", text: "Polyamide" },
+            { title: "Installation", text: "Under Sink" },
+            { title: "Power Source", text: "Corded Electric" }],
+        technical: [
+            { title: "Purification Method", text: "Reverse Osmosis" },
+            { title: "Origin", text: "Turkey" }
+        ]
     },
     {
         categoryFilter: "pressure-vessle",
@@ -2212,7 +2494,7 @@ const globalWaterProducts = [
         overview: "GWS Challenger Series 60 Litres Pressure Steel Tank, 10 Bar, With round base",
         standardPrice: "675",
         amazonPrice: "800",
-        weight: "12.25 kg",
+        weight: "12.25",
         freightCharges: "44.5",
         sellingPriceWithFreight: "844.5",
         newAmazonSellingPrice: "886.725",
@@ -2225,7 +2507,7 @@ const globalWaterProducts = [
         about: ["60 Liter capacity", "Pressure vessel for water systems", "3 years warranty against Manufacturing Defect", "Made in USA"],
         description: "GWS Pressure Vessel Vertical Floor Standing type with Stand. GWS Challenger Series 60 Litres Pressure Steel Tank, 10 Bar, With round base.",
         specs: [{ title: "Capacity", text: "60 Liters" }, { title: "Material", text: "Steel" }, { title: "Colour", text: "White" }, { title: "Shape", text: "Round" }],
-        technical: [{ title: "Dimensions", text: "80 x 40 x 40 cm" }, { title: "Item Weight", text: "10 kg" }, { title: "Origin", text: "USA" }]
+        technical: [{ title: "Dimensions", text: "80 x 40 x 40 cm" }, { title: "Item Weight", text: "10 kg" }, { title: "Origin", text: "USA" }, { title: "Batteries Included?", text: "No" }, { title: "Batteries Required?", text: "No" }]
     },
     {
         categoryFilter: "pressure-vessle",
@@ -2235,7 +2517,7 @@ const globalWaterProducts = [
         overview: "GWS 20\" JUMBO ONESTOP PLUS HOUSING KIT (BSP VERSION) FOR DOMESTIC USE",
         standardPrice: "850",
         amazonPrice: "900",
-        weight: "7.75 kg",
+        weight: "7.75",
         freightCharges: "35.5",
         sellingPriceWithFreight: "935.5",
         newAmazonSellingPrice: "982.275",
@@ -2247,7 +2529,7 @@ const globalWaterProducts = [
         about: ["Anti scaling system for domestic use", "20\" Jumbo housing kit", "BSP version"],
         description: "GWS Anti scaling System for Domestic Use 20\" JUMBO ONESTOP PLUS HOUSING KIT (BSP VERSION).",
         specs: [{ title: "Size", text: "20\" Jumbo" }, { title: "Type", text: "BSP Version" }, { title: "Category", text: "Water Purification Unit" }],
-        technical: [{ title: "Manufacturer", text: "GLOBAL WATER SOLUTIONS" }]
+        technical: [{ title: "Manufacturer", text: "GLOBAL WATER SOLUTIONS" }, { title: "Batteries Included?", text: "No" }, { title: "Batteries Required?", text: "No" }]
     },
     {
         categoryFilter: "pressure-vessle",
@@ -2256,7 +2538,7 @@ const globalWaterProducts = [
         overview: "GWS Econowave Series 24 Litres Pressure Steel Tank, 10 Bar, Inline Type, Without base",
         standardPrice: "120",
         amazonPrice: "200",
-        weight: "4.1 kg",
+        weight: "4.1",
         freightCharges: "25",
         sellingPriceWithFreight: "63",
         newAmazonSellingPrice: "200",
@@ -2266,10 +2548,43 @@ const globalWaterProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422630/Picture2_jxct3y.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422633/Picture3_h1aivs.png"
         ],
-        about: ["24 Liter capacity", "Max Pressure: 10 Bar", "Test Pressure: 14.3 Bar", "Standard Recharge: 2 Bar", "Corrosion-resistant design", "Reduces pump cycling and prolongs pump life"],
+        about: [
+            "High Capacity 24 Liter Tank Ensures reliable water pressure for household and commercial systems.",
+            "Durable Steel Construction Corrosion-resistant design for long-lasting performance and strength.",
+            "Max Pressure: 10 Bar Suitable for high-demand water supply and booster systems.",
+            "Test Pressure: 14.3 Bar Rigorously tested for maximum safety and durability.",
+            "Standard Recharge: 2 Bar Provides optimal efficiency, reduces pump cycling, and prolongs pump life.",
+            "Versatile Applications Ideal for domestic use, irrigation, workshops, and light industrial water systems.",
+            "Reliable Brand Manufactured by Global Water Solutions, known for trusted and high-quality water system components."
+        ],
         description: "Oracz (Global Water Solutions) 24 Liter Water Pressure Tank. Built with premium-grade steel for domestic, commercial, and light industrial applications.",
-        specs: [{ title: "Capacity", text: "24 Liters" }, { title: "Max Pressure", text: "10 Bar" }, { title: "Test Pressure", text: "14.3 Bar" }, { title: "Standard Recharge", text: "2 Bar" }, { title: "Colour", text: "Off-White" }],
-        technical: [{ title: "Dimensions", text: "30 x 30 x 45 cm" }, { title: "Item Weight", text: "3.9 kg" }, { title: "Model", text: "PEB-24LX" }]
+        bullets: [
+            "Ensure consistent and reliable water pressure in your home or workplace with the Oracz (Global Water Solutions) 24 Liter Water Pressure Tank.",
+            "Built with premium-grade steel and engineered for durability, this booster tank is designed to handle high-pressure demands while maintaining long-lasting performance.",
+            "With a maximum pressure of 10 Bar and a test pressure of 14.3 Bar, it delivers dependable results for domestic, commercial, and light industrial applications.",
+            "Recharged at 2 Bar, the tank ensures optimal operation for boosting systems, reducing pump cycling, and extending the life of your water pump.",
+            "Perfect for use in homes, offices, irrigation systems, and industrial setups, this pressure tank is a reliable solution to maintain stable water supply and performance."
+        ],
+        specs: [
+            { title: "Brand", text: "ORACZ" },
+            { title: "Colour", text: "Off-White" },
+            { title: "Product dimensions", text: "30L x 30W x 45H centimetres" },
+            { title: "Item weight", text: "3900 Grams" },
+            { title: "Manufacturer", text: "JASI BUILDING MATERIALS TRADING LLC." }
+        ],
+        technical: [
+            { title: "Manufacturer", text: "JASI BUILDING MATERIALS TRADING LLC." },
+            { title: "Item Weight", text: "3.9 kg" },
+            { title: "Dimensions", text: "30 x 30 x 45 cm" },
+            { title: "Item model number", text: "PEB-24LX" },
+            { title: "Colour", text: "Off-White" },
+            { title: "Item Package Quantity", text: "1" },
+            { title: "Batteries Included?", text: "No" },
+            { title: "Batteries Required?", text: "No" },
+            { title: "Date First Available", text: "7 September 2025" },
+            { title: "ASIN", text: "B0FQ3M7VRK" },
+            { title: "Item Model Number", text: "PEB-24LX" }
+        ]
     },
     {
         categoryFilter: "pressure-vessle",
@@ -2278,7 +2593,7 @@ const globalWaterProducts = [
         overview: "GWS Pressure Wave Series 60 Litres Pressure Steel Tank, 10 Bar, With round base",
         standardPrice: "405",
         amazonPrice: "886",
-        weight: "12.25 kg",
+        weight: "12.25",
         freightCharges: "40",
         sellingPriceWithFreight: "273",
         newAmazonSellingPrice: "700",
@@ -2288,10 +2603,35 @@ const globalWaterProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422669/Picture2_gen8em.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422672/Picture3_lck4ot.png"
         ],
-        about: ["Ideal for booster systems, thermal expansion, irrigation systems, and hydraulic hammer arresting", "Virgin polypropylene liner with FDA approved high grade butyl diaphragm", "Patented stainless steel water connection", "UV and salt spray protection coating"],
+        about: [
+            "Ideal for booster systems, thermal expansion, irrigation systems, and hydraulic hammer arresting",
+            "Virgin polypropylene liner with FDA approved high grade butyl diaphragm",
+            "Patented stainless steel water connection",
+            "UV and salt spray protection coating"
+        ],
         description: "Global Water Solution Pressure Wave tanks represent the best value and are the best quality pressure vessels available. 1 year warranty.",
+        bullets: [
+            "Global Water Solution Pressure Wave tanks are ideally suited for a wide range of applications, including booster systems, thermal expansion, irrigation systems, and hydraulic hammer arresting.",
+            "Global Water Solution Pressure Wave tanks are constructed of a virgin polypropylene liner combined with an FDA approved high grade butyl diaphragm. Water enters the tank through a patented stainless steel water connection. The diaphragm and liner are both reinforced in specific wear areas for longer life. All internal parts including the air valve are rounded to prevent piercing of the diaphragm in extreme conditions.",
+            "Global Water Solution Pressure Wave tanks are quality tested at several stages on the production line to ensure the structural integrity of every tank. On the exterior the almond-coloured two-part polyurethane paint finish over an epoxy undercoating provides hundreds of hours of UV and salt spray protection. Global Water Solution Pressure Wave tanks represent the best value for the investment and are the best quality pressure vessels available today in the World.",
+            "Tank pre-charge: 1.9 bar / 28 psi Maximum Working Pressure: 10 bar / 150 psi Maximum Working Temperature: 90¡C / 194¡F",
+            "It is suitable to use in booster systems, thermal expansion, irrigation systems, and hydraulic hammer arresting. It is not RO Tank."
+        ],
         specs: [{ title: "Capacity", text: "60 Liters" }, { title: "Pre-charge", text: "1.9 bar / 28 psi" }, { title: "Max Working Pressure", text: "10 bar / 150 psi" }, { title: "Max Working Temp", text: "90°C / 194°F" }],
-        technical: [{ title: "Weight", text: "15 kg" }, { title: "Dimensions", text: "64 x 40 x 16.5 cm" }, { title: "Special Feature", text: "UV protection" }]
+        technical: [
+            { title: "Indoor/Outdoor Usage", text: "Indoor" },
+            { title: "Brand", text: "GLOBAL WATER" },
+            { title: "Special Feature", text: "UV protection" },
+            { title: "Item Weight", text: "15 kg" },
+            { title: "Net Quantity", text: "1.0 Count" },
+            { title: "Product Care Instructions", text: "Water" },
+            { title: "USDA Hardiness Zone", text: "10" },
+            { title: "Number of Pieces", text: "1" },
+            { title: "Manufacturer", text: "Global Water Solutions Ltd" },
+            { title: "Item part number", text: "GWSPWB60LVHP60TWh" },
+            { title: "Package Dimensions", text: "64 x 40 x 16.5 cm" },
+            { title: "ASIN", text: "B07P6RC3S8" },
+        ]
     },
     {
         categoryFilter: "pressure-vessle",
@@ -2300,7 +2640,7 @@ const globalWaterProducts = [
         overview: "GWS Challenger Pressure Vessel 100L Pressure Steel Tank, 10 Bar, With round base",
         standardPrice: "560",
         amazonPrice: "800",
-        weight: "20.1 kg",
+        weight: "20.1",
         sellingPriceWithFreight: "367.5",
         newAmazonSellingPrice: "800",
         brand: "GLOBAL WATER SOLUTIONS",
@@ -2308,8 +2648,20 @@ const globalWaterProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422652/Picture1_p9b6ws.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422655/Picture2_ij7pyv.png"
         ],
-        about: ["Virgin polypropylene liner and high-grade butyl diaphragm", "Patented stainless-steel water connection with dual water/air seal", "Ideal for booster systems and thermal expansion", "3 years warranty against Manufacturing Defect", "Made in USA"],
+        about: [
+            "Virgin polypropylene liner and high-grade butyl diaphragm",
+            "Patented stainless-steel water connection with dual water/air seal",
+            "Ideal for booster systems and thermal expansion",
+            "Round base",
+            "3 years warranty against Manufacturing Defect",
+            "Made in USA"
+        ],
         description: "The Pressure Wave 100-liter vertical pressure tank is built for durability and reliability in demanding pressure applications. Robust carbon steel shell with dual-layer polyurethane paint for excellent corrosion resistance.",
+        bullets: [
+            "The Pressure Wave™ 100-liter / 26.42-gallon vertical pressure tank is built for durability and reliability in demanding pressure applications. Its virgin polypropylene liner and high-grade butyl diaphragm, clench-ring sealed and reinforced in critical areas, ensure longevity and efficiency. The patented stainless-steel water connection provides a dual water/air seal for leak-free operation.",
+            "Pre-charged to 1.9 bar / 28 psi and fitted with a 1\" NPT connection, this vertical tank is ideal for high-capacity systems like booster systems or thermal expansion. Its robust carbon steel shell, finished with dual-layer polyurethane paint, guarantees excellent resistance to corrosion and wear.",
+            "GWS Pressure Vessel Vertical Floor Standing type with Stand"
+        ],
         specs: [{ title: "Capacity", text: "100 Liters / 26.42 Gallons" }, { title: "Connection", text: "1\" FNPT" }, { title: "Pre-charge", text: "1.9 bar / 28 psi" }, { title: "Max Pressure", text: "10 bar / 150 psi" }, { title: "Max Temp", text: "90°C / 194°F" }, { title: "Diameter", text: "43 cm / 16.9 in" }],
         technical: [{ title: "Weight", text: "19.72 kg" }, { title: "Material", text: "Steel" }, { title: "Colour", text: "White" }, { title: "Origin", text: "USA" }]
     }

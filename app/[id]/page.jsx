@@ -33,7 +33,7 @@ async function ProductPage({ params, searchParams }) {
             <Product product={product} model={model} locale={"en"} currency="AED" addToCart="Add to Cart" company="MAHY Khoory"
                 modelHeading="Model" modelsHeading="Models" toastText="Product added to cart." />
             <div className='px-5'>
-                <ProductInfo technical={product.technical} description={product.description} />
+                <ProductInfo technical={product.technical} description={product.description} bullets={product.bullets} features={product.features} />
                 {/* <ProductAbout about={product.about} description={product.description} /> */}
                 {/* <Specs tabs={tabs} technical={product.technical} specs={product.specs} /> */}
                 <MoreProducts

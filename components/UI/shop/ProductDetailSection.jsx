@@ -35,21 +35,23 @@ function ProductDetailSection({ company, product, model, locale, currency, addTo
                 <div className='space-y-2 mt-4 text-sm'>
                     {product.specs.map((spec, i) => (
                         <div key={i} className="flex gap-2">
-                            <span className="text-gray-900 font-medium w-[35%]">{spec.title}</span>
-                            <p className="text-gray-800 w-[65%]">{spec.text}</p>
+                            <span className="text-gray-900 font-medium w-[35%] capitalize">{spec.title}</span>
+                            <p className="text-gray-800 w-[65%] capitalize">{spec.text}</p>
                         </div>
                     ))}
-                    <div className='flex gap-2'>
-                        <span className="text-gray-900 font-medium w-[35%]">Weight</span>
-                        <p className="text-gray-800 w-[65%]">{product.weight} kgs</p>
-                    </div>
+                    {product.weight && (
+                        <div className='flex gap-2'>
+                            <span className="text-gray-900 font-medium w-[35%]">Gross Weight</span>
+                            <p className="text-gray-800 w-[65%]">{product.weight} kgs</p>
+                        </div>
+                    )}
                 </div>
 
                 <div className='mt-4 border-t border-gray-300 pt-4'>
                     <h2 className='font-semibold text-gray-700 '>About this item</h2>
-                    <ul className='list-disc list-inside space-y-1 text-gray-900 font-light tracking-tight mt-2 md:mt-2 text-sm md:text-base'>
+                    <ul className='list-disc list-inside space-y-1 text-gray-900 font-light tracking-tight mt-2 md:mt-2 text-sm'>
                         {product.about.map((item, i) => (
-                            <li key={i} className='text-justify'>{item}</li>
+                            <li key={i} className='capitalize'>{item}</li>
                         ))}
                     </ul>
                 </div>

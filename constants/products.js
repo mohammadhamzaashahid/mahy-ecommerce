@@ -2675,15 +2675,26 @@ const grundfosProducts = [
         standardPrice: "275",
         freightCharges: "20",
         sellingPriceWithFreight: "350",
-        weight: "1.65 kg",
+        weight: "1.65",
         brand: "GRUNDFOS",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423150/Picture1_eivc8u.png"
         ],
         about: ["Automatic start/stop control", "Dry running protection", "1.5 bar start cut-in pressure", "Automatic restart"],
         description: "Grundfos PM START pressure manager designed for automatic start/stop control of water supply pumps with dry-running protection.",
+        bullets: [
+            "PM START is a basic control solution suitable for applications where start and stop operation of the pump according to consumption is needed.",
+            "PM START starts the pump when a start cut-in pressure of 1.5 bar is reached and keeps the pump running as long as there is sufficient flow. PM START stops the pump in case of water shortage and protects it from dry running",
+            "It offers basic control features as well as dry-running protection and automatic restart."
+        ],
         specs: [{ title: "Pressure", text: "1.5 BAR" }],
-        technical: [{ title: "Weight", text: "1.06 kg" }, { title: "Dimensions", text: "28 x 17.8 x 17.2 cm" }]
+        technical: [
+            { title: "Manufacturer", text: "Groundfos" },
+            { title: "Date First Available", text: "26 August 2023" },
+            { title: "Weight", text: "1.06 kg" },
+            { title: "Dimensions", text: "28 x 17.8 x 17.2 cm" },
+            { title: "Batteries Required?", text: "No" }
+        ]
     },
     {
         categoryFilter: "pump",
@@ -2693,16 +2704,44 @@ const grundfosProducts = [
         standardPrice: "1850",
         amazonPrice: "2797",
         freightCharges: "50",
-        weight: "17.4 kg",
+        weight: "17.4",
         brand: "GRUNDFOS",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423121/Picture1_j4ks9d.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423125/Picture2_ffvdsd.png"
         ],
-        about: ["Installation services available", "Self-priming design", "Dry run protection", "Compact design"],
+        about: [
+            "Installation services are available upon request by Grundfos Trained Professionals",
+            "Self-Priming Design - ideal for pressurizing water from above or below ground water sources",
+            "Equipped with dry run protection - automatically stops if water source runs out, avoiding pump damage"
+        ],
         description: "Multipurpose pump for optimal water pressure. Applications: Private homes/villas, Gardens, Schools, Hotels, Small office buildings.",
-        specs: [{ title: "Power", text: "2.0 HP" }, { title: "Material", text: "Stainless Steel" }],
-        technical: [{ title: "Weight", text: "16 kg" }, { title: "Dimensions", text: "49.2 x 25 x 20.8 cm" }, { title: "Style", text: "Circulator" }]
+        bullets: [
+            "Bringing a high degree of comfort to your homes",
+            "CM is a multipurpose pump that ensures optimal water pressure at all times",
+            "It's a modern advanced solution that brings comfort to people's homes",
+            "Applications: Private homes/villas Gardens Schools Hotels Small office buildings"
+        ],
+        specs: [
+            { title: "Brand", text: "Grundfos" },
+            { title: "Colour", text: "Multi" },
+            { title: "Material", text: "Stainless Steel" },
+            { title: "Style", text: "Circulator" },
+            { title: "Power source", text: "Electric" },
+            { title: "Power", text: "2.0 HP" }
+        ],
+        technical: [
+            { title: "Manufacturer", text: "Groundfos" },
+            { title: "Weight", text: "16 kg" },
+            { title: "Dimensions", text: "49.2 x 25 x 20.8 cm" },
+            { title: "Item model number", text: "CM5-5" },
+            { title: "Color", text: "Multi" },
+            { title: "Style", text: "Circulator" },
+            { title: "Material", text: "Stainless Steel" },
+            { title: "Power source", text: "Electric" },
+            { title: "Batteries Required?", text: "No" },
+            { title: "Date First Available ", text: "2 April 2019" }
+        ]
     },
     {
         categoryFilter: "pump",
@@ -2712,15 +2751,43 @@ const grundfosProducts = [
         standardPrice: "1300",
         amazonPrice: "1990",
         freightCharges: "50",
-        weight: "16.1 kg",
+        weight: "16.1",
         brand: "GRUNDFOS",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423129/Picture1_rmyum5.png"
         ],
-        about: ["Installation services available", "Self-priming design", "Compact design"],
+        about: [
+            "Installation services are available upon request by Grundfos Trained Professionals",
+            "Install easily with CM’s customized and compact design",
+            "Self-Priming Design - ideal for pressurizing water from above or below ground water sources"
+        ],
         description: "Multipurpose pump ensuring optimal water pressure for homes, gardens, schools, hotels, small office buildings.",
-        specs: [{ title: "Power", text: "1.5 HP" }, { title: "Material", text: "Stainless Steel" }],
-        technical: [{ title: "Weight", text: "16 kg" }, { title: "Dimensions", text: "39.6 x 24.2 x 20.5 cm" }, { title: "Style", text: "Above Ground" }]
+        bullets: [
+            "Bringing a high degree of comfort to your homes",
+            "CM is a multipurpose pump that ensures optimal water pressure at all times",
+            "It’s a modern advanced solution that brings comfort to people’s homes Private homes/villas Gardens Schools Hotels Small office buildings"
+        ],
+        specs: [
+            { title: "Brand", text: "Grundfos" },
+            { title: "Colour", text: "Black" },
+            { title: "Material", text: "Stainless Steel" },
+            { title: "Style", text: "Above Ground" },
+            { title: "Power source", text: "Corded Electric" },
+        ],
+        technical: [
+            { title: "Manufacturer", text: "Groundfos" },
+            { title: "Part number", text: "97901003 CM5-4" },
+            { title: "Item Weight", text: "16 kg" },
+            { title: "Dimensions", text: "39.6 x 24.2 x 20.5 cm" },
+            { title: "Item model number", text: "97901003 CM5-4" },
+            { title: "Color", text: "Black" },
+            { title: "Style", text: "Above Ground" },
+            { title: "Material", text: "Stainless Steel" },
+            { title: "Power source", text: "Corded Electric" },
+            { title: "Power", text: "1.5 HP" },
+            { title: "Batteries Required?", text: "No" },
+            { title: "Date First Available", text: "2 April 2019" }
+        ]
     },
     {
         categoryFilter: "pump",
@@ -2730,7 +2797,7 @@ const grundfosProducts = [
         standardPrice: "895",
         amazonPrice: "1098",
         freightCharges: "45",
-        weight: "14.4 kg",
+        weight: "14.4",
         brand: "GRUNDFOS",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423143/Picture1_bdi5wl.png",
@@ -2738,8 +2805,25 @@ const grundfosProducts = [
         ],
         about: ["Friendly user control panel", "One year warranty", "Self priming design"],
         description: "Multipurpose pump for optimal water pressure in residential and commercial applications.",
-        specs: [{ title: "Power", text: "1 HP" }, { title: "Material", text: "Stainless Steel" }],
-        technical: [{ title: "Color", text: "Black" }, { title: "Power Source", text: "Corded Electric" }]
+        specs: [
+            { title: "Brand", text: "Grundfos" },
+            { title: "Colour", text: "Black" },
+            { title: "Material", text: "Stainless Steel or Cast Iron or Thermoplastics like PVC or polypropylene" },
+            { title: "Style", text: "Utilitarian" },
+            { title: "Power source", text: "Corded Electric" },
+            { title: "Power", text: "1 HP" }
+        ],
+        technical: [
+            { title: "Color", text: "Black" },
+            { title: "Style", text: "Utilitarian" },
+            { title: "Material", text: "Stainless Steel or Cast Iron or Thermoplastics like PVC or polypropylene" },
+            { title: "Power source", text: "Corded Electric" },
+            { title: "Batteries Included?", text: "No" },
+            { title: "Brand", text: "Grundfos" },
+            { title: "Manufacturer", text: "Grundfos" },
+            { title: "Item model number", text: "CM5-3" },
+            { title: "Package Dimensions", text: "30 x 20 x 10 cm; 2 kg" }
+        ]
     },
     {
         categoryFilter: "pump",
@@ -2749,7 +2833,7 @@ const grundfosProducts = [
         standardPrice: "2250",
         amazonPrice: "2625",
         freightCharges: "40",
-        weight: "12 kg",
+        weight: "12",
         brand: "GRUNDFOS",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423159/Picture1_fst0pr.png",
@@ -2760,8 +2844,37 @@ const grundfosProducts = [
         ],
         about: ["Intelligent pump control", "Low noise operation (47 dba)", "Up to 80% energy savings", "Suitable for villas with 3 floors and 8 taps"],
         description: "Smart water pump with intelligent boosting system. Perfect water pressure with automatic adjustment.",
-        specs: [{ title: "Material", text: "Cast Iron" }, { title: "Style", text: "Submersible" }],
-        technical: [{ title: "Weight", text: "3.94 kg" }, { title: "Dimensions", text: "46.4 x 37.4 x 25.4 cm" }, { title: "Power Source", text: "Smart Electric Pump" }]
+        bullets: [
+            "Save energy with Scala2's intelligent boosting system",
+            "Perfect for villas with up to 3 floors and 8 taps",
+            "Perfect water pressure: Intelligent pump control adjusts operation automatically",
+            "Experience comfort with low noise operation",
+            "Manage easily with our user-friendly control panel",
+            "Save up to 80% energy compared to conventional pumps",
+            "Low noise: as quiet as a modern dishwasher (47 dba) in typical use",
+            "Easy selection: One variant for all domestic boosting needs",
+            "Pump housing Material Cast Iron Boosting from wells",
+            "Pumps water from a depth of 8 meters"
+        ],
+        specs: [
+            { title: "Brand", text: "Grundfos" },
+            { title: "Colour", text: "Multi" },
+            { title: "Material", text: "Cast Iron" },
+            { title: "Style", text: "Submersible" },
+            { title: "Power Source", text: "Smart Electric Pump" }
+        ],
+        technical: [
+            { title: "Manufacturer", text: "Grundfos" },
+            { title: "Part number", text: "‎98562870" },
+            { title: "Weight", text: "3.94 kg" },
+            { title: "Dimensions", text: "46.4 x 37.4 x 25.4 cm" },
+            { title: "Item model number", text: "‎98562870" },
+            { title: "Color", text: "Multi" },
+            { title: "Style", text: "Submersible" },
+            { title: "Material", text: "Cast Iron" },
+            { title: "Power Source type", text: "Smart Electric Pump" },
+            { title: "Batteries Required?", text: "No" },
+        ]
     },
     {
         categoryFilter: "pump",
@@ -2771,16 +2884,43 @@ const grundfosProducts = [
         standardPrice: "1500",
         amazonPrice: "1842.54",
         freightCharges: "54.8",
-        weight: "17.4 kg",
+        weight: "17.4",
         brand: "GRUNDFOS",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423153/Picture1_qnr0yw.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423156/Picture2_u3rgxs.png"
         ],
-        about: ["Installation services available", "Self-priming design", "Dry run protection"],
+        about: [
+            "Installation services are available upon request by Grundfos Trained Professionals",
+            "Self-Priming Design - ideal for pressurizing water from above or below ground water sources",
+            "Equipped with dry run protection - automatically stops if water source runs out, avoiding pump damage"
+        ],
         description: "Multipurpose pump for optimal water pressure. Applications: Private homes, gardens, schools, hotels.",
-        specs: [{ title: "Power", text: "2.0 HP" }, { title: "Material", text: "Stainless Steel" }],
-        technical: [{ title: "Weight", text: "16 kg" }, { title: "Dimensions", text: "49.2 x 25 x 20.8 cm" }, { title: "Style", text: "Circulator" }]
+        bullets: [
+            "Bringing a high degree of comfort to your homes",
+            "CM is a multipurpose pump that ensures optimal water pressure at all times",
+            "It's a modern advanced solution that brings comfort to people's homes"
+        ],
+        specs: [
+            { title: "Brand", text: "Grundfos" },
+            { title: "Colour", text: "Multi" },
+            { title: "Material", text: "Stainless Steel" },
+            { title: "Style", text: "Circulator" },
+            { title: "Power source", text: "Electric" },
+            { title: "Power", text: "2.0 HP" },
+        ],
+        technical: [
+            { title: "Manufacturer", text: "Grundfos" },
+            { title: "Weight", text: "16 kg" },
+            { title: "Dimensions", text: "49.2 x 25 x 20.8 cm" },
+            { title: "Item model number", text: "CM5-5" },
+            { title: "Color", text: "Multi" },
+            { title: "Style", text: "Circulator" },
+            { title: "Material", text: "Stainless Steel" },
+            { title: "Power source type", text: "Electric" },
+            { title: "Batteries Required?", text: "No" },
+            { title: "Date First Available", text: "2 April 2019" }
+        ]
     },
     {
         categoryFilter: "pump",
@@ -2790,17 +2930,44 @@ const grundfosProducts = [
         standardPrice: "900",
         amazonPrice: "1157.31",
         freightCharges: "52.2",
-        weight: "16.1 kg",
+        weight: "16.1",
         brand: "GRUNDFOS",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422998/Picture1_kuh0ph.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423000/Picture2_onboqz.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423002/Picture3_wnkmuu.png"
         ],
-        about: ["Installation services available", "Self-priming design", "Compact design"],
+        about: [
+            "Installation services are available upon request by Grundfos Trained Professionals",
+            "Install easily with CM’s customized and compact design",
+            "Self-Priming Design - ideal for pressurizing water from above or below ground water sources"
+        ],
         description: "Multipurpose pump ensuring optimal water pressure for residential and commercial applications.",
-        specs: [{ title: "Power", text: "1.5 HP" }, { title: "Material", text: "Stainless Steel" }],
-        technical: [{ title: "Weight", text: "16 kg" }, { title: "Dimensions", text: "39.6 x 24.2 x 20.5 cm" }]
+        bullets: [
+            "Bringing a high degree of comfort to your homes",
+            "CM is a multipurpose pump that ensures optimal water pressure at all times",
+            "It’s a modern advanced solution that brings comfort to people’s homes Private homes/villas Gardens Schools Hotels Small office buildings"
+        ],
+        specs: [
+            { title: "Brand", text: "Grundfos" },
+            { title: "Colour", text: "Black" },
+            { title: "Material", text: "Stainless Steel" },
+            { title: "Style", text: "Above Ground" },
+            { title: "Power source", text: "Corded Electric" },
+        ],
+        technical: [
+            { title: "Manufacturer", text: "Groundfos" },
+            { title: "Part number", text: "97901003 CM5-4" },
+            { title: "Weight", text: "16 kg" },
+            { title: "Dimensions", text: "39.6 x 24.2 x 20.5 cm" },
+            { title: "Item model number", text: "97901003 CM5-4" },
+            { title: "Colour", text: "Black" },
+            { title: "Style", text: "Above Ground" },
+            { title: "Material", text: "Stainless Steel" },
+            { title: "Power source type", text: "Corded Electric" },
+            { title: "Power", text: "1.5 HP" },
+            { title: "Batteries Required?", text: "No" },
+        ]
     },
     {
         categoryFilter: "pump",
@@ -2810,17 +2977,46 @@ const grundfosProducts = [
         standardPrice: "625",
         amazonPrice: "838.74",
         freightCharges: "48.8",
-        weight: "14.4 kg",
+        weight: "14.4",
         brand: "GRUNDFOS",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423131/Picture1_b8irxb.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423134/Picture2_dkhcij.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423137/Picture3_i0pv8j.png"
         ],
-        about: ["Installation services available", "Self-priming design", "Dry run protection"],
+        about: [
+            "Installation services are available upon request by Grundfos Trained Professionals",
+            "Self-Priming Design - ideal for pressurizing water from above or below ground water sources",
+            "Equipped with dry run protection - automatically stops if water source runs out, avoiding pump damage"
+        ],
         description: "Multipurpose pump for optimal water pressure in private homes, gardens, schools, hotels.",
-        specs: [{ title: "Power", text: "1 HP" }, { title: "Material", text: "Stainless Steel" }],
-        technical: [{ title: "Weight", text: "16 kg" }, { title: "Dimensions", text: "39.4 x 25.4 x 20.6 cm" }]
+        bullets: [
+            "Bringing a high degree of comfort to your homes",
+            "CM is a multipurpose pump that ensures optimal water pressure at all times",
+            "It’s a modern advanced solution that brings comfort to people’s homes Private homes/villas Gardens Schools Hotels Small office buildings"
+        ],
+        specs: [
+            { title: "Brand", text: "Grundfos" },
+            { title: "Colour", text: "Black" },
+            { title: "Material", text: "Stainless Steel" },
+            { title: "Style", text: "Above Ground" },
+            { title: "Power source", text: "Electric" },
+            { title: "Power", text: "1 HP" },
+        ],
+        technical: [
+            { title: "Manufacturer", text: "Grundfos" },
+            { title: "Part number", text: "98279546 CM5-3" },
+            { title: "Weight", text: "16 kg" },
+            { title: "Dimensions", text: "39.4 x 25.4 x 20.6 cm" },
+            { title: "Item model number", text: "CM Horizontal Multipurpose Pump 5-3" },
+            { title: "Colour", text: "Black" },
+            { title: "Style", text: "Above Ground" },
+            { title: "Material", text: "Stainless Steel" },
+            { title: "Power source", text: "Electric" },
+            { title: "Batteries Required?	", text: "No" },
+            { title: "", text: "" },
+            { title: "", text: "" },
+        ]
     },
     {
         categoryFilter: "pump",
@@ -2830,7 +3026,7 @@ const grundfosProducts = [
         standardPrice: "1900",
         amazonPrice: "2460.78",
         freightCharges: "43.6",
-        weight: "11.8 kg",
+        weight: "11.8",
         brand: "GRUNDFOS",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423006/Picture1_pzyvtj.png",
@@ -2838,10 +3034,43 @@ const grundfosProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423085/Picture3_b8akjm.png",
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423119/Picture4_hwpnvl.png"
         ],
-        about: ["Intelligent pump control", "Low noise (47 dba)", "Up to 80% energy savings", "Pumps from 8m depth"],
+        about: [
+            "Intelligent pump control",
+            "Low noise (47 dba)",
+            "Up to 80% energy savings",
+            "Pumps from 8m depth"
+        ],
         description: "Smart water pump perfect for villas with up to 3 floors and 8 taps with intelligent boosting.",
-        specs: [{ title: "Material", text: "Cast Iron" }, { title: "Well Depth", text: "8 meters" }],
-        technical: [{ title: "Weight", text: "3.94 kg" }, { title: "Dimensions", text: "46.4 x 37.4 x 25.4 cm" }]
+        bullets: [
+            "Save energy with Scala2’s intelligent boosting system",
+            "Perfect for villas with up to 3 floors and 8 taps",
+            "Perfect water pressure: Intelligent pump control adjusts operation automatically",
+            "Experience comfort with low noise operation",
+            "Manage easily with our user-friendly control panel",
+            "Save up to 80% energy compared to conventional pumps",
+            "Low noise: as quiet as a modern dishwasher (47 dba) in typical Use",
+            "Easy selection: One variant for all domestic boosting needs Pump housing Material Cast Iron Boosting from wells",
+            "Pumps water from a depth of 8 meters"
+        ],
+        specs: [
+            { title: "Brand", text: "Grundfos" },
+            { title: "Material", text: "Cast Iron" },
+            { title: "Well Depth", text: "8 meters" }
+        ],
+        technical: [
+            { title: "Manufacturer", text: "Grundfos" },
+            { title: "Part number", text: "98562870" },
+            { title: "Weight", text: "3.94 kg" },
+            { title: "Dimensions", text: "46.4 x 37.4 x 25.4 cm" },
+            { title: "Item model number", text: "98562870" },
+            { title: "Colour", text: "Multi" },
+            { title: "Style", text: "Submersible" },
+            { title: "Material", text: "Cast Iron" },
+            { title: "Power source type", text: "Smart Electric Pump" },
+            { title: "Batteries Required?", text: "No" },
+            { title: "ASIN", text: "B07PQZSXRX" },
+            { title: "Date First Available", text: "16 March 2019" },
+        ]
     },
     {
         categoryFilter: "pump",
@@ -2851,15 +3080,70 @@ const grundfosProducts = [
         standardPrice: "625",
         sellingPriceWithFreight: "850",
         freightCharges: "25",
-        weight: "2.7 kg",
+        weight: "2.7",
         brand: "GRUNDFOS",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423140/Picture1_mjidnc.png"
         ],
-        about: ["EC permanent magnet motor", "Suitable for solar systems", "PWM signal control", "4 constant speeds", "Maintenance-free"],
+        about: [
+            "High-efficiency pump with EC permanent magnet motor technology (electronically commutated motor)",
+            "Suitable for use in solar systems with variable or constant flow rate",
+            "Speed can be controlled via a signal supplied by the solar system controller",
+            "Without PWM signal, the Alpha Solar can be set to one of four constant speeds",
+            "Quick and easy installation - easy installation and maintenance-free"
+        ],
         description: "High-efficiency circulation pump for solar systems with variable or constant flow rate. Energy efficiency index ≤ 0.20.",
-        specs: [{ title: "Max Height", text: "7.5 m" }, { title: "Max Pressure", text: "10 bar" }, { title: "Power", text: "2-45 watts" }],
-        technical: [{ title: "Weight", text: "2.14 kg" }, { title: "Voltage", text: "230V" }, { title: "Temperature Range", text: "2-110°C" }, { title: "Installation Length", text: "180 mm" }]
+        bullets: [
+            "Grundfos High Efficiency Circulation Pump Alpha Solar 25-75 180 mm",
+            "The Grundfos Alpha Solar high-efficiency circulation pump is suitable for use in solar systems with variable or constant volume flow.",
+            "However, high-efficiency pumps with electronically commutated motor (ECM), such as the Alpha Solar, must not be controlled via an external speed controller that changes or varies the supply voltage.",
+            "The speed can be controlled via a pulse width modulated signal (PWM signal) supplied by the solar system controller to optimise the solar energy yield and the system temperature.",
+            "This also significantly reduces the power consumption of the pump.",
+            "If no PWM signal is available, the Alpha Solar can be set to one of four constant speeds. The pump is then only switched on or off via the control.",
+            "High-efficiency EC permanent magnet motor technology.",
+            "Energy efficiency index (EEI) ≤ 0.20 according to EN 16297-3: 2012 Best in Class",
+            "PWM signal C. The PWM signal is a method of generating an analog signal from a digital source",
+            "4 constant speeds, Maintenance-free, Low noise, Easy to install, Deblocking screw."
+        ],
+        features: [
+            { title: "Box Contents", text: "1 x pump, 1 x Alpha Male PWM Male, 2 x sealing rings, 1 x user manual. Attention: A screw connection for connecting the pump is not included." },
+        ],
+        specs: [
+            { title: "Brand", text: "Grundfos" },
+            { title: "Colour", text: "Schwarz" },
+            { title: "Material", text: "Gusseisen" },
+            { title: "Style", text: "Circulation pump" },
+            { title: "Power source type", text: "Corded Electric" },
+        ],
+        technical: [
+            { title: "Manufacturer", text: "Grundfos" },
+            { title: "Part number", text: "98989300" },
+            { title: "Weight", text: "2.14 kg" },
+            { title: "Item model number", text: "ALPHA" },
+            { title: "Color", text: "Schwarz" },
+            { title: "Style", text: "Circulation pump" },
+            { title: "Material", text: "Gusseisen" },
+            { title: "Power source type", text: "Corded Electric" },
+            { title: "Voltage", text: "230V" },
+            { title: "Item Package Quantity", text: "1" },
+            { title: "Batteries Included?", text: "No" },
+            { title: "Batteries Required ?", text: "No" },
+            { title: "Temperature Range", text: "2-110°C" },
+            { title: "Installation Length", text: "180 mm" },
+            { title: "Maximum discharge height", text: "7.5 m" },
+            { title: "Pump housing", text: "Grey cast iron" },
+            { title: "Max. Operating pressure", text: "10 bar" },
+            { title: "Nominal width", text: "G 1 1/2 inch" },
+            { title: "Installation length", text: "180 mm" },
+            { title: "Media temperature range", text: "2 - 110 °C" },
+            { title: "Media temperature", text: "60 °C" },
+            { title: "Power consumption P1", text: "2 - 45 watts" },
+            { title: "Maximum current consumption", text: "0.04 - 0.52 A" },
+            { title: "Mains frequency", text: "50 Hz" },
+            { title: "Rated voltage", text: "1 x 230 V" },
+            { title: "Protection class (IEC 34-5)", text: "X4D" },
+            { title: "Energy (EEI)", text: "0.20" }
+        ]
     }
 ];
 

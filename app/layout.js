@@ -39,6 +39,7 @@ export const viewport = {
   viewportFit: "cover",
   themeColor: "#000",
 };
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">

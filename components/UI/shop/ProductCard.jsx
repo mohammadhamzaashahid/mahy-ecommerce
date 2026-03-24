@@ -54,7 +54,9 @@ export default function ProductCard({
       <div className="bg-gray-50  pb-5 flex flex-col justify-between flex-1">
         <Link href={`${href}`} className="px-3 pt-3">
           <div>
-            <h3 className="font-medium text-gray-700">{title}</h3>
+            <h3 className="font-medium text-gray-700 line-clamp-4 leading-5 h-[80px]">
+              {title}
+            </h3>
 
             {/* Rating */}
             <div className="flex gap-2 mt-3">
@@ -75,7 +77,7 @@ export default function ProductCard({
 
             {/* Specs */}
             <div className="flex flex-wrap gap-2 mt-3">
-              {specs.slice(0, 3).map((spec, i) => (
+              {specs.slice(0, 5).map((spec, i) => (
                 <div
                   key={i}
                   className="px-3 py-2 bg-white rounded-xl border border-gray-100"

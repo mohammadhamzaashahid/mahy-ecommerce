@@ -197,10 +197,10 @@ const aristonProducts = [
         ],
         technical: [
             { title: "Manufacturer", text: "Ariston" },
-            { title: "Part number", text: "3100863" },
+            { title: "Part number", text: "3100631" },
             { title: "Item Weight", text: "6.7 Kilograms" },
             { title: "Product Dimensions", text: "36 x 29.8 x 38.5 cm; 6.7 kg" },
-            { title: "Item model number", text: "3100863" },
+            { title: "Item model number", text: "3100631" },
             { title: "Size", text: "10 Litre" },
             { title: "Color", text: "White" },
             { title: "Style", text: "2kW" },
@@ -1381,7 +1381,7 @@ const craneProducts = [
         category: "Crane Variable Orifice Double Regulating Valve",
         partNumber: "0JG90606A",
         overview: "CRANE F678L 2.1/2\" BUTTERFLY VALVE PN16 DI BODY FULLY LUGGED LEVER OPERATED EPDM LINER ALUMINIUM BRONZE DISC",
-        standardPrice: "220.90",
+        standardPrice: "1880.6",
         brand: "CRANE",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769420943/Picture1_b8bwbg.png",
@@ -2091,10 +2091,10 @@ const dewaltProducts = [
         about: [
             "18V Brushless Motor for maximum efficiency and longer life",
             "26mm SDS-Plus chuck for fast, secure bit changes",
-            "3 Modes: drilling, hammer drilling, and chiselling",
-            "Compact & Lightweight (2 kg) for reduced fatigue",
+            "3 Modes: drilling, hammer drilling, and chiselling for versatile applications",
+            "Compact & Lightweight (2 kg) for reduced fatigue and easy handling",
             "4.0Ah Li-ion Battery included for extended runtime",
-            "Ergonomic design with comfortable grip"
+            "Ergonomic design with comfortable grip for improved user"
         ],
         description: "DEWALT DCH133M1 18V brushless cordless hammer with 26mm SDS-Plus chuck, 3-mode operation, and 4.0Ah battery.",
         bullets: [
@@ -2111,14 +2111,14 @@ const dewaltProducts = [
             { title: "Voltage", text: "18V" }
         ],
         technical: [
-            { title: "Manufacturer", text: "‎DEWALT" },
+            { title: "Manufacturer", text: "DEWALT" },
             { title: "Part number", text: "DCH133M1.1" },
             { title: "Item Weight", text: "430 g" },
             { title: "Product Dimensions", text: "44 x 35.3 x 12.8 cm; 430 g" },
             { title: "Batteries", text: "2 Lithium-Ion batteries required (included)" },
             { title: "Item model number", text: "DCH133M1EXP-GB" },
-            { title: "Colour", text: "‎black" },
-            { title: "Material", text: "‎Aluminium" },
+            { title: "Colour", text: "Black" },
+            { title: "Material", text: "Aluminium" },
             { title: "Power source type", text: "Battery Powered" },
             { title: "Voltage", text: "18 Volts" },
             { title: "Maximum Power", text: "72 Watts" },
@@ -2210,10 +2210,10 @@ const dewaltProducts = [
         brand: "DEWALT",
         amazonLink: "https://www.amazon.ae/dp/DWE4010T-B5",
         images: [
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421603/51IL4uVw7mL._AC_SL1500__avzejp.png",
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421596/513i86x3PiL._AC_SL1392__-_Copy_-_Copy_vgqsxe.png",
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421675/81S4BwmXETL._AC_SL1500__kt6joq.png",
-            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421606/71GOOhcsiwL._AC_SL1500__ndojqo.png"
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774346571/image1_iey0bi.jpg",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774346559/image2_sdlice.jpg",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774346558/image3_rrvguo.jpg",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774346559/image4_wzeeyo.jpg"
         ],
         about: [
             "18V XR Brushless Motor - maximum efficiency and extended tool life",
@@ -2474,7 +2474,15 @@ const globalWaterProducts = [
             "2.2 gallon tank included",
             "With PRV & Pump", "Made in Turkey"
         ],
-        description: "GWS Aqua wave Premium 75gpd 5 stage Under the Sink RO system for Domestic Use. 1 year warranty from the date of Invoice against Manufacturing Defect.",
+        bullets: [
+            "Under the sink RO System GWS AQUAWAVE PREMIUM",
+            "ALL IN ONE RO SYSTEM 75GPD",
+            "5 STAGES,2.2GAL TANK, WITH PRV & PUMP",
+            "GWS Aqua wave Premium 75gpd 5 stage",
+            "Under the Sink RO system for Domestic Use",
+            "1 year from the date of Invoice Against Manufacturing Defect",
+            "Made In Turkey"
+        ],
         specs: [
             { title: "Capacity", text: "2.2 Gallons / 75GPD" },
             { title: "Stages", text: "5" },
@@ -2505,7 +2513,16 @@ const globalWaterProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422663/Picture3_cvdhqt.png"
         ],
         about: ["60 Liter capacity", "Pressure vessel for water systems", "3 years warranty against Manufacturing Defect", "Made in USA"],
-        description: "GWS Pressure Vessel Vertical Floor Standing type with Stand. GWS Challenger Series 60 Litres Pressure Steel Tank, 10 Bar, With round base.",
+        bullets: [
+            "GWS Pressure Vessel Vertical Floor Standing type with Stand",
+            "GWS Challenger Series 60 Litres",
+            "Pressure Steel Tank",
+            "10 Bar",
+            "With round base",
+            "GWS Challenger pressure vessel",
+            "3 years from the date of Invoice Against Manufacturing Defect",
+            "Made in USA"
+        ],
         specs: [{ title: "Capacity", text: "60 Liters" }, { title: "Material", text: "Steel" }, { title: "Colour", text: "White" }, { title: "Shape", text: "Round" }],
         technical: [{ title: "Dimensions", text: "80 x 40 x 40 cm" }, { title: "Item Weight", text: "10 kg" }, { title: "Origin", text: "USA" }, { title: "Batteries Included?", text: "No" }, { title: "Batteries Required?", text: "No" }]
     },
@@ -2804,7 +2821,11 @@ const grundfosProducts = [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423147/Picture2_nzxzqs.png"
         ],
         about: ["Friendly user control panel", "One year warranty", "Self priming design"],
-        description: "Multipurpose pump for optimal water pressure in residential and commercial applications.",
+        description: "The Grundfos CM5-3 is a high-performance horizontal multistage centrifugal pump designed for efficient water transfer and pressure boosting applications. Built with durable materials and advanced engineering, it ensures reliable performance in residential, commercial, and light industrial environments.",
+        features: [
+            { title: "Performance & Build", text: "This multistage pump is engineered for high efficiency and consistent pressure output. Its robust construction using corrosion-resistant materials ensures long-lasting durability and minimal maintenance requirements." },
+            { title: "Applications", text: "Water supply systems, Pressure boosting, Irrigation systems, Commercial and residential water transfer" }
+        ],
         specs: [
             { title: "Brand", text: "Grundfos" },
             { title: "Colour", text: "Black" },

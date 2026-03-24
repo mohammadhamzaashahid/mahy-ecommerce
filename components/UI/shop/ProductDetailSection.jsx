@@ -36,7 +36,7 @@ function ProductDetailSection({ company, product, model, locale, currency, addTo
                     {product.specs.map((spec, i) => (
                         <div key={i} className="flex gap-2">
                             <span className="text-gray-900 font-medium w-[35%] capitalize">{spec.title}</span>
-                            <p className="text-gray-800 w-[65%] capitalize">{spec.text}</p>
+                            <p className="text-gray-800 w-[65%] first-letter:uppercase">{spec.text}</p>
                         </div>
                     ))}
                     {product.weight && (

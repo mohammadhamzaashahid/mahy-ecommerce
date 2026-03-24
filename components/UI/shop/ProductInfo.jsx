@@ -22,13 +22,6 @@ function ProductInfo({ technical, description, bullets, features }) {
                             {description}
                         </div>
                     }
-                    {bullets && (
-                        <ul className="mt-3 list-disc pl-5 space-y-2 text-sm text-gray-700">
-                            {bullets.map((bullet, i) => (
-                                <li key={i}>{bullet}</li>
-                            ))}
-                        </ul>
-                    )}
                     {features && (
                         <div className="mt-2  space-y-2">
                             {features.map((feature, i) => (
@@ -38,6 +31,13 @@ function ProductInfo({ technical, description, bullets, features }) {
                                 </div>
                             ))}
                         </div>
+                    )}
+                    {bullets && (
+                        <ul className="mt-3 list-disc pl-5 space-y-2 text-sm text-gray-700">
+                            {bullets.map((bullet, i) => (
+                                <li key={i}>{bullet}</li>
+                            ))}
+                        </ul>
                     )}
                 </div>
             </div>

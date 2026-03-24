@@ -1863,7 +1863,1355 @@ const craneProducts = [
             { title: "Shell Test Pressure", text: "24 bar" },
             { title: "Seat Test Pressure", text: "17.6 bar" }
         ]
-    }
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0BA08728D",
+        overview: "CRANE FM276 2.1/2\" STRAINER SS304AISI MESH WITH 1.5MM PERFORATIONS RF FLANGED DI BODY PN16",
+        standardPrice: "337.70",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377930/Screenshot_2026-01-24_082454_jtdeqa.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377928/image1_qol3zr.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377928/image2_xijyjp.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377929/image3_g1je97.png"
+        ],
+        about: [
+            "Scale and dirt in piping systems causes endless trouble and frequently serious damage to pipeline equipment.",
+            "Installation of Crane strainers will help eliminate the problems caused by foreign matter within piping systems",
+            "The FM276 and F277 offer the integrity of manufacture, quality and reliability which are the hallmarks of all Crane products",
+            "Cap tapped and plugged for drain",
+            "Stainless steel strainer element"
+        ],
+        description: "The Crane FM276 Strainer is a high-quality ductile iron pipeline component designed to protect equipment by filtering out dirt, scale, and other foreign particles from fluid systems. It features a durable stainless steel (SS304) mesh with 1.5 mm perforations, ensuring effective filtration and long-lasting performance. Built to PN16 pressure rating with RF flanged connections, it offers reliable operation in demanding applications.",
+        features: [
+            { title: "", text: "Engineered for strength and reliability, this strainer includes a tapped and plugged drain cap for easy maintenance. Suitable for a wide range of piping systems (DN50–DN300), it helps reduce damage, downtime, and maintenance costs by preventing debris from entering critical equipment." }
+        ],
+        bullets: [
+            "Ductile iron body (PN16 rated)",
+            "SS304 stainless steel mesh (1.5 mm perforation)",
+            "RF flanged connections",
+            "Built-in drain plug for easy cleaning",
+            "Protects pipelines and equipment from debris",
+            "Suitable for industrial and commercial applications"
+        ],
+        specs: [
+            { title: "Size", text: "2.1/2\"" },
+            { title: "Temperature Rating", text: "PN16" },
+            { title: "Pressure Rating", text: "FM276: PN16 / F277: Class 125" },
+            { title: "UK End Connection", text: "Flanged BS EN 1092-2: PN16 Raised face" },
+            { title: "USA End Connection", text: "Flanged Class 125 BS1560" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0BA08728D" },
+            { title: "Item Number", text: "FM276" },
+            { title: "Product Name", text: "Crane FM276 2.1/2\" Strainer" },
+            { title: "Type", text: "Ductile Iron Strainer" },
+            { title: "Model Series", text: "FM276 / F277" },
+            { title: "Size Range", text: "DN50 – DN300" },
+            { title: "Connection Type", text: "RF Flanged" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Ductile Iron" },
+            { title: "Strainer Element", text: "Stainless Steel (SS304)" },
+            { title: "Mesh Perforation", text: "1.5 mm" },
+            { title: "Drain Feature", text: "Tapped and plugged cap for drain" },
+            { title: "Application", text: "Removes dirt and scale from piping systems to protect equipment" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0BA08729E",
+        overview: "CRANE FM276 3\" STRAINER SS304AISI MESH WITH 1.5MM PERFORATIONS RF FLANGED DI BODY PN16",
+        standardPrice: "448.60",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377930/Screenshot_2026-01-24_082454_jtdeqa.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377928/image1_qol3zr.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377928/image2_xijyjp.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377929/image3_g1je97.png"
+        ],
+        about: [
+            "Scale and dirt in piping systems causes endless trouble and frequently serious damage to pipeline equipment.",
+            "Installation of Crane strainers will help eliminate the problems caused by foreign matter within piping systems",
+            "The FM276 and F277 offer the integrity of manufacture, quality and reliability which are the hallmarks of all Crane products",
+            "Cap tapped and plugged for drain",
+            "Stainless steel strainer element"
+        ],
+        description: "The Crane FM276 3” Strainer is a robust ductile iron filtration solution designed to safeguard piping systems from debris such as dirt and scale. Equipped with a high-quality SS304 stainless steel mesh featuring 1.5 mm perforations, it ensures efficient filtration and long service life. With a PN16 pressure rating and RF flanged connections, it is built for reliable performance in industrial and commercial applications.",
+        features: [
+            { title: "", text: "This strainer enhances system efficiency and reduces maintenance costs by preventing foreign particles from damaging critical equipment. It also includes a tapped and plugged drain cap for easy cleaning and maintenance." }
+        ],
+        bullets: [
+            "Durable ductile iron body (PN16 rated)",
+            "SS304 stainless steel mesh (1.5 mm perforation)",
+            "RF flanged connections",
+            "Drain plug for easy maintenance",
+            "Protects pipelines and equipment from debris",
+            "Suitable for DN50–DN300 systems"
+        ],
+        specs: [
+            { title: "Type", text: "Ductile Iron Strainer" },
+            { title: "Model Series", text: "FM276 / F277" },
+            { title: "Body Material", text: "Ductile Iron" },
+            { title: "Mesh Perforation", text: "1.5 mm" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0BA08729E" },
+            { title: "Item Number", text: "FM276" },
+            { title: "Product Name", text: "Crane FM276 3\" Strainer" },
+            { title: "Type", text: "Ductile Iron Strainer" },
+            { title: "Model Series", text: "FM276 / F277" },
+            { title: "Size", text: "3 inch" },
+            { title: "Size Range", text: "DN50 – DN300" },
+            { title: "Connection Type", text: "RF Flanged" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Ductile Iron" },
+            { title: "Strainer Element", text: "Stainless Steel (SS304)" },
+            { title: "Mesh Perforation", text: "1.5 mm" },
+            { title: "Drain Feature", text: "Tapped and plugged cap for drain" },
+            { title: "Application", text: "Removes dirt and scale from piping systems to protect equipment" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0BA08730W",
+        overview: "CRANE FM276 4\" STRAINER SS304AISI MESH WITH 1.5MM PERFORATIONS RF FLANGED DI BODY PN16",
+        standardPrice: "587.40",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377930/Screenshot_2026-01-24_082454_jtdeqa.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377928/image1_qol3zr.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377928/image2_xijyjp.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377929/image3_g1je97.png"
+        ],
+        about: [
+            "Scale and dirt in piping systems causes endless trouble and frequently serious damage to pipeline equipment.",
+            "Installation of Crane strainers will help eliminate the problems caused by foreign matter within piping systems",
+            "The FM276 and F277 offer the integrity of manufacture, quality and reliability which are the hallmarks of all Crane products",
+            'Cap tapped and plugged for drain',
+            "Stainless steel strainer element"
+        ],
+        description: "The Crane FM276 4” Strainer is a heavy-duty ductile iron filtration unit designed to protect piping systems and equipment from harmful debris such as dirt and scale. It features a high-performance SS304 stainless steel mesh with 1.5 mm perforations, ensuring efficient filtration and durability. With a PN16 pressure rating and RF flanged connections, it delivers reliable performance in demanding industrial and commercial environments.",
+        features: [
+            { title: "", text: "Built for long-term reliability, this strainer helps minimize maintenance costs and system downtime by preventing foreign particles from entering critical components. It also includes a tapped and plugged drain cap for easy cleaning and maintenance." }
+        ],
+        specs: [
+            { title: "Type", text: "Ductile Iron Strainer" },
+            { title: "Model Series", text: "FM276 / F277" },
+            { title: "Size", text: "4 inch" },
+            { title: "Size Range", text: "DN50 – DN300" },
+            { title: "Body Material", text: "Ductile Iron" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0BA08730W" },
+            { title: "Item Number", text: "FM276" },
+            { title: "Product Name", text: "Crane FM276 4\" Strainer" },
+            { title: "Type", text: "Ductile Iron Strainer" },
+            { title: "Model Series", text: "FM276 / F277" },
+            { title: "Size", text: "4 inch" },
+            { title: "Size Range", text: "DN50 – DN300" },
+            { title: "Connection Type", text: "RF Flanged" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Ductile Iron" },
+            { title: "Strainer Element", text: "Stainless Steel (SS304)" },
+            { title: "Mesh Perforation", text: "1.5 mm" },
+            { title: "Drain Feature", text: "Tapped and plugged cap for drain" },
+            { title: "Application", text: "Removes dirt and scale from piping systems to protect equipment" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0BA08731X",
+        overview: "CRANE FM276 5\" STRAINER SS304AISI MESH WITH 1.5MM PERFORATIONS RF FLANGED DI BODY PN16",
+        standardPrice: "891.40",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377930/Screenshot_2026-01-24_082454_jtdeqa.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377928/image1_qol3zr.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377928/image2_xijyjp.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377929/image3_g1je97.png"
+        ],
+        about: [
+            "Scale and dirt in piping systems causes endless trouble and frequently serious damage to pipeline equipment.",
+            "Installation of Crane strainers will help eliminate the problems caused by foreign matter within piping systems",
+            "The FM276 and F277 offer the integrity of manufacture, quality and reliability which are the hallmarks of all Crane products",
+            "Cap tapped and plugged for drain",
+            "Stainless steel strainer element"
+        ],
+        description: "The Crane FM276 Ductile Iron Strainer is a high-performance solution designed to protect piping systems from the endless trouble and serious damage caused by scale and dirt. Part of the renowned Crane Fluid Systems line, the FM276 offers exceptional manufacturing integrity and reliability",
+        bullets: [
+            "This 5\" strainer features a robust Ductile Iron (BS EN 1563 EN-GJS-450-10) body and cap with a PN16 pressure rating.",
+            "It is equipped with a Stainless Steel AISI Type 304 mesh screen featuring 1.5mm perforations to effectively filter foreign matter.",
+            "For ease of maintenance, the unit includes a cap that is tapped and plugged for drainage.",
+            "Designed for versatility, it features RF Flanged end connections and is suitable for use on Group 2 liquids."
+        ],
+        specs: [
+            {
+                title: "Type",
+                text: "Ductile Iron Strainer"
+            },
+            {
+                title: "Model Series",
+                text: "FM276 / F277"
+            },
+            {
+                title: "Size",
+                text: "5 inch (DN125)"
+            },
+            {
+                title: "Size Range",
+                text: "DN50 – DN300"
+            },
+            {
+                title: "Pressure Rating",
+                text: "PN16"
+            },
+        ],
+        technical: [
+            {
+                title: "Part Number",
+                text: "0BA08731X"
+            },
+            {
+                title: "Item Number",
+                text: "FM276"
+            },
+            {
+                title: "Product Name",
+                text: "Crane FM276 5\" Strainer SS304AISI Mesh with 1.5mm Perforations RF Flanged DI Body PN16"
+            },
+            {
+                title: "Type",
+                text: "Ductile Iron Strainer"
+            },
+            {
+                title: "Model Series",
+                text: "FM276 / F277"
+            },
+            {
+                title: "Size",
+                text: "5 inch (DN125)"
+            },
+            {
+                title: "Size Range",
+                text: "DN50 – DN300"
+            },
+            {
+                title: "Connection Type",
+                text: "UK: Flanged BS EN 1092-2: PN16 Raised Face; US: Flanged Class 125 BS1560 - Section 3.2/ ANSI B16.1 Flat Face"
+            },
+            {
+                title: "Pressure Rating",
+                text: "PN16"
+            },
+            {
+                title: "Body Material",
+                text: "Ductile Iron BS EN 1563 EN-GJS-450-10"
+            },
+            {
+                title: "Strainer Element",
+                text: "Stainless Steel AISI Type 304"
+            },
+            {
+                title: "Mesh Perforation",
+                text: "1.5mm diameter"
+            },
+            {
+                title: "Drain Feature",
+                text: "Cap tapped and plugged for drain (2\" Rc for 5\" size)"
+            },
+            {
+                title: "Application",
+                text: "Removes dirt and scale from piping systems to protect equipment"
+            },
+            {
+                title: "Temperature Range",
+                text: "-10 to 200°C"
+            },
+            {
+                title: "Weight",
+                text: "37 kg"
+            }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0BA08732Y",
+        overview: "CRANE FM276 6\" STRAINER SS304AISI MESH WITH 1.5MM PERFORATIONS RF FLANGED DI BODY PN16",
+        standardPrice: "1,244.60 ",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377930/Screenshot_2026-01-24_082454_jtdeqa.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377928/image1_qol3zr.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377928/image2_xijyjp.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774377929/image3_g1je97.png"
+        ],
+        about: [
+            "Scale and dirt in piping systems causes endless trouble and frequently serious damage to pipeline equipment.",
+            "Installation of Crane strainers will help eliminate the problems caused by foreign matter within piping systems",
+            "The FM276 and F277 offer the integrity of manufacture, quality and reliability which are the hallmarks of all Crane products",
+            "Cap tapped and plugged for drain",
+            "Stainless steel strainer element",
+        ],
+        description: "The Crane FM276 Ductile Iron Strainer is an essential component designed to protect pipeline equipment by eliminating problems caused by foreign matter, such as scale and dirt. This 6\" (DN150) model features a robust Ductile Iron body and cap, ensuring the high manufacture quality and reliability associated with Crane products.",
+        bullets: [
+            "It is equipped with a Stainless Steel AISI Type 304 strainer element with 1.5mm perforations for effective filtration.",
+            "The design includes a cap that is tapped and plugged for easy drainage.",
+            "Built for high-pressure environments, it carries a PN16 rating and is suitable for use with Group 2 liquids."
+        ],
+        specs: [
+            { title: "Type", text: "Ductile Iron Strainer" },
+            { title: "Model Series", text: "FM276 / F277" },
+            { title: "Size", text: "6 inch (DN150)" },
+            { title: "Size Range", text: "DN50 – DN300" },
+            { title: "Mesh Perforation", text: "1.5 mm" },
+            { title: "Temperature Range", text: "-10 to 200°C" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0BA08732Y" },
+            { title: "Item Number", text: "FM276" },
+            { title: "Product Name", text: "Crane FM276 6\" Strainer SS304AISI Mesh with 1.5mm Perforations RF Flanged DI Body PN16" },
+            { title: "Type", text: "Ductile Iron Strainer" },
+            { title: "Model Series", text: "FM276 / F277" },
+            { title: "Size", text: "6 inch (DN150)" },
+            { title: "Size Range", text: "DN50 – DN300" },
+            { title: "Connection Type", text: "RF Flanged (BS EN 1092-2: PN16 Raised Face)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Ductile Iron (BS EN 1563 EN-GJS-450-10)" },
+            { title: "Strainer Element", text: "Stainless Steel (AISI Type 304)" },
+            { title: "Mesh Perforation", text: "1.5 mm" },
+            { title: "Drain Feature", text: "Tapped and plugged cap for drain (2\" Rc)" },
+            { title: "Application", text: "Removes dirt and scale from piping systems to protect equipment" },
+            { title: "Temperature Range", text: "-10 to 200°C" },
+            { title: "Weight", text: "50 kg" },
+            { title: "Flow Coefficient (kv)", text: "356" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0EA02500F",
+        overview: "CRANE D151 1.1/2\" GATE VALVE HANDWHEEL OPERATED BRONZE BODY & DISC WRAS BSPT PN20",
+        standardPrice: "154.90",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378673/526554a2-2614-41aa-96d4-851af7cfa51d_c3iym0.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378675/image1_lof2o9.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378676/image2_mewdml.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378679/image3_tr2vpv.png"
+        ],
+        about: [
+            "Crane gate valves offer the ultimate in dependable service wherever minimum pressure drop is important",
+            "The D151 carries the British Standards Institution kitemark - your assurance of exacting quality standards",
+            "WRAS approved for use on wholesome (potable) water in sizes 1/2\" - 2\" only. WRAS approval temperature 85°C max",
+            "Non-rising stem design to minimise installation height",
+            "Full bore design to ensure minimal pressure drop",
+            "Adjustable gland packing for ease of maintenance",
+            "Body, bonnet and disc are made from low lead content bronze, typically 4-6%",
+            "Conforms with BS EN12288:2010 and generally conforms with MSS SP 80"
+        ],
+        description: "The Crane D151 Bronze Gate Valve is a high-quality, handwheel-operated valve designed for dependable service where minimum pressure drop is essential. This 1.1/2\" valve features a non-rising stem design to minimize installation height and a full bore to ensure optimal flow efficiency.",
+        bullets: [
+            "Constructed with a bronze body, bonnet, and disc (low lead content, typically 4-6%).",
+            "It conforms to BS EN 12288:2010 standards and carries the British Standards Institution kitemark for quality assurance.",
+            "This model is WRAS approved for use with potable water up to 85°C and is rated for pressures up to PN20.",
+            "It is best suited for services requiring infrequent operation where the disc is either fully opened or fully closed."
+        ],
+        specs: [
+            { title: "Type", text: "Bronze Gate Valve (Non-rising stem)" },
+            { title: "Model Series", text: "D151" },
+            { title: "Size", text: "1.1/2 inch" },
+            { title: "Size Range", text: "1/4\" to 4\"" },
+            { title: "Pressure Rating", text: "PN20" },
+            { title: "Operator", text: "Handwheel (Aluminium)" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0EA02500F" },
+            { title: "Item Number", text: "D151" },
+            { title: "Product Name", text: "CRANE D151 1.1/2\" GATE VALVE HANDWHEEL OPERATED BRONZE BODY & DISC WRAS BSPT PN20" },
+            { title: "Type", text: "Bronze Gate Valve (Non-rising stem)" },
+            { title: "Model Series", text: "D151" },
+            { title: "Size", text: "1.1/2 inch" },
+            { title: "Size Range", text: "1/4\" to 4\"" },
+            { title: "Connection Type", text: "Taper threaded to BS EN 10226-2 (ISO 7-1)" },
+            { title: "Pressure Rating", text: "PN20" },
+            { title: "Body Material", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Disc/Wedge", text: "Solid Wedge, Bronze BS EN 1982 CC491K" },
+            { title: "Stem Material", text: "DZR Brass BS EN 12164 CW602N" },
+            { title: "Operator", text: "Handwheel (Aluminium)" },
+            { title: "Application", text: "Wholesome (potable) water, Group 2 Gas, Group 1 & 2 Liquids" },
+            { title: "Temperature Range", text: "-10 to 180°C (WRAS max 85°C)" },
+            { title: "Weight", text: "1.266 kg" },
+            { title: "Standards Compliance", text: "BS EN 12288:2010, MSS SP 80, WRAS Approved, BSI Kitemark" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0EA02501G",
+        overview: "CRANE D151 2\" GATE VALVE HANDWHEEL OPERATED BRONZE BODY & DISC WRAS BSPT PN20",
+        standardPrice: "233.30",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378673/526554a2-2614-41aa-96d4-851af7cfa51d_c3iym0.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378675/image1_lof2o9.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378676/image2_mewdml.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378679/image3_tr2vpv.png"
+        ],
+        about: [
+            "Crane gate valves offer the ultimate in dependable service wherever minimum pressure drop is important",
+            "The D151 carries the British Standards Institution kitemark - your assurance of exacting quality standards",
+            "WRAS approved for use on wholesome (potable) water in sizes 1/2\" – 2\" only. WRAS approval temperature 85°C max",
+            "Non-rising stem design to minimise installation height",
+            "Full bore design to ensure minimal pressure drop",
+            "Adjustable gland packing for ease of maintenance",
+            "Body, bonnet and disc are made from low lead content bronze, typically 4-6%",
+            "Conforms with BS EN12288:2010 and generally conforms with MSS SP 80"
+        ],
+        description: "The Crane D151 Bronze Gate Valve provides ultimate dependable service in systems where minimal pressure drop is a priority. This 2\" (DN50) model features a non-rising stem to reduce installation height and a full bore design for maximum flow efficiency.",
+        bullets: [
+            "The valve is constructed with a high-quality bronze body, bonnet, and disc (low lead content, 4-6%).",
+            "It is WRAS approved for potable water applications up to 85°C and carries a PN20 pressure rating.",
+            "Designed for longevity, it includes adjustable gland packing and is best suited for infrequent operation where the valve remains either fully open or fully closed.",
+            "It conforms to BS EN 12288:2010 and is suitable for Group 2 Gas and Group 1 & 2 Liquids."
+        ],
+        specs: [
+            { title: "Type", text: "Bronze Gate Valve (Non-rising stem)" },
+            { title: "Model Series", text: "D151" },
+            { title: "Size", text: "2 inch" },
+            { title: "Size Range", text: "1/4\" to 4\"" },
+            { title: "Operator", text: "Handwheel (Aluminium)" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0EA02501G" },
+            { title: "Item Number", text: "D151" },
+            { title: "Product Name", text: "CRANE D151 2\" GATE VALVE HANDWHEEL OPERATED BRONZE BODY & DISC WRAS BSPT PN20" },
+            { title: "Type", text: "Bronze Gate Valve (Non-rising stem)" },
+            { title: "Model Series", text: "D151" },
+            { title: "Size", text: "2 inch" },
+            { title: "Size Range", text: "1/4\" to 4\"" },
+            { title: "Connection Type", text: "Taper threaded to BS EN 10226-2 (ISO 7-1)" },
+            { title: "Pressure Rating", text: "PN20" },
+            { title: "Body Material", text: "Bronze BS EN 1982 CC491K" },
+            { title: "Disc/Wedge", text: "Solid Wedge, Bronze BS EN 1982 CC491K" },
+            { title: "Stem Material", text: "DZR Brass BS EN 12164 CW602N" },
+            { title: "Operator", text: "Handwheel (Aluminium)" },
+            { title: "Application", text: "Wholesome (potable) water, Group 2 Gas, Group 1 & 2 Liquids" },
+            { title: "Temperature Range", text: "-10 to 180°C (WRAS max 85°C)" },
+            { title: "Weight", text: "1.881 kg" },
+            { title: "Standards Compliance", text: "BS EN 12288:2010, MSS SP 80, WRAS Approved, BSI Kitemark" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG25077F",
+        overview: "CRANE D931 1/2\" FIXED ORIFICE DOUBLE REGULATING VALVE(FODRV) WITH TEST POINT P84 BRONZE BODY WRAS BSPP PN25",
+        standardPrice: "179.50",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378852/86e5acc1-54cc-424e-b9b3-73719f500ff3_hdhblm.png"
+        ],
+        about: [
+            "Precise flow regulation and measurement with ± 5% accuracy.",
+            "Double regulating feature saves pre-set flow positions after isolation.",
+            "Characterized throttling disc for equal percentage flow performance.",
+            "Robust bronze body construction with WRAS approval for potable water.",
+            "Includes P84 insertion test points and micro-set handwheel for easy operation"
+        ],
+        description: "The Double Regulating feature allows the valve to be used for isolation and to be reopened to its pre-set position to maintain required flow rate. Y-Pattern globe valves having characterized throttling disc tending towards equal percentage performance.",
+        bullets: [
+            "D933 size 1/2″ low flow FODRV combines the functions of regulation and flow measurement in a unit of high authority making it particularly suitable for low flow applications in the range of 0.03 to 0.07 I/s",
+            "D934 size 1/2″ ultra-low flow FODRV combines the functions of regulation and flow measurement in a unit of high authority making it particularly suitable for ultra-low flow applications in the range of 0.016 to 0.04 I/s",
+            "The Double regulating valve, with its integral fixed orifice design offers an accuracy of ± 5% on all settings, for precise flow regulation and measurement",
+            "The Double Regulating feature allows the valve to be used for isolation and to be reopened to its pre-set position to maintain required flow rate",
+            "Y-Pattern globe valves having characterized throttling disc tending towards equal percentage performance",
+            "Integral square edged entrance orifice plate and P84 insertion test points fitted Double regulating feature allows valve opening to be set with an Allen key",
+            "Operation of the valve is by means of the Micro set handwheel."
+        ],
+        specs: [
+            { title: "Type", text: "Fixed Orifice Double Regulating Valve (FODRV)" },
+            { title: "Model Series", text: "D931" },
+            { title: "Size", text: "1/2 inch" },
+            { title: "Connection Type", text: "BSPP" },
+            { title: "Pressure Rating", text: "PN25" },
+            { title: "Body Material", text: "Bronze" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0JG25077F" },
+            { title: "Item Number", text: "D931" },
+            { title: "Product Name", text: "CRANE D931 1/2\" FIXED ORIFICE DOUBLE REGULATING VALVE(FODRV) WITH TEST POINT P84 BRONZE BODY WRAS BSPP PN25" },
+            { title: "Type", text: "Fixed Orifice Double Regulating Valve (FODRV)" },
+            { title: "Model Series", text: "D931" },
+            { title: "Size", text: "1/2 inch" },
+            { title: "Connection Type", text: "BSPP" },
+            { title: "Pressure Rating", text: "PN25" },
+            { title: "Body Material", text: "Bronze" },
+            { title: "Flow Characterization", text: "Y-Pattern globe with equal percentage performance" },
+            { title: "Measurement Accuracy", text: "± 5% on all settings" },
+            { title: "Test Points", text: "P84 insertion test points fitted" },
+            { title: "Operator", text: "Micro-set handwheel" },
+            { title: "Application", text: "Regulation, flow measurement, and isolation in piping systems" },
+            { title: "Standards Compliance", text: "WRAS Approved" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG25078G",
+        overview: "CRANE D931 3/4\" FIXED ORIFICE DOUBLE REGULATING VALVE(FODRV) WITH TEST POINT P84 BRONZE BODY WRAS BSPP PN25",
+        standardPrice: "205.4",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378852/86e5acc1-54cc-424e-b9b3-73719f500ff3_hdhblm.png"
+        ],
+        about: [
+            "Offers an accuracy of ±5% on all settings for precise flow regulation and measurement.",
+            "Features a built-in fixed orifice to facilitate accurate flow measurement within heating, cooling, and water systems.",
+            "Certified by WRAS, ensuring the valve is suitable for use in wholesome water applications.",
+            "Built with a durable bronze body designed to withstand a maximum working pressure of 25 bar.",
+            "Designed in accordance with BS 7350:1990 standards to meet exacting quality and performance requirements.",
+            "Comes fully equipped with test points to allow for easy system monitoring and balancing."
+        ],
+        description: "3/4\" BSP Parallel Crane D931 Bronze Fixed Orifice Double Regulating Valve, Crane Huge Savings! Available for a limited time - while stock lasts",
+        bullets: [
+            "BSPP threads up to 3/4\" and BSPT threads for 1",
+            "Integral fixed orifice design. WRAS approved",
+            "Design in accordance to BS 7350:1990",
+            "Offers an accuracy of ±5% on all settings",
+            "Comes complete with test points",
+            "For use in heating and cooling systems and other water systems."
+        ],
+        specs: [
+            { title: "Brand", text: "Crane" },
+            { title: "Size", text: "3/4\"" },
+            { title: "Body Material", text: "Bronze" },
+            { title: "End Connection", text: "BSPP" },
+        ],
+        technical: [
+            { title: "Size", text: "3/4\"" },
+            { title: "Maximum Working Pressure bar", text: "25" },
+            { title: "Body Material", text: "Bronze" },
+            { title: "End Connection", text: "BSPP" },
+            { title: "Brand", text: "Crane" },
+            { title: "Flow Kv", text: "3.14" },
+            { title: "Design", text: "Fixed Orifice" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG25079H",
+        overview: "CRANE D931 1\" FIXED ORIFICE DOUBLE REGULATING VALVE(FODRV) WITH TEST POINT P84 BRONZE BODY WRAS BSPT PN25",
+        standardPrice: "241",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378852/86e5acc1-54cc-424e-b9b3-73719f500ff3_hdhblm.png"
+        ],
+        about: [
+            "Precision and Accuracy: Delivers a high level of accuracy with +/-5% on all settings for precise flow regulation and measurement.",
+            "Features a built-in fixed orifice design that simplifies set-up and reduces installation costs by requiring fewer connections.",
+            "Allows the valve to be used for isolation and then reopened to a specific pre-set position, maintaining the required flow rate.",
+            "Certified for use in wholesome water applications, ensuring compliance with safety standards.",
+            "Built with a robust bronze body rated for PN25 pressure and temperatures ranging from 10 to 120°C.",
+            "Designed with 1\" taper threaded end connections conforming to BS EN 10226-2 (ISO 7-1)."
+        ],
+        description: "The bronze commissioning range offers accuracy of +/-5% on all settings. The integral fixed orifice design offers greater accuracy, makes set-up easier and involves fewer connections resulting in lower installation costs.",
+        bullets: [
+            "Fixed Orifice Double regulating valve complete with Press-Fit connectors",
+            "Provides precise and accurate flow regulation & measurement",
+            "Supplied as one integral unit means less joints to make on-site",
+            "The performance, exact dimensions & tolerances are known in advance",
+            "Incorporates both Crane Fluid Systems and proven Geberit Mapress technology",
+            "Vibration tested to DVGW and bend tested to BS EN331",
+            "Quickly and easily installed using a Press-Fit tool (supplied by others)",
+        ],
+        specs: [
+            { title: "Brand", text: "Crane" },
+            { title: "Pressure Rating", text: "PN25" },
+            { title: "Material", text: "Bronze" },
+        ],
+        technical: [
+            { title: "Size", text: "DN15 to DN50" },
+            { title: "Pressure Rating", text: "PN25" },
+            { title: "Temperature Rating", text: "10 - 120°C" },
+            { title: "End Connections", text: "Sizes 1\" to 2\" taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21 & Sizes 1/2\" & 3/4\" DN15 & DN20 BS 2779 (ISO 228) parallel." },
+            { title: "Material", text: "Bronze" },
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG25080A",
+        overview: "CRANE D931 1.1/4\" FIXED ORIFICE DOUBLE REGULATING VALVE(FODRV) WITH TEST POINT P84 BRONZE BODY WRAS BSPT PN25",
+        standardPrice: "286.50",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774378852/86e5acc1-54cc-424e-b9b3-73719f500ff3_hdhblm.png"
+        ],
+        about: [
+            "Delivers a precision of ±5% on all settings for reliable flow measurement and regulation.",
+            "Features a built-in orifice design that ensures accuracy and simplifies system setup with fewer required connections.",
+            "Includes a mechanism that allows the valve to be used for isolation and then returned to its exact pre-set balancing position.",
+            "Certified for use in wholesome and potable water systems, meeting strict safety and quality standards.",
+            "Manufactured with a durable bronze body rated for PN25 pressure and suitable for heating and cooling applications.",
+            "Designed in accordance with BS 7350:1990 and equipped with P84 insertion test points for easy monitoring."
+        ],
+        description: "1.1/4\" BSP Taper Crane D931 Bronze Fixed Orifice Double Regulating Valve, Crane Huge Savings! Available for a limited time - while stock lasts",
+        bullets: [
+            "BSPP threads up to 3/4\" and BSPT threads for 1\"",
+            "Integral fixed orifice design",
+            "WRAS approved",
+            "Design in accordance to BS 7350:1990",
+            "Offers an accuracy of ±5% on all settings",
+            "Comes complete with test points",
+            "For use in heating and cooling systems and other water systems"
+        ],
+        specs: [
+            { title: "Brand", text: "Crane" },
+            { title: "Size", text: "1.1/4\"" },
+            { title: "End Connection", text: "BSPT" },
+            { title: "Design", text: "Fixed Orifice" }
+        ],
+        technical: [
+            { title: "Maximum Working Pressure bar", text: "25" },
+            { title: "Body Material", text: "Bronze" },
+            { title: "Size", text: "1.1/4\"" },
+            { title: "Flow Kv", text: "10.8" },
+            { title: "End Connection", text: "BSPT" },
+            { title: "Brand", text: "Crane" },
+            { title: "Design", text: "Fixed Orifice" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG25081B",
+        overview: "CRANE D931 1.1/2\" FIXED ORIFICE DOUBLE REGULATING VALVE(FODRV) WITH TEST POINT P84 BRONZE BODY WRAS BSPT PN25",
+        standardPrice: "366.3",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379528/37afbbb6-d1f4-442e-b2e9-93f97cdfa599_tjlztb.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379530/image1_fe9rs8.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379534/image2_qtu9kp.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379538/image3_k6uvxr.png"
+        ],
+        about: [
+            "Offers a precision of ±5% on all settings for highly accurate flow regulation and measurement.",
+            "Allows the valve to be used for isolation and then reopened to its exact pre-set balancing position.",
+            "Features a Y-pattern globe design with a characterized throttling disc for equal percentage performance.",
+            "The integral fixed orifice design requires fewer connections, reducing potential leak points and installation costs.",
+            "Equipped with P84 insertion test points and a micro-set handwheel for easy operation and system monitoring.",
+            "Certified for use in wholesome water applications, ensuring compliance with safety standards."
+        ],
+        features: [
+            { title: "End Connections", text: "Sizes 1\" to 2\" taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21. Sizes 1/2\" & 3/4\" DN15 & DN20 BS 2779 (ISO 228) parallel. Adaptor kits for use with copper tube also available. Also available threaded to ANSI B1.20.1AT. Order code D931AT/D933AT/D934AT" }
+        ],
+        bullets: [
+            "D933 size 1/2\" low flow FODRV combines the functions of regulation and flow measurement in a unit of high authority making it particularly suitable for low flow applications in the range of 0.03 to 0.07 I / s",
+            "D934 size 1/2\" ultra- low flow FODRV combines the functions of regulation and flow measurement in a unit of high authority making it particularly suitable for ultra - low flow applications in the range of 0.016 to 0.04 I / s.",
+            "The Double regulating valve, with its integral fixed orifice design offers an accuracy of ± 5% on all settings, for precise flow regulation and measurement",
+            "The Double Regulating feature allows the valve to be used for isolation and to be reopened to its pre-set position to maintain required flow rate",
+            "Y-Pattern globe valves having characterised throttling disc tending towards equal percentage performance",
+            "Integral square edged entrance orifice plate and P84 insertion test points fitted Double regulating feature allows valve opening to be set with an Allen key",
+            "Operation of the valve is by means of the Micro set handwheel"
+        ],
+        specs: [
+            { title: "Type", text: "Fixed Orifice Double Regulating Valve (FODRV)" },
+            { title: "Model Series", text: "D931 / D933 / D934" },
+            { title: "Size", text: "1.1/2 inch" },
+            { title: "Pressure Rating", text: "PN25" },
+            { title: "Body Material", text: "Bronze" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0JG25081B" },
+            { title: "Item Number", text: "D931" },
+            { title: "Product Name", text: "CRANE D931 1.1/2\" FIXED ORIFICE DOUBLE REGULATING VALVE(FODRV) WITH TEST POINT P84 BRONZE BODY WRAS BSPT PN25" },
+            { title: "Type", text: "Fixed Orifice Double Regulating Valve (FODRV)" },
+            { title: "Model Series", text: "D931 / D933 / D934" },
+            { title: "Size", text: "1.1/2 inch" },
+            { title: "Connection Type", text: "Taper threaded to BS EN 10226-2 (ISO 7-1)" },
+            { title: "Pressure Rating", text: "PN25" },
+            { title: "Body Material", text: "Bronze" },
+            { title: "Accuracy", text: "± 5% on all settings" },
+            { title: "Operator", text: "Micro-set handwheel" },
+            { title: "Application", text: "Flow regulation, measurement, and isolation" },
+            { title: "Standards Compliance", text: "Conforms to BS 7350:1990; WRAS Approved" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG25082C",
+        overview: "CRANE D931 2\" FIXED ORIFICE DOUBLE REGULATING VALVE(FODRV) WITH TEST POINT P84 BRONZE BODY WRAS BSPT PN25",
+        standardPrice: "454.3",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379630/56015dc0-d937-44ee-ac7d-9dfc4a840c21_wbaipq.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379625/7da5a491-61f1-4270-a9c0-a17f5448ee2a_r7v34h.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379622/d7dea4fe-f6d5-4875-bb97-92970e6dc93f_ax8v47.png"
+        ],
+        about: [
+            "Delivers a precision of ±5% on all settings for reliable flow measurement and regulation.",
+            "Allows the valve to be used for isolation and then returned to its exact pre-set balancing position to maintain the required flow rate.",
+            "Features a built-in orifice design that ensures accuracy, simplifies system setup, and reduces installation costs by requiring fewer connections.",
+            "Certified for use in wholesome and potable water systems, meeting strict safety and quality standards.",
+            "Utilizes a Y-pattern globe design with a characterized throttling disc for equal percentage performance.",
+            "Manufactured with a durable bronze body rated for PN25 pressure and temperatures ranging from -10 to 120°C.",
+            "Comes complete with P84 insertion test points and a micro-set handwheel for easy operation and system balancing."
+        ],
+        description: "The bronze commissioning range offers accuracy of +/-5% on all settings. The integral fixed orifice design offers greater accuracy, makes set-up easier and involves fewer connections resulting in lower installation costs.",
+        bullets: [
+            "Fixed Orifice Double regulating valve complete with Press-Fit connectors",
+            "Provides precise and accurate flow regulation & measurement",
+            "Supplied as one integral unit means less joints to make on-site",
+            "The performance, exact dimensions & tolerances are known in advance",
+            "Incorporates both Crane Fluid Systems and proven Geberit Maprers technology",
+            "Vibration tested to DVGW and bend tested to BS EN331",
+            "Quickly and easily installed using a Press-Fit tool (supplied by others)"
+        ],
+        specs: [
+            { title: "Brand", text: "Crane" },
+            { title: "Material", text: "Bronze" },
+            { title: "Size", text: "DN15 to DN50" },
+            { title: "Pressure rating", text: "PN25" },
+            { title: "Temperature Rating", text: "-10 - 120°C" },
+        ],
+        technical: [
+            { title: "Size", text: "DN15 to DN50" },
+            { title: "Pressure rating", text: "PN25" },
+            { title: "Temperature Rating", text: "-10 - 120°C" },
+            { title: "End Connections", text: "Sizes 1\" to 2\" taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21.Sizes 1/2\" & 3/4\" DN15 & DN20 BS 2779 (ISO 228) parallel" },
+            { title: "Material", text: "Bronze" },
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG90603W",
+        overview: "CRANE DM931 2.1/2\" VARIABLE ORIFICE DOUBLE REGULATING VALVE(VODRV) RF FLANGED Y-PATTERN WITH TEST POINT P84 PN16",
+        standardPrice: "767.40",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379767/ChatGPT_Image_Jan_24_2026_11_03_57_AM_tolkax.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379778/image_rpnm2u.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379772/image2_g0zzwc.png"
+        ],
+        about: [
+            "Y-Pattern globe valves designed to provide precise flow measurement, regulation, and isolation in a single unit.",
+            "Enables the valve to be used for isolation and then reopened to its exact pre-set balancing position to maintain the required flow rate.",
+            "Features a flow measurement accuracy of ±10% at the fully open position, conforming to BS 7350: 1990 standards.",
+            "Supplied with two P84 pressure test points, making it ideal for injection circuits and other systems requiring balancing.",
+            "Features RF flanged ends to BS EN 1092-2, providing a secure and reliable connection for high-pressure industrial applications.",
+            "Primarily used in systems requiring a double regulating valve to ensure consistent system balancing and performance."
+        ],
+        features: [
+            { title: "End Connections", text: "DM931 Ends are flanged to BS EN 1092-2 (formerly BS 4504) and DA931 Ends are flanged to ANSI B16.1 Class 125" }
+        ],
+        bullets: [
+            "These are Y-Pattern globe valves supplied with two pressure test points P84 to provide flow measurement, regulation and isolation",
+            "The Double Regulating feature allows the valve to be used for isolation and to be reopened to its pre-set position to maintain required flow rate",
+            "Primarily used in injection or other circuits requiring a double regulating valve for system balancing",
+            "Accuracy of flow measurement is ±10% at the full open position of the valve",
+            "Some reduction in accuracy occurs at partial openings of the valve in accordance with BS 7350"
+        ],
+        specs: [
+            { title: "Type", text: "Variable Orifice Double Regulating Valve (VODRV)" },
+            { title: "Model Series", text: "DM931 / DA931" },
+            { title: "Size", text: "2.1/2 inch" },
+            { title: "Pressure Rating", text: "PN16" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0JG90603W" },
+            { title: "Item Number", text: "DM931" },
+            { title: "Product Name", text: "CRANE DM931 2.1/2\" VARIABLE ORIFICE DOUBLE REGULATING VALVE(VODRV) RF FLANGED Y-PATTERN WITH TEST POINT P84 PN16" },
+            { title: "Type", text: "Variable Orifice Double Regulating Valve (VODRV)" },
+            { title: "Model Series", text: "DM931 / DA931" },
+            { title: "Size", text: "2.1/2 inch" },
+            { title: "Connection Type", text: "Flanged to BS EN 1092-2 (formerly BS 4504)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Ductile Iron / Bronze (Y-Pattern Globe)" },
+            { title: "Accuracy", text: "±10% at full open position" },
+            { title: "Test Points", text: "Two P84 pressure test points fitted" },
+            { title: "Application", text: "Flow measurement, regulation, and isolation; specifically for system balancing" },
+            { title: "Standards Compliance", text: "Conforms to BS 7350: 1990" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG90604X",
+        overview: "CRANE DM931 3\" VARIABLE ORIFICE DOUBLE REGULATING VALVE(VODRV) RF FLANGED Y-PATTERN WITH TEST POINT P84 PN16",
+        standardPrice: "1026.6",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379834/76622dc5-9720-4174-9b86-47793945ca87_damytn.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379823/8689bce9-1c27-4609-a706-4e18f1c37d79_bfp17m.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379840/bd101c3e-d913-489c-a848-d103a7f2c87d_jtr0xv.png"
+        ],
+        about: [
+            "Integrated Y-Pattern globe valve design providing precise flow measurement, regulation, and isolation in a single unit.",
+            "Allows the valve to be closed for isolation and then reopened to its exact pre-set balancing position to maintain consistent system flow.",
+            "Specifically designed for use in injection or other circuits requiring a double regulating valve for accurate system balancing.",
+            "Provides a flow measurement accuracy of ±10% at the full open position, in accordance with BS 7350 standards.",
+            "Built with a robust ductile iron body rated for PN16 pressure and temperatures ranging from -10 to 120°C.",
+            "Features RF flanged end connections for secure and reliable installation in high-capacity piping systems.",
+            "Supplied with two P84 pressure test points to facilitate easy and accurate system monitoring.",
+        ],
+        bullets: [
+            "These are Y-Pattern globe valves supplied with two pressure test points P84 to provide flow measurement, regulation and isolation",
+            "The Double Regulating feature allows the valve to be used for isolation and to be reopened to its pre-set position to maintain required flow rate",
+            "Primarily used in injection or other circuits requiring a double regulating valve for system balancing",
+            "Accuracy of flow measurement is ±10% at the full open position of the valve",
+            "Some reduction in accuracy occurs at partial openings of the valve in accordance with BS 7350"
+        ],
+        specs: [
+            { title: "Brand", text: "Crane" },
+            { title: "Size", text: "DN65 to DN300" },
+            { title: "Pressure rating", text: "PN16" },
+            { title: "Temperature Rating", text: "10 - 120°C" },
+            { title: "Material", text: "Ductile Iron" }
+        ],
+        technical: [
+            { title: "Size", text: "DN65 to DN300" },
+            { title: "Pressure rating", text: "PN16" },
+            { title: "Flow rate", text: "Please see Flow Measurement Graphs" },
+            { title: "Temperature Rating", text: "10 - 120°C" },
+            { title: "End Connection", text: "Flanged" },
+            { title: "Material", text: "Ductile Iron" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG90605Y",
+        overview: "CRANE DM931 4\" VARIABLE ORIFICE DOUBLE REGULATING VALVE(VODRV) RF FLANGED Y-PATTERN WITH TEST POINT P84 PN16",
+        standardPrice: "",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379834/76622dc5-9720-4174-9b86-47793945ca87_damytn.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379823/8689bce9-1c27-4609-a706-4e18f1c37d79_bfp17m.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379840/bd101c3e-d913-489c-a848-d103a7f2c87d_jtr0xv.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379985/image_pqulzr.png"
+        ],
+        about: [
+            "Y-Pattern globe valve designed to provide accurate flow measurement, regulation, and isolation in one compact unit.",
+            "Features a mechanism that allows the valve to be used for isolation and then reopened to its exact pre-set balancing position.",
+            "Ideally suited for injection circuits or other systems that require a double regulating valve to maintain consistent system balancing.",
+            "Offers a flow measurement accuracy of ±10% at the fully open position, strictly conforming to BS 7350: 1990 requirements.",
+            "Constructed with a high-strength ductile iron body featuring RF flanged ends to BS EN 1092-2 (formerly BS 4504).",
+            "Supplied with two P84 pressure test points to facilitate quick and accurate system monitoring and data collection."
+        ],
+        features: [
+            { title: "End Connections", text: "DM931 Ends are flanged to BS EN 1092-2 (formerly BS 4504) and DA931 Ends are flanged to ANSI B16.1 Class 125" }
+        ],
+        bullets: [
+            "These are Y-Pattern globe valves supplied with two pressure test points P84 to provide flow measurement, regulation and isolation",
+            "The Double Regulating feature allows the valve to be used for isolation and to be reopened to its pre-set position to maintain required flow rate",
+            "Primarily used in injection or other circuits requiring a double regulating valve for system balancing • Accuracy of flow measurement is ±10% at the fully open position of the valve",
+            "Some reduction in accuracy occurs at partial openings of the valve in accordance with BS 7350"
+        ],
+        specs: [
+            { title: "Model Series", text: "DM931 / DA931" },
+            { title: "Size", text: "4 inch (DN100)" },
+            { title: "Connection Type", text: "Flanged to BS EN 1092-2 PN16" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Ductile Iron" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0JG90605Y" },
+            { title: "Item Number", text: "DM931" },
+            { title: "Product Name", text: "CRANE DM931 4\" VARIABLE ORIFICE DOUBLE REGULATING VALVE(VODRV) RF FLANGED Y-PATTERN WITH TEST POINT P84 PN16" },
+            { title: "Type", text: "Variable Orifice Double Regulating Valve (VODRV)" },
+            { title: "Model Series", text: "DM931 / DA931" },
+            { title: "Size", text: "4 inch (DN100)" },
+            { title: "Connection Type", text: "Flanged to BS EN 1092-2 PN16" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Ductile Iron" },
+            { title: "Accuracy", text: "±10% at full open position (conforms to BS 7350)" },
+            { title: "Test Points", text: "Two P84 pressure test points fitted" },
+            { title: "Temperature Rating", text: "-10 to 120°C" },
+            { title: "Application", text: "Flow measurement, regulation, and isolation for system balancing" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG92001J",
+        overview: "CRANE FM463 65MM DOUBLE DOOR WAFER CHECK VALVE SS DISC DI PN16",
+        standardPrice: "255.40",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380056/Screenshot_2026-01-24_090126_tivjh5.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380062/image_fy0g00.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380048/image2_kc5fuu.png"
+        ],
+        about: [
+            "Closes automatically upon flow reversal based on pressure and velocity.",
+            "Features a spring-assisted closure and rubber seat to facilitate quiet, non-slam operation.",
+            "Equipped with an EPDM rubber seat to improve disk seating and reduce noise.",
+            "Robust ductile iron body with high-quality stainless steel discs for corrosion resistance.",
+            "Compact construction specifically tailored for pump duty and space-restricted applications.",
+            "Designed and tested to perform reliably under PN16 pressure conditions."
+        ],
+        description: "The Crane FM463 Double Door Wafer Check Valve is a high-performance solution designed for pump duty applications where space and efficiency are critical. This 65mm (DN65) valve permits flow in a single direction and closes automatically if flow reverses, utilizing a spring-assisted closure to prevent water hammer. Its wafer-style design allows for a compact installation between flanges, while the EPDM rubber seat ensures quiet operation and superior disc seating. Constructed with a durable ductile iron body and stainless steel discs, it is engineered for long-term reliability in demanding piping systems.",
+        bullets: [
+            "Check valves permit flow in one direction only and close automatically if flow reverses, depending upon pressure and velocity of flow to perform the functions of the opening and closing.",
+            "Non-Slam design as a result of rubber seat and spring-assisted closure.",
+            "EPDM rubber seat to facilitate quiet operation and improve disk seating.",
+            "Eyebolt tapped holes in sizes DN200 and above, to fit bolts to BS EN ISO 3226:2010 (eyebolts are not supplied with product).",
+            "Design and construction lends itself to pump duty applications"
+        ],
+        specs: [
+            { title: "Type", text: "Double Door Wafer Check Valve" },
+            { title: "Model Series", text: "FM463 / FM466 / FA463" },
+            { title: "Size", text: "65mm (DN65)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Ductile Iron" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0JG92001J" },
+            { title: "Item Number", text: "FM463" },
+            { title: "Product Name", text: "CRANE FM463 65MM DOUBLE DOOR WAFER CHECK VALVE SS DISC DI PN16" },
+            { title: "Type", text: "Double Door Wafer Check Valve" },
+            { title: "Model Series", text: "FM463 / FM466 / FA463" },
+            { title: "Size", text: "65mm (DN65)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Ductile Iron" },
+            { title: "Disc Material", text: "Stainless Steel" },
+            { title: "Seat Material", text: "EPDM Rubber" },
+            { title: "Design Style", text: "Wafer / Non-Slam / Spring-Assisted" },
+            { title: "Application", text: "Pump duty; permits unidirectional flow and prevents reversal" },
+            { title: "Standards Compliance", text: "Design lends itself to pump duty applications" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG92002K",
+        overview: "CRANE FM463 80MM DOUBLE DOOR WAFER CHECK VALVE SS DISC DI PN16",
+        standardPrice: "295.20",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380056/Screenshot_2026-01-24_090126_tivjh5.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380062/image_fy0g00.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380048/image2_kc5fuu.png"
+        ],
+        about: [
+            "Automatically permits flow in one direction and prevents reversal based on system pressure and velocity.",
+            "Utilizes a spring-assisted closure and rubber seat to significantly reduce noise and prevent water hammer.",
+            "Features an EPDM rubber seat that improves disc seating and ensures quiet operation during closing.",
+            "Lightweight and space-saving construction specifically engineered for pump duty and space-restricted areas.",
+            "Built with a robust ductile iron body and corrosion-resistant stainless steel discs for a long service life.",
+            "Reliable performance in systems requiring a PN16 rating, conforming to standard industrial pressure requirements."
+        ],
+        description: "The Crane FM463 Double Door Wafer Check Valve is a specialized 80mm (DN80) valve designed for pump duty applications where preventing backflow is critical. This high-quality valve permits fluid to flow in only one direction and closes automatically if the flow reverses. It features a compact wafer-style design for space-efficient installation between flanges. To ensure long-term durability and quiet operation, it is constructed with a ductile iron body and stainless steel discs, complemented by an EPDM rubber seat that facilitates a non-slam, spring-assisted closure.",
+        bullets: [
+            "Check valves permit flow in one direction only and close automatically if flow reverses, depending upon pressure and velocity of flow to perform the functions of the opening and closing.",
+            "Non-Slam design as a result of rubber seat and spring-assisted closure.",
+            "EPDM rubber seat to facilitate quiet operation and improve disk seating.",
+            "Eyebolt tapped holes in sizes DN200 and above, to fit bolts to BS EN ISO 3226:2010 (eyebolts are not supplied with product).",
+            "Design and construction lends itself to pump duty applications"
+        ],
+        specs: [
+            { title: "Type", text: "Double Door Wafer Check Valve" },
+            { title: "Model Series", text: "FM463 / FM466 / FA463" },
+            { title: "Size", text: "80mm (DN80)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Ductile Iron" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0JG92002K" },
+            { title: "Item Number", text: "FM463" },
+            { title: "Product Name", text: "CRANE FM463 80MM DOUBLE DOOR WAFER CHECK VALVE SS DISC DI PN16" },
+            { title: "Type", text: "Double Door Wafer Check Valve" },
+            { title: "Model Series", text: "FM463 / FM466 / FA463" },
+            { title: "Size", text: "80mm (DN80)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Ductile Iron" },
+            { title: "Disc Material", text: "Stainless Steel" },
+            { title: "Seat Material", text: "EPDM Rubber" },
+            { title: "Connection Type", text: "Wafer (Fits between flanges)" },
+            { title: "Closing Mechanism", text: "Spring-Assisted / Non-Slam" },
+            { title: "Application", text: "Pump duty; backflow prevention and unidirectional flow control" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG92003L",
+        overview: "CRANE FM463 4\" DOUBLE DOOR WAFER CHECK VALVE SS DISC CI PN16",
+        standardPrice: "319.80",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380056/Screenshot_2026-01-24_090126_tivjh5.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380062/image_fy0g00.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380048/image2_kc5fuu.png"
+        ],
+        about: [
+            "Seamlessly permits unidirectional flow and prevents backflow based on system pressure and velocity.",
+            "Utilizes spring-assisted closure and an EPDM rubber seat to ensure quiet operation and eliminate pipe-damaging water hammer.",
+            "The EPDM rubber seat significantly improves the seal of the stainless steel discs for superior performance.",
+            "Specifically designed with a slim wafer profile to fit into tight spaces where traditional swing check valves may not fit.",
+            "Equipped with Stainless Steel discs to provide long-term durability and resistance to wear.",
+            "Design and construction are specifically tailored for the demanding environments of pump discharge lines."
+        ],
+        description: "The Crane FM463 Double Door Wafer Check Valve is a robust 4\" (DN100) valve engineered specifically for pump duty applications. This valve serves as a critical safety component by permitting fluid flow in a single direction and closing automatically upon flow reversal. Its wafer-style design is optimized for compact, space-saving installation between flanges. To ensure longevity and reliable performance, it features a Cast Iron body and high-grade Stainless Steel discs. The inclusion of an EPDM rubber seat and spring-assisted closure provides a \"non-slam\" operation, effectively preventing water hammer and ensuring quiet service in industrial and commercial piping systems.",
+        bullets: [
+            "Check valves permit flow in one direction only and close automatically if flow reverses, depending upon pressure and velocity of flow to perform the functions of the opening and closing.",
+            "Non-Slam design as a result of rubber seat and spring-assisted closure.",
+            "EPDM rubber seat to facilitate quiet operation and improve disk seating.",
+            "Eyebolt tapped holes in sizes DN200 and above, to fit bolts to BS EN ISO 3226:2010 (eyebolts are not supplied with product).",
+            "Design and construction lends itself to pump duty applications"
+        ],
+        specs: [
+            { title: "Type", text: "Double Door Wafer Check Valve" },
+            { title: "Model Series", text: "FM463 / FM466 / FA463" },
+            { title: "Size", text: "4 inch (DN100)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0JG92003L" },
+            { title: "Item Number", text: "FM463" },
+            { title: "Product Name", text: "CRANE FM463 4\" DOUBLE DOOR WAFER CHECK VALVE SS DISC CI PN16" },
+            { title: "Type", text: "Double Door Wafer Check Valve" },
+            { title: "Model Series", text: "FM463 / FM466 / FA463" },
+            { title: "Size", text: "4 inch (DN100)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+            { title: "Disc Material", text: "Stainless Steel (SS)" },
+            { title: "Seat Material", text: "EPDM Rubber" },
+            { title: "Connection Type", text: "Wafer (Fits between PN16 flanges)" },
+            { title: "Operating Mechanism", text: "Spring-Assisted / Non-Slam" },
+            { title: "Application", text: "Pump duty and backflow prevention" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG92004M",
+        overview: "CRANE FM463 5\" DOUBLE DOOR WAFER CHECK VALVE SS DISC CI PN16",
+        standardPrice: "423.20",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380056/Screenshot_2026-01-24_090126_tivjh5.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380062/image_fy0g00.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380048/image2_kc5fuu.png"
+        ],
+        about: [
+            "Seamlessly permits flow in one direction and provides rapid, automatic closure to prevent backflow.",
+            "Engineered with a spring-assisted closure and an EPDM rubber seat to ensure quiet performance and eliminate water hammer.",
+            "Features a compact and lightweight construction that fits easily between flanges, ideal for space-restricted pump rooms.",
+            "Built with a robust Cast Iron body and corrosion-resistant Stainless Steel discs for long-term service in industrial environments.",
+            "Specifically designed and constructed to meet the rigorous demands of pump discharge and suction lines.",
+            "The EPDM rubber seat facilitates a soft closure, improving disc seating and significantly reducing operational noise."
+        ],
+        description: "The Crane FM463 Double Door Wafer Check Valve is a high-performance 5\" (DN125) valve specifically designed for pump duty applications where preventing backflow is essential. This valve permits fluid to flow in a single direction and utilizes a spring-assisted, automatic closure mechanism to prevent reversal as soon as flow velocity decreases. Its slim wafer-style design allows for easy and compact installation between standard PN16 flanges. Constructed with a durable Cast Iron body and high-grade Stainless Steel discs, the valve features an EPDM rubber seat that ensures superior disc seating and quiet, non-slam operation, protecting the piping system from the damaging effects of water hammer.",
+        bullets: [
+            "Check valves permit flow in one direction only and close automatically if flow reverses, depending upon pressure and velocity of flow to perform the functions of the opening and closing.",
+            "Non-Slam design as a result of rubber seat and spring-assisted closure.",
+            "EPDM rubber seat to facilitate quiet operation and improve disk seating.",
+            "Eyebolt tapped holes in sizes DN200 and above, to fit bolts to BS EN ISO 3226:2010 (eyebolts are not supplied with product).",
+            "Design and construction lends itself to pump duty applications"
+        ],
+        specs: [
+            { title: "Type", text: "Double Door Wafer Check Valve" },
+            { title: "Model Series", text: "FM463 / FM466 / FA463" },
+            { title: "Size", text: "5 inch (DN125)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0JG92004M" },
+            { title: "Item Number", text: "FM463" },
+            { title: "Product Name", text: "CRANE FM463 5\" DOUBLE DOOR WAFER CHECK VALVE SS DISC CI PN16" },
+            { title: "Type", text: "Double Door Wafer Check Valve" },
+            { title: "Model Series", text: "FM463 / FM466 / FA463" },
+            { title: "Size", text: "5 inch (DN125)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+            { title: "Disc Material", text: "Stainless Steel (SS)" },
+            { title: "Seat Material", text: "EPDM Rubber" },
+            { title: "Connection Type", text: "Wafer (Fits between flanges)" },
+            { title: "Mechanism", text: "Spring-Assisted / Non-Slam" },
+            { title: "Application", text: "Pump duty, backflow prevention, and water hammer protection" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "0JG92005N",
+        overview: "CRANE FM463 6\" DOUBLE DOOR WAFER CHECK VALVE SS DISC CI PN16",
+        standardPrice: "599.40",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380056/Screenshot_2026-01-24_090126_tivjh5.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380062/image_fy0g00.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380048/image2_kc5fuu.png"
+        ],
+        about: [
+            "Seamlessly permits unidirectional flow and prevents backflow based on system pressure and velocity.",
+            "Utilizes spring-assisted closure and an EPDM rubber seat to ensure quiet operation and eliminate pipe-damaging water hammer.",
+            "The EPDM rubber seat significantly improves the seal of the stainless steel discs for superior performance.",
+            "Specifically designed with a slim wafer profile to fit into tight spaces where traditional swing check valves may not fit.",
+            "Equipped with Stainless Steel discs to provide long-term durability and resistance to wear.",
+            "Design and construction are specifically tailored for the demanding environments of pump discharge lines."
+        ],
+        description: "The Crane FM463 Double Door Wafer Check Valve is a high-performance 6\" (DN150) valve engineered specifically for pump duty applications. This valve serves as a critical safety component by permitting fluid flow in a single direction and closing automatically upon flow reversal. Its wafer-style design is optimized for compact, space-saving installation between flanges. To ensure longevity and reliable performance, it features a Cast Iron body and high-grade Stainless Steel discs. The inclusion of an EPDM rubber seat and spring-assisted closure provides a \"non-slam\" operation, effectively preventing water hammer and ensuring quiet service in industrial and commercial piping systems.",
+        bullets: [
+            "Check valves permit flow in one direction only and close automatically if flow reverses, depending upon pressure and velocity of flow to perform the functions of the opening and closing.",
+            "Non-Slam design as a result of rubber seat and spring-assisted closure.",
+            "EPDM rubber seat to facilitate quiet operation and improve disk seating.",
+            "Eyebolt tapped holes in sizes DN200 and above, to fit bolts to BS EN ISO 3226:2010 (eyebolts are not supplied with product).",
+            "Design and construction lends itself to pump duty applications"
+        ],
+        specs: [
+            { title: "Type", text: "Double Door Wafer Check Valve" },
+            { title: "Model Series", text: "FM463 / FM466 / FA463" },
+            { title: "Size", text: "6 inch (DN150)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+        ],
+        technical: [
+            { title: "Part Number", text: "0JG92005N" },
+            { title: "Item Number", text: "FM463" },
+            { title: "Product Name", text: "CRANE FM463 6\" DOUBLE DOOR WAFER CHECK VALVE SS DISC CI PN16" },
+            { title: "Type", text: "Double Door Wafer Check Valve" },
+            { title: "Model Series", text: "FM463 / FM466 / FA463" },
+            { title: "Size", text: "6 inch (DN150)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+            { title: "Disc Material", text: "Stainless Steel (SS)" },
+            { title: "Seat Material", text: "EPDM Rubber" },
+            { title: "Connection Type", text: "Wafer (Fits between PN16 flanges)" },
+            { title: "Operating Mechanism", text: "Spring-Assisted / Non-Slam" },
+            { title: "Application", text: "Pump duty and backflow prevention" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "80008989L",
+        overview: "CRANE FM63 2.1/2\" GATE VALVE HANDWHEEL OPERATED RF FLANGED CI BODY & WEDGE DISC PN16",
+        standardPrice: "657",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380148/90f65f53-42a1-4dba-b3f5-4ccb4e7bcbd6_ig1obv.png"
+        ],
+        about: [
+            "Specifically designed to offer the ultimate in dependable service with minimum pressure drop.",
+            "The non-rising stem configuration minimizes the height required for installation and operation.",
+            "Every valve is hydrostatically tested to BS EN 12266-1:2003 to ensure seat and body integrity.",
+            "Produced in strict accordance with BS EN 1171:2002 standards for cast iron gate valves.",
+            "Features a durable cast iron (CI) body and wedge disc suitable for PN16 pressure ratings.",
+            "Capable of operating in environments ranging from -10°C to 200°C (at reduced pressure)."
+        ],
+        description: "The Crane FM63 Cast Iron Gate Valve is a 2.1/2\" (DN65) flanged valve engineered for dependable service in applications where minimizing pressure drop is a primary requirement. This valve features a non-rising stem and an inside screw design, making it ideal for installations with limited vertical space. It is equipped with a wedge disc and operated via a sturdy handwheel. Manufactured in accordance with BS EN 1171:2002 and hydrostatically tested to BS EN 12266-1:2003, it ensures high reliability for water and neutral liquid systems.",
+        specs: [
+            { title: "Type", text: "Cast Iron Gate Valve" },
+            { title: "Model Series", text: "FM63" },
+            { title: "Size", text: "2.1/2 inch (DN65)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+        ],
+        technical: [
+            { title: "Part Number", text: "80008989L" },
+            { title: "Item Number", text: "FM63" },
+            { title: "Product Name", text: "CRANE FM63 2.1/2\" GATE VALVE HANDWHEEL OPERATED RF FLANGED CI BODY & WEDGE DISC PN16" },
+            { title: "Type", text: "Cast Iron Gate Valve" },
+            { title: "Model Series", text: "FM63" },
+            { title: "Size", text: "2.1/2 inch (DN65)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+            { title: "Disc Type", text: "Wedge Disc" },
+            { title: "Stem Type", text: "Non-Rising Stem / Inside Screw" },
+            { title: "Connection Type", text: "Flanged BS EN 1092-2: PN16 (RF - Raised Face)" },
+            { title: "Temperature Range", text: "-10 to 120°C at 16 bar; up to 200°C at 12.8 bar" },
+            { title: "Operator", text: "Handwheel" },
+            { title: "Standards Compliance", text: "BS EN 1171: 2002, BS EN 12266-1: 2003" },
+            { title: "Limitations", text: "Not suitable for Group 1 gases or unstable fluids (97/23/EC)" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "80008990D",
+        overview: "CRANE FM63 3\" GATE VALVE HANDWHEEL OPERATED RF FLANGED CI BODY & WEDGE DISC PN16",
+        standardPrice: "774.3",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380148/90f65f53-42a1-4dba-b3f5-4ccb4e7bcbd6_ig1obv.png"
+        ],
+        about: [
+            "Engineered to provide efficient flow with the ultimate in dependable service.",
+            "The non-rising stem design reduces the overall height required for operation, ideal for tight spaces.",
+            "Manufactured to BS EN 1171:2002 standards and hydrostatically tested for seat and body integrity.",
+            "Built with a high-strength cast iron (CI) body and wedge disc for long-term durability.",
+            "Rated for operation from -10°C to 120°C at 16 bar, and up to 200°C at 12.8 bar.",
+            "Features RF (Raised Face) flanged ends to BS EN 1092-2: PN16 for secure system integration."
+        ],
+        description: "The Crane FM63 Cast Iron Gate Valve is a 3\" (DN80) flanged valve designed for reliable service in systems where maintaining a low pressure drop is essential. It features an inside screw and a non-rising stem, which makes it particularly suitable for installations where vertical space is restricted. The valve is constructed with a durable cast iron body and wedge disc, operated via a handwheel. Every unit is manufactured in accordance with BS EN 1171:2002 and undergoes hydrostatic testing to BS EN 12266-1:2003 to ensure high performance and safety for water and neutral liquid applications.",
+        specs: [
+            { title: "Type", text: "Cast Iron Gate Valve" },
+            { title: "Model Series", text: "FM63" },
+            { title: "Size", text: "3 inch (DN80)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+        ],
+        technical: [
+            { title: "Part Number", text: "80008990D" },
+            { title: "Item Number", text: "FM63" },
+            { title: "Product Name", text: "CRANE FM63 3\" GATE VALVE HANDWHEEL OPERATED RF FLANGED CI BODY & WEDGE DISC PN16" },
+            { title: "Type", text: "Cast Iron Gate Valve" },
+            { title: "Model Series", text: "FM63" },
+            { title: "Size", text: "3 inch (DN80)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+            { title: "Disc Type", text: "Wedge Disc" },
+            { title: "Stem Configuration", text: "Non-Rising Stem / Inside Screw" },
+            { title: "Connection Type", text: "Flanged BS EN 1092-2: PN16 (RF)" },
+            { title: "Temperature Range", text: "-10 to 120°C at 16 bar; 200°C at 12.8 bar" },
+            { title: "Operator", text: "Handwheel" },
+            { title: "Standards Compliance", text: "BS EN 1171: 2002, BS EN 12266-1: 2003" },
+            { title: "Fluid Suitability", text: "Water and neutral liquids; not for Group 1 gases or unstable fluids" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "80008991E",
+        overview: "CRANE FM63 4\" GATE VALVE HANDWHEEL OPERATED RF FLANGED CI BODY & WEDGE DISC PN16",
+        standardPrice: "1132.20",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380148/90f65f53-42a1-4dba-b3f5-4ccb4e7bcbd6_ig1obv.png"
+        ],
+        about: [
+            "Expertly engineered to provide the ultimate in dependable service, specifically in systems where maintaining a low pressure drop is a critical requirement.",
+            "Utilizes an inside screw and non-rising stem design, making it the ideal choice for installations with restricted vertical space.",
+            "Manufactured in strict accordance with BS EN 1171: 2002 and hydrostatically tested to BS EN 12266-1: 2003 to ensure maximum seat and body integrity.",
+            "Features a high-strength cast iron (CI) body and wedge disc designed to handle PN16 pressure ratings reliably.",
+            "Equipped with RF (Raised Face) flanged ends conforming to BS EN 1092-2: PN16 for secure and stable system integration.",
+            "Rated for operation from -10°C to 120°C at 16 bar, and remains functional up to 200°C at a reduced pressure of 12.8 bar.",
+            "Comes standard with a sturdy handwheel for manual flow control and isolation."
+        ],
+        description: "PN16 Cast Iron Gate Valve",
+        bullets: [
+            "Crane cast iron gate valves offer the ultimate in dependable service wherever minimum pressure drop is important.",
+            "Each valve is manufactured in accordance with BS EN 1171: 2002",
+            "Hydrostatically tested to BS EN 12266-1: 2003"
+        ],
+        specs: [
+            { title: "Brand", text: "Crane" },
+            { title: "Size", text: "65mm to 300mm" },
+            { title: "Pressure rating", text: "PN16" },
+            { title: "Material", text: "Cast Iron" }
+        ],
+        technical: [
+            { title: "Size", text: "65mm to 300mm" },
+            { title: "Pressure rating", text: "PN16" },
+            { title: "End Connections", text: "Flanged BS EN 1092-2: PN16" },
+            { title: "Material", text: "Cast Iron" }
+
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "80008992F",
+        overview: "CRANE FM63 5\" GATE VALVE HANDWHEEL OPERATED RF FLANGED CI BODY & WEDGE DISC PN16",
+        standardPrice: "1613.3",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380148/90f65f53-42a1-4dba-b3f5-4ccb4e7bcbd6_ig1obv.png"
+        ],
+        about: [
+            "Engineered specifically to offer minimum pressure drop for highly efficient system performance.",
+            "The non-rising stem design ensures the valve maintains a constant height during operation, ideal for tight spaces.",
+            "Manufactured in accordance with BS EN 1171:2002 and hydrostatically tested for guaranteed safety and performance.",
+            "Built with high-quality cast iron (CI) for the body and wedge disc, rated for PN16 pressure.",
+            "Suitable for temperatures from -10°C to 120°C at 16 bar, and up to 200°C at 12.8 bar.",
+            "Features RF (Raised Face) flanged connections to BS EN 1092-2: PN16 for a reliable, leak-proof fit.",
+            "Equipped with a durable handwheel for easy manual isolation and flow control."
+        ],
+        description: "The Crane FM63 Cast Iron Gate Valve is a 5\" (DN125) flanged valve designed to provide the ultimate in dependable service, particularly in systems where minimizing pressure drop is a priority. This valve features an inside screw and a non-rising stem, making it an excellent choice for installations with limited vertical headroom. Constructed with a robust cast iron body and a wedge disc, it is operated via a sturdy handwheel. Every unit is manufactured to BS EN 1171:2002 standards and undergoes rigorous hydrostatic testing to BS EN 12266-1:2003 to ensure superior seat and body integrity.",
+        specs: [
+            { title: "Type", text: "Cast Iron Gate Valve" },
+            { title: "Model Series", text: "FM63" },
+            { title: "Size", text: "5 inch (DN125)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+        ],
+        technical: [
+            { title: "Part Number", text: "80008992F" },
+            { title: "Item Number", text: "FM63" },
+            { title: "Product Name", text: "CRANE FM63 5\" GATE VALVE HANDWHEEL OPERATED RF FLANGED CI BODY & WEDGE DISC PN16" },
+            { title: "Type", text: "Cast Iron Gate Valve" },
+            { title: "Model Series", text: "FM63" },
+            { title: "Size", text: "5 inch (DN125)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+            { title: "Disc Type", text: "Wedge Disc" },
+            { title: "Stem Configuration", text: "Non-Rising Stem / Inside Screw" },
+            { title: "Connection Type", text: "Flanged BS EN 1092-2: PN16 (RF)" },
+            { title: "Temperature Range", text: "-10 to 120°C at 16 bar; 200°C at 12.8 bar" },
+            { title: "Operator", text: "Handwheel" },
+            { title: "Standards Compliance", text: "BS EN 1171: 2002, BS EN 12266-1: 2003" },
+            { title: "Fluid Suitability", text: "Water and neutral liquids; not suitable for Group 1 gases" }
+        ]
+    },
+    {
+        categoryFilter: "crane",
+        category: "Crane Butterfly Valve",
+        partNumber: "80008993G",
+        overview: "CRANE FM63 6\" GATE VALVE HANDWHEEL OPERATED RF FLANGED CI BODY & WEDGE DISC PN16",
+        standardPrice: "2043.70",
+        brand: "CRANE",
+        images: [
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380148/90f65f53-42a1-4dba-b3f5-4ccb4e7bcbd6_ig1obv.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380257/image_dvmps5.png",
+            "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774380250/image2_biyy27.png"
+        ],
+        about: [
+            "Specially engineered to provide the ultimate in dependable service with minimum pressure drop.",
+            "The non-rising stem maintains a constant profile, making it the preferred choice for installations with restricted vertical space.",
+            "Manufactured in accordance with BS EN 1171:2002 and hydrostatically tested to ensure high performance and safety.",
+            "Features a high-strength cast iron (CI) body and wedge disc rated for PN16 pressure conditions.",
+            "Operates reliably from -10°C to 120°C at 16 bar, and remains functional up to 200°C at 12.8 bar.",
+            "Equipped with RF (Raised Face) flanged ends conforming to BS EN 1092-2: PN16 for secure system integration."
+        ],
+        description: "The Crane FM63 Cast Iron Gate Valve is a 6\" (DN150) flanged valve designed for heavy-duty service in systems where maintaining a low pressure drop is essential. It features a non-rising stem and inside screw configuration, which allows for a consistent height during operation—ideal for installations with limited vertical clearance. Constructed with a durable cast iron body and a wedge disc, it is operated manually via a sturdy handwheel. Every unit is manufactured to BS EN 1171:2002 standards and is hydrostatically tested to BS EN 12266-1:2003 to ensure maximum seat and body integrity.",
+        specs: [
+            { title: "Type", text: "Cast Iron Gate Valve" },
+            { title: "Model Series", text: "FM63" },
+            { title: "Size", text: "6 inch (DN150)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+        ],
+        technical: [
+            { title: "Part Number", text: "80008993G" },
+            { title: "Item Number", text: "FM63" },
+            { title: "Product Name", text: "CRANE FM63 6\" GATE VALVE HANDWHEEL OPERATED RF FLANGED CI BODY & WEDGE DISC PN16" },
+            { title: "Type", text: "Cast Iron Gate Valve" },
+            { title: "Model Series", text: "FM63" },
+            { title: "Size", text: "6 inch (DN150)" },
+            { title: "Pressure Rating", text: "PN16" },
+            { title: "Body Material", text: "Cast Iron (CI)" },
+            { title: "Disc Type", text: "Wedge Disc" },
+            { title: "Stem Configuration", text: "Non-Rising Stem / Inside Screw" },
+            { title: "Connection Type", text: "Flanged BS EN 1092-2: PN16 (RF)" },
+            { title: "Temperature Range", text: "-10 to 120°C at 16 bar; 200°C at 12.8 bar" },
+            { title: "Operator", text: "Handwheel" },
+            { title: "Standards Compliance", text: "BS EN 1171: 2002, BS EN 12266-1: 2003" },
+            { title: "Suitability", text: "Water and neutral liquids; Not for Group 1 gases or unstable fluids" }
+        ]
+    },
 ];
 const dewaltProducts = [
     // 1. D25133K-B5 - SDS Plus Hammer

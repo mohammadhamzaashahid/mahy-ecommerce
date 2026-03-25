@@ -26,12 +26,12 @@ async function Shop({ searchParams }) {
   // const t = await getTranslations("ShopPage");
 
   const topFilters = [
-    { key: "ariston", label: "Ariston", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam nesciunt ab", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769338670/Picture1_ld0xap.png" },
-    { key: "crane", label: "Crane", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam nesciunt ab", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769418510/valve_converted_xgfz0v.png" },
-    { key: "dewalt", label: "Dewalt Tools", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam nesciunt ab", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421634/61oaKFTEUJL._AC_SL1200__awsn9m.png" },
-    { key: "franklin", label: "Franklin Motors", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam nesciunt ab", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422322/Picture1_uvoma3.png" },
-    { key: "globalWater", label: "Global Water Solutions", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam nesciunt ab", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422636/Picture1_yiezev.png" },
-    { key: "grundfos", label: "Grundfos Pumps", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam nesciunt ab", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423150/Picture1_eivc8u.png" },
+    { key: "ariston", label: "Ariston", text: "Ariston provides reliable and efficient water heating solutions for residential and commercial use worldwide", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769338670/Picture1_ld0xap.png" },
+    { key: "crane", label: "Crane", text: " Crane manufactures durable industrial valves designed for fluid control across multiple industries and applications.", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769418510/valve_converted_xgfz0v.png" },
+    { key: "dewalt", label: "Dewalt Tools", text: "DeWalt produces high-performance power tools and accessories built for professionals in construction and manufacturing.", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769421634/61oaKFTEUJL._AC_SL1200__awsn9m.png" },
+    { key: "franklin", label: "Franklin Motors", text: "Franklin develops electric motors and drive systems for water, fuel, and industrial pumping solutions.", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422322/Picture1_uvoma3.png" },
+    { key: "globalWater", label: "Global Water Solutions", text: "Global Water Solutions offers pressure tanks and fluid storage systems for residential and industrial use", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769422636/Picture1_yiezev.png" },
+    { key: "grundfos", label: "Grundfos Pumps", text: "Grundfos designs advanced pump solutions focused on water circulation, energy efficiency, and sustainability", image: "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1769423150/Picture1_eivc8u.png" },
   ];
 
   const { items, cookieKey, stored, total, totalPages } = await getNewProducts(brand, Number(page), category, Number(price_min), Number(price_max), search);

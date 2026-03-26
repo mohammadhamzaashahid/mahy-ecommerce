@@ -2691,7 +2691,7 @@ const craneProducts = [
         category: "Crane Butterfly Valve",
         partNumber: "0JG90605Y",
         overview: "CRANE DM931 4\" VARIABLE ORIFICE DOUBLE REGULATING VALVE(VODRV) RF FLANGED Y-PATTERN WITH TEST POINT P84 PN16",
-        standardPrice: "",
+        standardPrice: "1362.1",
         brand: "CRANE",
         images: [
             "https://res.cloudinary.com/dpn6mdpxd/image/upload/v1774379834/76622dc5-9720-4174-9b86-47793945ca87_damytn.png",
